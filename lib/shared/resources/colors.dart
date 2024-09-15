@@ -7,6 +7,7 @@ class AppColors {
   static const dark3 = Color.fromRGBO(175, 175, 175, 1);
   static const dark4 = Color.fromRGBO(0, 0, 0, 0.1);
   static const Color color2D92F5FF = Color(0xFF2D92F5);
+  static const Color colorBlue = Color(0XFF176DA2);
   static const Color colorProcessBar = Color(0xFF084E79);
   static const Color colorF8F7F7 = Color(0xFFF8F7F7);
   static const Color color221818 = Color(0xFF221818);
@@ -15,4 +16,6 @@ class AppColors {
   static const Color colorB4ACAD = Color(0xFFB4ACAD);
   static const Color colorDB3E34 = Color(0xFFDB3E34);
   static const Color grey = Color(0xFF8D8C8C);
+
+  static const transparent = Colors.transparent;
 }
