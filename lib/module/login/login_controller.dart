@@ -31,17 +31,18 @@ class LoginController extends BBSBaseController {
 
   Future login({required Function() onSuccess}) async {
     final isValid = formKey.currentState?.validate();
-    if (isValid == true) {
-      final response = await _authRepository.login(
-          usernameController.text, passwordController.text);
-      if (response.statusCode == 200) {
-        LoginResponse loginResponse =
-            LoginResponse.fromJson(response.data['data']);
-        if (!(loginResponse.accessToken == null ||
-            loginResponse.accessToken!.isEmpty)) {
-          Shared.setAccessToken(loginResponse.accessToken!);
-        }
-      }
-    }
+    onSuccess();
+    // if (isValid == true) {
+    //   final response = await _authRepository.login(
+    //       usernameController.text, passwordController.text);
+    //   if (response.statusCode == 200) {
+    //     LoginResponse loginResponse =
+    //         LoginResponse.fromJson(response.data['data']);
+    //     if (!(loginResponse.accessToken == null ||
+    //         loginResponse.accessToken!.isEmpty)) {
+    //       Shared.setAccessToken(loginResponse.accessToken!);
+    //     }
+    //   }
+    // }
   }
 }

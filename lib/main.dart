@@ -29,7 +29,7 @@ main() async {
         builder: (context, globalController, child) {
           return MaterialApp(
             navigatorKey: globalKey,
-            initialRoute: AppRoutes.root,
+            initialRoute: AppRoutes.login,
             onGenerateRoute: AppRoutes.router.generator,
             debugShowCheckedModeBanner: false,
             home: startRouter(),

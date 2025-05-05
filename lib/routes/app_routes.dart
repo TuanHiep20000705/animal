@@ -12,7 +12,7 @@ class AppRoutes {
 
   static void init() {
     router.define(
-      root,
+      home,
       handler: Handler(
         handlerFunc: (context, params) => const HomeScreen(),
       ),
