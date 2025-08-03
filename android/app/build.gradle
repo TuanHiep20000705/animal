@@ -64,12 +64,12 @@ android {
     productFlavors {
         product {
             dimension "flavor"
-            applicationIdSuffix = ""
+            applicationIdSuffix = ".product"
             resValue "string", "app_name", "Base Project"
         }
-        home {
+        dev {
             dimension "flavor"
-            applicationIdSuffix = ".home"
+            applicationIdSuffix = ".dev"
             resValue "string", "app_name", "Base Project"
         }
     }
