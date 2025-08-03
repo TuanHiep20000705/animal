@@ -30,7 +30,7 @@ class AppConfig {
     }
     final packageInfo = await PackageInfo.fromPlatform();
     switch (packageInfo.packageName) {
-      case "com.example.base_project.product":
+      case "com.devmai.aianimal.animalidentifier.product":
         _current = EnvironmentType.product;
         break;
       default:
