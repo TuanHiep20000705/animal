@@ -3,7 +3,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:provider/provider.dart';
 import '../../shared/widgets/widgets.dart';
 import 'home_controller.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
@@ -25,7 +24,7 @@ class HomeScreen extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   BBSGesture(onTap: () { globalController.changeLanguage('vi'); },
-                  child: BBSText(content: AppLocalizations.of(context)!.language))
+                  child: BBSText(content: 'Home screen'))
                 ],
               ),
             ],

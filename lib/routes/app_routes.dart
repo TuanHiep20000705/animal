@@ -1,12 +1,14 @@
+import 'package:base_project/module/bottom_navigation_bar/bottom_nav_bar.dart';
+import 'package:base_project/module/scan/scan_screen.dart';
 import 'package:fluro/fluro.dart';
 
-import '../module/home/home_screen.dart';
 import '../module/login/login_screen.dart';
 
 class AppRoutes {
   static const root = '/';
   static const login = '/login';
   static const home = '/home';
+  static const scan = '/scan';
 
   static final router = FluroRouter();
 
@@ -14,7 +16,7 @@ class AppRoutes {
     router.define(
       home,
       handler: Handler(
-        handlerFunc: (context, params) => const HomeScreen(),
+        handlerFunc: (context, params) => const BottomNavBar(),
       ),
     );
 
@@ -22,6 +24,13 @@ class AppRoutes {
       login,
       handler: Handler(
         handlerFunc: (context, params) => const LoginScreen(),
+      ),
+    );
+
+    router.define(
+      scan,
+      handler: Handler(
+        handlerFunc: (context, params) => const ScanScreen(),
       ),
     );
   }

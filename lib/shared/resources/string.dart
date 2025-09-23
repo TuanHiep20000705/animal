@@ -20,3 +20,9 @@ const password = 'password';
 const String baseApp = 'BASE APP';
 const signIn = 'Sign In';
 const forgetPassword = 'Forget password';
+
+const String uploadOrCaptureRoom = 'Upload or Capture Room';
+const String getResult = 'Get Result';
+const String takeAnotherPhoto = 'Take Another Photo';
+const String aiIsAnalyzing = 'AI is analyzing';
+const String noInternetConnection = 'No Internet connection';

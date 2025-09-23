@@ -17,6 +17,7 @@ class BBSText extends StatelessWidget {
   final Decoration? decoration;
   final Function()? onTap;
   final double? width;
+  final String? fontFamily;
 
   const BBSText({
     Key? key,
@@ -35,7 +36,8 @@ class BBSText extends StatelessWidget {
     this.fontStyle,
     this.decoration,
     this.onTap,
-    this.width
+    this.width,
+    this.fontFamily
   }) : super(key: key);
 
   @override
@@ -57,7 +59,7 @@ class BBSText extends StatelessWidget {
             style: TextStyle(
               fontStyle: fontStyle,
               fontSize: fontSize ?? 20,
-              fontFamily:'Quicksand',
+              fontFamily: fontFamily ?? 'Quicksand',
               fontWeight: fontWeight ?? FontWeight.w400,
               color: color ?? AppColors.grey,
               height: lineHeight,

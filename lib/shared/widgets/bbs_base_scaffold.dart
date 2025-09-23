@@ -3,6 +3,7 @@ part of 'widgets.dart';
 class BBSBaseScaffold<T extends BBSBaseController> extends StatefulWidget {
   final T? controller;
   final Function(T controller)? initState;
+  final Function(T controller)? onDispose;
   final Widget? child;
   final Widget Function(T controller)? builder;
   final Future<bool> Function()? onWillPop;
@@ -11,12 +12,14 @@ class BBSBaseScaffold<T extends BBSBaseController> extends StatefulWidget {
   final Widget? bottomNavigationBar;
   final PreferredSizeWidget? appBar;
   final Widget? drawer;
+  final Color? backgroundColor;
   final GlobalKey<ScaffoldState>? scaffoldKey;
 
   const BBSBaseScaffold({
     super.key,
     this.controller,
     this.initState,
+    this.onDispose,
     this.child,
     this.builder,
     this.onWillPop,
@@ -25,6 +28,7 @@ class BBSBaseScaffold<T extends BBSBaseController> extends StatefulWidget {
     this.bottomNavigationBar,
     this.appBar,
     this.drawer,
+    this.backgroundColor,
     this.scaffoldKey
   });
 
@@ -41,6 +45,13 @@ class _BBSBaseScaffoldState<T extends BBSBaseController> extends State<BBSBaseSc
       });
     }
     super.initState();
+  }
+
+
+  @override
+  void dispose() {
+    widget.onDispose;
+    super.dispose();
   }
 
   @override
@@ -69,6 +80,7 @@ class _BBSBaseScaffoldState<T extends BBSBaseController> extends State<BBSBaseSc
           appBar: widget.appBar,
           drawer: widget.drawer,
           key: widget.scaffoldKey,
+          backgroundColor: widget.backgroundColor,
         ),
     );
   }
