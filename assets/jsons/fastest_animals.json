@@ -1,0 +1,779 @@
+[
+  {
+    "id": "fa80255c-df79-4e8b-9557-7008e7fcdd5f",
+    "imageData": "",
+    "animalInfo": {
+      "id": "ba2aeac2-8727-4a97-90be-bb36809cd698",
+      "CommonName": "Peregrine Falcon",
+      "ScientificName": "Falco peregrinus",
+      "OtherNames": [
+        "Duck Hawk"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Falconiformes",
+        "Family": "Falconidae",
+        "Genus": "Falco",
+        "Species": "peregrinus"
+      },
+      "Habitat": {
+        "Environment": "Cliffs, cities",
+        "Distribution": "Worldwide",
+        "Countries": [
+          "USA",
+          "UK",
+          "India",
+          "Australia"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "34–58 cm",
+        "Weight": "0.7–1.5 kg",
+        "Color": "Gray with white and black markings",
+        "Lifespan": "13–17 years",
+        "SpecialTraits": [
+          "Sharp vision",
+          "Streamlined body"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Birds",
+          "Small mammals"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Calls, body posture"
+      },
+      "Reproduction": {
+        "MaturityAge": "2 years",
+        "GestationPeriod": "29–32 days",
+        "OffspringPerBirth": "2–4",
+        "ReproductionCycle": "Annually"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Increasing",
+        "Threats": [
+          "Pesticides",
+          "Habitat loss"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Used in falconry"
+      },
+      "FunFacts": [
+        "Can reach speeds of 240–389 km/h when diving"
+      ]
+    },
+    "dateTime": "2025-07-11T09:32:23.593921",
+    "actionType": "explore"
+  },
+  {
+    "id": "b0d34d07-00ee-4105-82ef-4602a7a44960",
+    "imageData": "",
+    "animalInfo": {
+      "id": "b939d5e2-833e-4775-a1fb-a5f761f3270e",
+      "CommonName": "Cheetah",
+      "ScientificName": "Acinonyx jubatus",
+      "OtherNames": [
+        "Hunting Leopard"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Felidae",
+        "Genus": "Acinonyx",
+        "Species": "jubatus"
+      },
+      "Habitat": {
+        "Environment": "Grasslands",
+        "Distribution": "Africa, parts of Iran",
+        "Countries": [
+          "Namibia",
+          "Kenya",
+          "South Africa"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "1.1–1.5 meters",
+        "Weight": "35–65 kg",
+        "Color": "Yellow with black spots",
+        "Lifespan": "10–12 years",
+        "SpecialTraits": [
+          "Flexible spine",
+          "Large nostrils",
+          "Long legs"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Gazelles",
+          "Hares",
+          "Birds"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Solitary or small groups",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Chirps, purrs, growls"
+      },
+      "Reproduction": {
+        "MaturityAge": "2–3 years",
+        "GestationPeriod": "90–95 days",
+        "OffspringPerBirth": "3–5",
+        "ReproductionCycle": "1–2 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Vulnerable",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Habitat loss",
+          "Conflict with humans"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Medium",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Fastest land animal"
+      },
+      "FunFacts": [
+        "Can reach 112 km/h in short bursts"
+      ]
+    },
+    "dateTime": "2025-07-11T09:32:23.594227",
+    "actionType": "explore"
+  },
+  {
+    "id": "6ce39305-8294-44c7-9d62-2ffb08af7bc7",
+    "imageData": "",
+    "animalInfo": {
+      "id": "f161e0f2-9a52-4e6e-994d-87d7386cafc3",
+      "CommonName": "Brazilian Free-tailed Bat",
+      "ScientificName": "Tadarida brasiliensis",
+      "OtherNames": [
+        "Mexican Free-tailed Bat"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Chiroptera",
+        "Family": "Molossidae",
+        "Genus": "Tadarida",
+        "Species": "brasiliensis"
+      },
+      "Habitat": {
+        "Environment": "Caves, buildings",
+        "Distribution": "Americas",
+        "Countries": [
+          "USA",
+          "Brazil",
+          "Mexico"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "9–10 cm",
+        "Weight": "12–15 g",
+        "Color": "Dark brown",
+        "Lifespan": "8–10 years",
+        "SpecialTraits": [
+          "Long narrow wings",
+          "Echolocation"
+        ]
+      },
+      "Diet": {
+        "Type": "Insectivore",
+        "Foods": [
+          "Moths",
+          "Beetles",
+          "Flies"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Nocturnal",
+        "SocialType": "Colony",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Ultrasound calls"
+      },
+      "Reproduction": {
+        "MaturityAge": "1 year",
+        "GestationPeriod": "11–12 weeks",
+        "OffspringPerBirth": "1",
+        "ReproductionCycle": "Annually"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Stable",
+        "Threats": [
+          "Habitat disturbance"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Common",
+        "Notes": "Fastest flying mammal"
+      },
+      "FunFacts": [
+        "Can fly at 160 km/h"
+      ]
+    },
+    "dateTime": "2025-07-11T09:32:23.594773",
+    "actionType": "explore"
+  },
+  {
+    "id": "0a33ab45-0384-4a1b-85e1-a3e374844fcf",
+    "imageData": "",
+    "animalInfo": {
+      "id": "6742b8f5-ed8b-475f-b2bf-1d3ea77ded4d",
+      "CommonName": "Black Marlin",
+      "ScientificName": "Istiompax indica",
+      "OtherNames": [
+        "Indo-Pacific Black Marlin"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Actinopterygii",
+        "Order": "Istiophoriformes",
+        "Family": "Istiophoridae",
+        "Genus": "Istiompax",
+        "Species": "indica"
+      },
+      "Habitat": {
+        "Environment": "Open ocean",
+        "Distribution": "Indo-Pacific",
+        "Countries": [
+          "Australia",
+          "Indonesia",
+          "Philippines"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "2.5–4.5 meters",
+        "Weight": "200–750 kg",
+        "Color": "Blue-black",
+        "Lifespan": "10–15 years",
+        "SpecialTraits": [
+          "Streamlined body",
+          "Bill-like snout"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Fish",
+          "Squid"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "Low",
+        "Communication": "Estimated: Visual cues, possibly some sounds (like tail slaps or fin movements) for hunting or warning."
+      },
+      "Reproduction": {
+        "MaturityAge": "3–4 years",
+        "GestationPeriod": "Egg layer",
+        "OffspringPerBirth": "Millions (eggs)",
+        "ReproductionCycle": "Annually"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Data Deficient",
+        "PopulationTrend": "Estimated: Likely decreasing due to overfishing, but data is insufficient to confirm.",
+        "Threats": [
+          "Overfishing"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Fished",
+        "Notes": "One of the fastest fish"
+      },
+      "FunFacts": [
+        "Can swim up to 132 km/h"
+      ]
+    },
+    "dateTime": "2025-07-11T09:36:48.995053",
+    "actionType": "explore"
+  },
+  {
+    "id": "e7cd4181-ea49-4d3a-af36-82b0588b0113",
+    "imageData": "",
+    "animalInfo": {
+      "id": "731349d5-484c-4daa-874c-7ef88ac94df3",
+      "CommonName": "Sailfish",
+      "ScientificName": "Istiophorus platypterus",
+      "OtherNames": [
+        "Atlantic Sailfish"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Actinopterygii",
+        "Order": "Istiophoriformes",
+        "Family": "Istiophoridae",
+        "Genus": "Istiophorus",
+        "Species": "platypterus"
+      },
+      "Habitat": {
+        "Environment": "Warm ocean waters",
+        "Distribution": "Atlantic and Indian Oceans",
+        "Countries": [
+          "USA",
+          "Mexico",
+          "India",
+          "Sri Lanka"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "1.5–3.4 meters",
+        "Weight": "30–100 kg",
+        "Color": "Blue-gray",
+        "Lifespan": "4–10 years",
+        "SpecialTraits": [
+          "Dorsal sail",
+          "Pointed bill"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Smaller fish",
+          "Cephalopods"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Schooling occasionally",
+        "IntelligenceLevel": "Low",
+        "Communication": "Body signals"
+      },
+      "Reproduction": {
+        "MaturityAge": "2–3 years",
+        "GestationPeriod": "Egg layer",
+        "OffspringPerBirth": "Millions",
+        "ReproductionCycle": "Annually"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Stable",
+        "Threats": [
+          "Fishing"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Sport fish",
+        "Notes": "Extremely fast fish"
+      },
+      "FunFacts": [
+        "Speeds up to 110 km/h"
+      ]
+    },
+    "dateTime": "2025-07-11T09:36:48.995409",
+    "actionType": "explore"
+  },
+  {
+    "id": "0ecc8a26-dd0a-4eaf-927c-6f32f51d388c",
+    "imageData": "",
+    "animalInfo": {
+      "id": "412bf4bf-83a6-4841-865e-fe11f403883e",
+      "CommonName": "Pronghorn Antelope",
+      "ScientificName": "Antilocapra americana",
+      "OtherNames": [
+        "Pronghorn"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Antilocapridae",
+        "Genus": "Antilocapra",
+        "Species": "americana"
+      },
+      "Habitat": {
+        "Environment": "Grasslands, deserts",
+        "Distribution": "North America",
+        "Countries": [
+          "USA",
+          "Canada",
+          "Mexico"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "1.3–1.5 meters",
+        "Weight": "40–65 kg",
+        "Color": "Tan with white markings",
+        "Lifespan": "10–15 years",
+        "SpecialTraits": [
+          "Enlarged lungs",
+          "Efficient gait"
+        ]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": [
+          "Shrubs",
+          "Grasses",
+          "Forbs"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Herd",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Body signals, snorts"
+      },
+      "Reproduction": {
+        "MaturityAge": "1–2 years",
+        "GestationPeriod": "7–8 months",
+        "OffspringPerBirth": "1–2",
+        "ReproductionCycle": "Yearly"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Stable",
+        "Threats": [
+          "Habitat loss"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Second-fastest land animal"
+      },
+      "FunFacts": [
+        "Can sustain 88 km/h for long distances"
+      ]
+    },
+    "dateTime": "2025-07-11T09:36:48.995855",
+    "actionType": "explore"
+  },
+  {
+    "id": "9cb4e5a4-5e08-4ae9-a112-c447271e1b5c",
+    "imageData": "",
+    "animalInfo": {
+      "id": "546157c5-392d-485b-9069-b609fbb6ed45",
+      "CommonName": "Springbok",
+      "ScientificName": "Antidorcas marsupialis",
+      "OtherNames": [
+        "Springbuck"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Bovidae",
+        "Genus": "Antidorcas",
+        "Species": "marsupialis"
+      },
+      "Habitat": {
+        "Environment": "Savannas, deserts",
+        "Distribution": "Southern Africa",
+        "Countries": [
+          "South Africa",
+          "Namibia",
+          "Botswana"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "1.1–1.3 meters",
+        "Weight": "27–48 kg",
+        "Color": "Brown and white",
+        "Lifespan": "7–10 years",
+        "SpecialTraits": [
+          "Stiff-legged leaps",
+          "Speed bursts"
+        ]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": [
+          "Grasses",
+          "Leaves"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Herd",
+        "IntelligenceLevel": "Low",
+        "Communication": "Visual signals, scent"
+      },
+      "Reproduction": {
+        "MaturityAge": "1 year",
+        "GestationPeriod": "5–6 months",
+        "OffspringPerBirth": "1",
+        "ReproductionCycle": "Yearly"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Stable",
+        "Threats": [
+          "Habitat degradation"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Game animal",
+        "Notes": "Can reach speeds of 88 km/h"
+      },
+      "FunFacts": [
+        "Famous for 'pronking' jumps and fast escape"
+      ]
+    },
+    "dateTime": "2025-07-11T09:36:48.996340",
+    "actionType": "explore"
+  },
+  {
+    "id": "6a6b047f-7d33-4bdf-9fc5-ef224bc0cc7e",
+    "imageData": "",
+    "animalInfo": {
+      "id": "c08da208-2edb-40dc-ae77-91a74cf7e40f",
+      "CommonName": "Greyhound",
+      "ScientificName": "Canis lupus familiaris",
+      "OtherNames": [
+        "Greyhound Dog"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Canidae",
+        "Genus": "Canis",
+        "Species": "lupus familiaris"
+      },
+      "Habitat": {
+        "Environment": "Domesticated",
+        "Distribution": "Worldwide",
+        "Countries": [
+          "UK",
+          "USA",
+          "Australia"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "68–76 cm tall",
+        "Weight": "27–40 kg",
+        "Color": "Various",
+        "Lifespan": "10–14 years",
+        "SpecialTraits": [
+          "Lean body",
+          "Powerful legs"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Dog food",
+          "Meat"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Pack",
+        "IntelligenceLevel": "High",
+        "Communication": "Vocalizations, body language"
+      },
+      "Reproduction": {
+        "MaturityAge": "1 year",
+        "GestationPeriod": "2 months",
+        "OffspringPerBirth": "6–12",
+        "ReproductionCycle": "Yearly"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Domesticated",
+        "PopulationTrend": "Stable",
+        "Threats": []
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": true,
+        "LegalStatus": "Legal",
+        "Notes": "Used in dog racing"
+      },
+      "FunFacts": [
+        "Can run up to 72 km/h"
+      ]
+    },
+    "dateTime": "2025-07-11T09:39:34.332218",
+    "actionType": "explore"
+  },
+  {
+    "id": "1dca69ff-3408-4c66-b2ff-87f440d172a8",
+    "imageData": "",
+    "animalInfo": {
+      "id": "962a511c-3396-4d39-955b-6e710476a71e",
+      "CommonName": "Lion",
+      "ScientificName": "Panthera leo",
+      "OtherNames": [
+        "African Lion"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Felidae",
+        "Genus": "Panthera",
+        "Species": "leo"
+      },
+      "Habitat": {
+        "Environment": "Grasslands, savannas",
+        "Distribution": "Africa, small parts of India",
+        "Countries": [
+          "Kenya",
+          "Tanzania",
+          "South Africa",
+          "India"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "1.4–2 meters long",
+        "Weight": "120–250 kg",
+        "Color": "Tan",
+        "Lifespan": "10–14 years",
+        "SpecialTraits": [
+          "Mane",
+          "Strong jaw"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Zebra",
+          "Buffalo",
+          "Wildebeest"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Nocturnal",
+        "SocialType": "Pride",
+        "IntelligenceLevel": "High",
+        "Communication": "Roars, scent, gestures"
+      },
+      "Reproduction": {
+        "MaturityAge": "3–4 years",
+        "GestationPeriod": "3.5 months",
+        "OffspringPerBirth": "1–4",
+        "ReproductionCycle": "Year-round"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Vulnerable",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Habitat loss",
+          "Poaching"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "High",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Known as the king of the jungle"
+      },
+      "FunFacts": [
+        "Can run short bursts up to 80 km/h"
+      ]
+    },
+    "dateTime": "2025-07-11T09:39:34.332589",
+    "actionType": "explore"
+  },
+  {
+    "id": "a04ff2f9-9315-4588-b3cf-395ecee7c869",
+    "imageData": "",
+    "animalInfo": {
+      "id": "ffdbe566-1f4f-4fc1-a942-bf8639b906b4",
+      "CommonName": "Red Kangaroo",
+      "ScientificName": "Macropus rufus",
+      "OtherNames": [
+        "Great Red Kangaroo"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Diprotodontia",
+        "Family": "Macropodidae",
+        "Genus": "Macropus",
+        "Species": "rufus"
+      },
+      "Habitat": {
+        "Environment": "Grasslands, deserts",
+        "Distribution": "Australia",
+        "Countries": [
+          "Australia"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "1.3–1.6 meters",
+        "Weight": "55–90 kg",
+        "Color": "Reddish-brown",
+        "Lifespan": "12–18 years",
+        "SpecialTraits": [
+          "Strong hind legs",
+          "Long tail"
+        ]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": [
+          "Grasses",
+          "Shrubs"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Crepuscular",
+        "SocialType": "Mob",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Grunts, thumping"
+      },
+      "Reproduction": {
+        "MaturityAge": "2 years",
+        "GestationPeriod": "1 month",
+        "OffspringPerBirth": "1",
+        "ReproductionCycle": "Continuous"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Stable",
+        "Threats": [
+          "Climate change"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Fastest hopping animal"
+      },
+      "FunFacts": [
+        "Can hop at 70 km/h in short bursts"
+      ]
+    },
+    "dateTime": "2025-07-11T09:39:34.333295",
+    "actionType": "explore"
+  }
+]

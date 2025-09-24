@@ -1,0 +1,801 @@
+[
+  {
+    "id": "28fc70fe-3d65-49e5-9aa2-538164b265eb",
+    "imageData": "aW1hZ2U=",
+    "animalInfo": {
+      "id": "2b8ef4f3-50c0-4fe2-880e-8aa8102ce690",
+      "CommonName": "Blue Whale",
+      "ScientificName": "Balaenoptera musculus",
+      "OtherNames": [
+        "Sulphur-bottom whale"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cetacea",
+        "Family": "Balaenopteridae",
+        "Genus": "Balaenoptera",
+        "Species": "musculus"
+      },
+      "Habitat": {
+        "Environment": "Open ocean",
+        "Distribution": "Worldwide",
+        "Countries": [
+          "Global oceans"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "24–30 meters",
+        "Weight": "100–180 tons",
+        "Color": "Blue-gray",
+        "Lifespan": "70–90 years",
+        "SpecialTraits": [
+          "Largest animal ever known",
+          "Powerful heart and lungs"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Krill"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Any",
+        "SocialType": "Solitary or pairs",
+        "IntelligenceLevel": "High",
+        "Communication": "Low-frequency sounds"
+      },
+      "Reproduction": {
+        "MaturityAge": "10 years",
+        "GestationPeriod": "10–12 months",
+        "OffspringPerBirth": "1",
+        "ReproductionCycle": "2–3 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Endangered",
+        "PopulationTrend": "Increasing",
+        "Threats": [
+          "Ship strikes",
+          "Pollution",
+          "Climate change"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "None",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Largest animal on Earth"
+      },
+      "FunFacts": [
+        "Its heart is the size of a small car",
+        "Can be louder than a jet engine"
+      ]
+    },
+    "dateTime": "2025-07-11T09:13:09.303812",
+    "actionType": "explore"
+  },
+  {
+    "id": "3f38e4c8-1bdb-45f4-a8a0-c28b6c5e2952",
+    "imageData": "aW1hZ2U=",
+    "animalInfo": {
+      "id": "1bedffcf-5e2e-4552-a9cf-271cf5ed68ce",
+      "CommonName": "African Elephant",
+      "ScientificName": "Loxodonta africana",
+      "OtherNames": [
+        "Savanna Elephant"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Loxodonta",
+        "Species": "africana"
+      },
+      "Habitat": {
+        "Environment": "Grasslands, forests, and savannas",
+        "Distribution": "Sub-Saharan Africa",
+        "Countries": [
+          "Kenya",
+          "Tanzania",
+          "Botswana",
+          "South Africa"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "6–7.5 meters",
+        "Weight": "4,000–7,000 kg",
+        "Color": "Gray",
+        "Lifespan": "60–70 years",
+        "SpecialTraits": [
+          "Large ears",
+          "Trunk",
+          "Tusks"
+        ]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": [
+          "Grasses",
+          "Fruits",
+          "Bark"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Matriarchal groups",
+        "IntelligenceLevel": "Very high",
+        "Communication": "Low rumbles, seismic signals"
+      },
+      "Reproduction": {
+        "MaturityAge": "10–12 years",
+        "GestationPeriod": "22 months",
+        "OffspringPerBirth": "1",
+        "ReproductionCycle": "4–5 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Vulnerable",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Poaching",
+          "Habitat loss"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Moderate",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Largest land mammal"
+      },
+      "FunFacts": [
+        "Can drink 200 liters of water a day",
+        "Tusks are modified incisors"
+      ]
+    },
+    "dateTime": "2025-07-11T09:13:09.303812",
+    "actionType": "explore"
+  },
+  {
+    "id": "261f60ba-85e4-426e-9f10-c264b1f3b46e",
+    "imageData": "",
+    "animalInfo": {
+      "id": "01ab825e-3844-4513-9cef-83fe956df453",
+      "CommonName": "Giraffe",
+      "ScientificName": "Giraffa camelopardalis",
+      "OtherNames": [
+        "Northern giraffe"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Giraffidae",
+        "Genus": "Giraffa",
+        "Species": "camelopardalis"
+      },
+      "Habitat": {
+        "Environment": "Savannas and woodlands",
+        "Distribution": "Sub-Saharan Africa",
+        "Countries": [
+          "Kenya",
+          "Tanzania",
+          "South Africa"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "4.5–6 meters",
+        "Weight": "800–1,200 kg",
+        "Color": "Spotted brown and cream",
+        "Lifespan": "25 years",
+        "SpecialTraits": [
+          "Longest neck of any animal",
+          "Tallest land animal"
+        ]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": [
+          "Leaves",
+          "Twigs",
+          "Fruits"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Loose herds",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Infrasound and snorts"
+      },
+      "Reproduction": {
+        "MaturityAge": "4–6 years",
+        "GestationPeriod": "15 months",
+        "OffspringPerBirth": "1",
+        "ReproductionCycle": "1.5–2 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Vulnerable",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Habitat loss",
+          "Poaching"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Tourism icon in Africa"
+      },
+      "FunFacts": [
+        "A giraffe’s kick can kill a lion",
+        "They have the same number of neck vertebrae as humans"
+      ]
+    },
+    "dateTime": "2025-07-11T09:18:40.832817",
+    "actionType": "explore"
+  },
+  {
+    "id": "2bfac20e-0328-4987-8136-9234d29452fb",
+    "imageData": "",
+    "animalInfo": {
+      "id": "e5521c66-c188-45e3-9f53-a0ed27a1bcdb",
+      "CommonName": "Saltwater Crocodile",
+      "ScientificName": "Crocodylus porosus",
+      "OtherNames": [
+        "Saltie"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Reptilia",
+        "Order": "Crocodylia",
+        "Family": "Crocodylidae",
+        "Genus": "Crocodylus",
+        "Species": "porosus"
+      },
+      "Habitat": {
+        "Environment": "Estuaries, coastal waters",
+        "Distribution": "Southeast Asia, Australia",
+        "Countries": [
+          "Australia",
+          "Indonesia",
+          "India"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "4–7 meters",
+        "Weight": "400–1,000 kg",
+        "Color": "Dark olive",
+        "Lifespan": "70 years",
+        "SpecialTraits": [
+          "Strongest bite force",
+          "Excellent swimmer"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Fish",
+          "Birds",
+          "Mammals"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Nocturnal",
+        "SocialType": "Territorial",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Hisses, growls"
+      },
+      "Reproduction": {
+        "MaturityAge": "10–12 years",
+        "GestationPeriod": "80–90 days",
+        "OffspringPerBirth": "40–60 eggs",
+        "ReproductionCycle": "Annual"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Stable",
+        "Threats": [
+          "Habitat destruction",
+          "Illegal hunting"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "High",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Most dangerous crocodile species"
+      },
+      "FunFacts": [
+        "Can leap vertically from water",
+        "Largest living reptile"
+      ]
+    },
+    "dateTime": "2025-07-11T09:18:40.832817",
+    "actionType": "explore"
+  },
+  {
+    "id": "153d5ae6-1936-4bc5-b28c-b6aa4c196921",
+    "imageData": "",
+    "animalInfo": {
+      "id": "b0e69bc9-93c6-4207-9071-071a84eb7cb5",
+      "CommonName": "Whale Shark",
+      "ScientificName": "Rhincodon typus",
+      "OtherNames": [
+        "Domino fish"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Chondrichthyes",
+        "Order": "Orectolobiformes",
+        "Family": "Rhincodontidae",
+        "Genus": "Rhincodon",
+        "Species": "typus"
+      },
+      "Habitat": {
+        "Environment": "Tropical oceans",
+        "Distribution": "Global",
+        "Countries": [
+          "Philippines",
+          "Mexico",
+          "Australia"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "10–12 meters",
+        "Weight": "15–20 tons",
+        "Color": "Gray with white spots",
+        "Lifespan": "70 years",
+        "SpecialTraits": [
+          "Largest fish",
+          "Filter feeder"
+        ]
+      },
+      "Diet": {
+        "Type": "Filter feeder",
+        "Foods": [
+          "Plankton",
+          "Small fish"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "Unknown",
+        "Communication": "Silent"
+      },
+      "Reproduction": {
+        "MaturityAge": "25–30 years",
+        "GestationPeriod": "Uncertain",
+        "OffspringPerBirth": "Up to 300",
+        "ReproductionCycle": "Unknown"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Endangered",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Fishing",
+          "Ship collisions"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "None",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Gentle ocean giant"
+      },
+      "FunFacts": [
+        "Its mouth can be 1.5 meters wide",
+        "Can dive over 1,000 meters"
+      ]
+    },
+    "dateTime": "2025-07-11T09:18:40.832817",
+    "actionType": "explore"
+  },
+  {
+    "id": "645de18d-bf70-4612-81ce-6524d0f30d78",
+    "imageData": "",
+    "animalInfo": {
+      "id": "deab4840-8d8a-4c1c-9861-f64da45435bf",
+      "CommonName": "Brown Bear",
+      "ScientificName": "Ursus arctos",
+      "OtherNames": [
+        "Grizzly bear",
+        "Kodiak bear"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Ursidae",
+        "Genus": "Ursus",
+        "Species": "arctos"
+      },
+      "Habitat": {
+        "Environment": "Forests, tundra, mountains",
+        "Distribution": "North America, Europe, Asia",
+        "Countries": [
+          "USA",
+          "Russia",
+          "Canada"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "2.5–3 meters",
+        "Weight": "270–700 kg",
+        "Color": "Brown",
+        "Lifespan": "20–30 years",
+        "SpecialTraits": [
+          "Large paws",
+          "Powerful muscles"
+        ]
+      },
+      "Diet": {
+        "Type": "Omnivore",
+        "Foods": [
+          "Fish",
+          "Berries",
+          "Insects",
+          "Mammals"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "High",
+        "Communication": "Growls, grunts, body language"
+      },
+      "Reproduction": {
+        "MaturityAge": "5 years",
+        "GestationPeriod": "6–8 months",
+        "OffspringPerBirth": "1–3",
+        "ReproductionCycle": "Every 2–3 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Stable",
+        "Threats": [
+          "Habitat loss",
+          "Human conflict"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "High",
+        "PetFriendly": false,
+        "LegalStatus": "Varies by region",
+        "Notes": "Can be aggressive"
+      },
+      "FunFacts": [
+        "Can run up to 40 km/h",
+        "Kodiak bears rival polar bears in size"
+      ]
+    },
+    "dateTime": "2025-07-11T09:18:40.832817",
+    "actionType": "explore"
+  },
+  {
+    "id": "64b6c255-1d2e-4bf0-b78c-4a76e6b73588",
+    "imageData": "",
+    "animalInfo": {
+      "id": "13e922ef-3347-41f7-ab94-5d907789a4e7",
+      "CommonName": "Ostrich",
+      "ScientificName": "Struthio camelus",
+      "OtherNames": [
+        "Common ostrich"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Struthioniformes",
+        "Family": "Struthionidae",
+        "Genus": "Struthio",
+        "Species": "camelus"
+      },
+      "Habitat": {
+        "Environment": "Savannas, deserts",
+        "Distribution": "Africa",
+        "Countries": [
+          "South Africa",
+          "Namibia",
+          "Kenya"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "2.1–2.8 meters",
+        "Weight": "90–130 kg",
+        "Color": "Black and white",
+        "Lifespan": "40–45 years",
+        "SpecialTraits": [
+          "Fastest bird",
+          "Largest bird"
+        ]
+      },
+      "Diet": {
+        "Type": "Omnivore",
+        "Foods": [
+          "Plants",
+          "Insects",
+          "Seeds"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Groups",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Booms, hisses, gestures"
+      },
+      "Reproduction": {
+        "MaturityAge": "2–4 years",
+        "GestationPeriod": "42 days",
+        "OffspringPerBirth": "10–12 eggs",
+        "ReproductionCycle": "Annually"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Stable",
+        "Threats": [
+          "Hunting",
+          "Habitat loss"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Farmed & wild",
+        "Notes": "Used for meat, leather"
+      },
+      "FunFacts": [
+        "Can run over 70 km/h",
+        "Eyes are bigger than its brain"
+      ]
+    },
+    "dateTime": "2025-07-11T09:18:40.832817",
+    "actionType": "explore"
+  },
+  {
+    "id": "c5aecccd-4298-4839-a071-a503833838ff",
+    "imageData": "",
+    "animalInfo": {
+      "id": "9de4652c-ce02-4088-9c9d-df192e0edb03",
+      "CommonName": "Southern Elephant Seal",
+      "ScientificName": "Mirounga leonina",
+      "OtherNames": [
+        "Sea elephant"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Phocidae",
+        "Genus": "Mirounga",
+        "Species": "leonina"
+      },
+      "Habitat": {
+        "Environment": "Sub-Antarctic beaches",
+        "Distribution": "Southern Hemisphere",
+        "Countries": [
+          "Argentina",
+          "South Georgia",
+          "Antarctica"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "4–6 meters",
+        "Weight": "2,200–4,000 kg",
+        "Color": "Gray-brown",
+        "Lifespan": "20 years",
+        "SpecialTraits": [
+          "Largest seal species",
+          "Distinctive trunk-like nose"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Fish",
+          "Squid"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Nocturnal",
+        "SocialType": "Colonial",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Vocalizations and body displays"
+      },
+      "Reproduction": {
+        "MaturityAge": "3–5 years",
+        "GestationPeriod": "11 months",
+        "OffspringPerBirth": "1",
+        "ReproductionCycle": "Annual"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Stable",
+        "Threats": [
+          "Climate change",
+          "Habitat disturbance"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Medium",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Rarely aggressive to humans"
+      },
+      "FunFacts": [
+        "Can dive over 1,500 meters",
+        "Hold breath up to 2 hours"
+      ]
+    },
+    "dateTime": "2025-07-11T09:21:42.609116",
+    "actionType": "explore"
+  },
+  {
+    "id": "c962a0ad-ac0c-4f3b-b4c6-b04968db9a69",
+    "imageData": "",
+    "animalInfo": {
+      "id": "22a2b80a-954d-44bf-9f7f-6fc28ce6bfa5",
+      "CommonName": "Giant Squid",
+      "ScientificName": "Architeuthis dux",
+      "OtherNames": [
+        "Kraken"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Mollusca",
+        "Class": "Cephalopoda",
+        "Order": "Teuthida",
+        "Family": "Architeuthidae",
+        "Genus": "Architeuthis",
+        "Species": "dux"
+      },
+      "Habitat": {
+        "Environment": "Deep oceans",
+        "Distribution": "Worldwide",
+        "Countries": [
+          "New Zealand",
+          "Japan",
+          "Norway"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "10–13 meters",
+        "Weight": "200–300 kg",
+        "Color": "Reddish",
+        "Lifespan": "5 years",
+        "SpecialTraits": [
+          "Large eyes",
+          "Tentacles with hooks"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Fish",
+          "Other squids"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Unknown",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "Unknown",
+        "Communication": "Unknown"
+      },
+      "Reproduction": {
+        "MaturityAge": "1–3 years",
+        "GestationPeriod": "Unknown",
+        "OffspringPerBirth": "Thousands of eggs",
+        "ReproductionCycle": "Unknown"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Data Deficient",
+        "PopulationTrend": "Unknown",
+        "Threats": [
+          "Bycatch",
+          "Deep sea pollution"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Unregulated",
+        "Notes": "Rarely encountered"
+      },
+      "FunFacts": [
+        "Eyes are the size of basketballs",
+        "Rarely seen alive"
+      ]
+    },
+    "dateTime": "2025-07-11T09:21:42.609116",
+    "actionType": "explore"
+  },
+  {
+    "id": "7a5712ff-0bb6-4152-8a5e-1089377451dc",
+    "imageData": "",
+    "animalInfo": {
+      "id": "11d25c03-ec8c-492a-86ed-da6d3ec839c2",
+      "CommonName": "Polar Bear",
+      "ScientificName": "Ursus maritimus",
+      "OtherNames": [
+        "Ice bear",
+        "Sea bear"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Ursidae",
+        "Genus": "Ursus",
+        "Species": "maritimus"
+      },
+      "Habitat": {
+        "Environment": "Arctic sea ice",
+        "Distribution": "Circumpolar Arctic",
+        "Countries": [
+          "Canada",
+          "Russia",
+          "Norway"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "2.4–3 meters",
+        "Weight": "350–700 kg",
+        "Color": "White or creamy",
+        "Lifespan": "25–30 years",
+        "SpecialTraits": [
+          "Thick fur",
+          "Excellent swimmer"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Seals",
+          "Whales",
+          "Fish"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "High",
+        "Communication": "Growls, snorts, scent marking"
+      },
+      "Reproduction": {
+        "MaturityAge": "4–5 years",
+        "GestationPeriod": "8 months",
+        "OffspringPerBirth": "1–2",
+        "ReproductionCycle": "Every 2–3 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Vulnerable",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Climate change",
+          "Pollution"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "High",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Can be dangerous when hungry"
+      },
+      "FunFacts": [
+        "Have black skin under their fur",
+        "Can swim for days without rest"
+      ]
+    },
+    "dateTime": "2025-07-11T09:21:42.609116",
+    "actionType": "explore"
+  }
+]

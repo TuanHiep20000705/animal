@@ -1,0 +1,781 @@
+[
+  {
+    "CommonName": "Chimpanzee",
+    "ScientificName": "Pan troglodytes",
+    "OtherNames": [
+      "Chimp"
+    ],
+    "Classification": {
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Mammalia",
+      "Order": "Primates",
+      "Family": "Hominidae",
+      "Genus": "Pan",
+      "Species": "troglodytes"
+    },
+    "Habitat": {
+      "Environment": "Tropical forests",
+      "Distribution": "Central and West Africa",
+      "Countries": [
+        "Gabon",
+        "Democratic Republic of Congo",
+        "Uganda"
+      ]
+    },
+    "PhysicalTraits": {
+      "Size": "1\u20131.7 meters",
+      "Weight": "40\u201360 kg",
+      "Color": "Black or dark brown",
+      "Lifespan": "40\u201350 years",
+      "SpecialTraits": [
+        "Opposable thumbs",
+        "Facial expressions"
+      ]
+    },
+    "Diet": {
+      "Type": "Omnivore",
+      "Foods": [
+        "Fruits",
+        "Leaves",
+        "Insects",
+        "Meat"
+      ]
+    },
+    "Behavior": {
+      "ActivityTime": "Diurnal",
+      "SocialType": "Highly social",
+      "IntelligenceLevel": "Very High",
+      "Communication": "Gestures, vocalizations, facial expressions"
+    },
+    "Reproduction": {
+      "MaturityAge": "13 years",
+      "GestationPeriod": "230 days",
+      "OffspringPerBirth": "1",
+      "ReproductionCycle": "3\u20135 years"
+    },
+    "ConservationStatus": {
+      "IUCNStatus": "Endangered",
+      "PopulationTrend": "Decreasing",
+      "Threats": [
+        "Habitat loss",
+        "Poaching",
+        "Disease"
+      ]
+    },
+    "HumanInteraction": {
+      "DangerLevel": "Medium",
+      "PetFriendly": false,
+      "LegalStatus": "Protected",
+      "Notes": "Used in cognitive research"
+    },
+    "FunFacts": [
+      "Use tools to get food",
+      "Can learn sign language"
+    ]
+  },
+  {
+    "CommonName": "Dolphin",
+    "ScientificName": "Delphinidae",
+    "OtherNames": [
+      "Bottlenose dolphin"
+    ],
+    "Classification": {
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Mammalia",
+      "Order": "Cetacea",
+      "Family": "Delphinidae",
+      "Genus": "Tursiops",
+      "Species": "truncatus"
+    },
+    "Habitat": {
+      "Environment": "Marine",
+      "Distribution": "Global oceans",
+      "Countries": [
+        "USA",
+        "Australia",
+        "New Zealand"
+      ]
+    },
+    "PhysicalTraits": {
+      "Size": "2\u20134 meters",
+      "Weight": "150\u2013650 kg",
+      "Color": "Gray",
+      "Lifespan": "40\u201360 years",
+      "SpecialTraits": [
+        "Echolocation",
+        "Complex brain"
+      ]
+    },
+    "Diet": {
+      "Type": "Carnivore",
+      "Foods": [
+        "Fish",
+        "Squid"
+      ]
+    },
+    "Behavior": {
+      "ActivityTime": "All day",
+      "SocialType": "Pods",
+      "IntelligenceLevel": "Very High",
+      "Communication": "Clicks, whistles, body language"
+    },
+    "Reproduction": {
+      "MaturityAge": "5\u201313 years",
+      "GestationPeriod": "12 months",
+      "OffspringPerBirth": "1",
+      "ReproductionCycle": "Every 3\u20136 years"
+    },
+    "ConservationStatus": {
+      "IUCNStatus": "Least Concern",
+      "PopulationTrend": "Stable",
+      "Threats": [
+        "Fishing nets",
+        "Pollution"
+      ]
+    },
+    "HumanInteraction": {
+      "DangerLevel": "Low",
+      "PetFriendly": false,
+      "LegalStatus": "Regulated",
+      "Notes": "Used in therapy and military"
+    },
+    "FunFacts": [
+      "Recognize themselves in mirrors",
+      "Name each other"
+    ]
+  },
+  {
+    "CommonName": "Elephant",
+    "ScientificName": "Loxodonta africana",
+    "OtherNames": [
+      "African elephant"
+    ],
+    "Classification": {
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Mammalia",
+      "Order": "Proboscidea",
+      "Family": "Elephantidae",
+      "Genus": "Loxodonta",
+      "Species": "africana"
+    },
+    "Habitat": {
+      "Environment": "Savannahs",
+      "Distribution": "Sub-Saharan Africa",
+      "Countries": [
+        "Botswana",
+        "Kenya",
+        "South Africa"
+      ]
+    },
+    "PhysicalTraits": {
+      "Size": "6\u20137.5 meters",
+      "Weight": "4,000\u20136,000 kg",
+      "Color": "Gray",
+      "Lifespan": "60\u201370 years",
+      "SpecialTraits": [
+        "Large ears",
+        "Long trunk",
+        "Tusks"
+      ]
+    },
+    "Diet": {
+      "Type": "Herbivore",
+      "Foods": [
+        "Grass",
+        "Leaves",
+        "Fruit"
+      ]
+    },
+    "Behavior": {
+      "ActivityTime": "Diurnal",
+      "SocialType": "Herds",
+      "IntelligenceLevel": "Very High",
+      "Communication": "Trumpets, rumbling, gestures"
+    },
+    "Reproduction": {
+      "MaturityAge": "10\u201315 years",
+      "GestationPeriod": "22 months",
+      "OffspringPerBirth": "1",
+      "ReproductionCycle": "4\u20135 years"
+    },
+    "ConservationStatus": {
+      "IUCNStatus": "Endangered",
+      "PopulationTrend": "Decreasing",
+      "Threats": [
+        "Poaching",
+        "Habitat destruction"
+      ]
+    },
+    "HumanInteraction": {
+      "DangerLevel": "High",
+      "PetFriendly": false,
+      "LegalStatus": "Protected",
+      "Notes": "Used in tourism and ceremonies"
+    },
+    "FunFacts": [
+      "Mourn their dead",
+      "Have great memory"
+    ]
+  },
+  {
+    "id": "c1db9939-bc2c-44ca-b32c-237c86f91c2a",
+    "imageData": "",
+    "animalInfo": {
+      "id": "519dacae-5fc1-4083-9b00-f9643c74d9dd",
+      "CommonName": "African Grey Parrot",
+      "ScientificName": "Psittacus erithacus",
+      "OtherNames": [
+        "Grey Parrot"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Psittaciformes",
+        "Family": "Psittacidae",
+        "Genus": "Psittacus",
+        "Species": "erithacus"
+      },
+      "Habitat": {
+        "Environment": "Rainforests",
+        "Distribution": "Central Africa",
+        "Countries": [
+          "Gabon",
+          "Congo",
+          "Ivory Coast"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "33 cm",
+        "Weight": "400 g",
+        "Color": "Grey with red tail",
+        "Lifespan": "40\u201360 years",
+        "SpecialTraits": [
+          "Advanced vocal mimicry",
+          "High cognition"
+        ]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": [
+          "Seeds",
+          "Fruits",
+          "Nuts"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Flocks",
+        "IntelligenceLevel": "High",
+        "Communication": "Mimicry, squawks, whistles"
+      },
+      "Reproduction": {
+        "MaturityAge": "4 years",
+        "GestationPeriod": "30 days",
+        "OffspringPerBirth": "2\u20134",
+        "ReproductionCycle": "Annually"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Endangered",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Pet trade",
+          "Habitat loss"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": true,
+        "LegalStatus": "Regulated",
+        "Notes": "Famous for speech learning"
+      },
+      "FunFacts": [
+        "Can learn hundreds of words",
+        "Understand abstract concepts"
+      ]
+    },
+    "dateTime": "2025-07-11T09:26:10.756127",
+    "actionType": "explore"
+  },
+  {
+    "id": "bdbadd3d-0274-4a39-8359-8990b6405dd6",
+    "imageData": "",
+    "animalInfo": {
+      "id": "e7972cd4-0678-4e89-bf52-92ad9553b46a",
+      "CommonName": "Crow",
+      "ScientificName": "Corvus",
+      "OtherNames": [
+        "Common Crow"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Corvidae",
+        "Genus": "Corvus",
+        "Species": "corax"
+      },
+      "Habitat": {
+        "Environment": "Urban, forests",
+        "Distribution": "Worldwide",
+        "Countries": [
+          "USA",
+          "UK",
+          "Japan"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "40\u201350 cm",
+        "Weight": "300\u2013600 g",
+        "Color": "Black",
+        "Lifespan": "10\u201320 years",
+        "SpecialTraits": [
+          "Tool use",
+          "Problem-solving"
+        ]
+      },
+      "Diet": {
+        "Type": "Omnivore",
+        "Foods": [
+          "Insects",
+          "Seeds",
+          "Trash",
+          "Small animals"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Groups",
+        "IntelligenceLevel": "High",
+        "Communication": "Caws, mimicry"
+      },
+      "Reproduction": {
+        "MaturityAge": "2 years",
+        "GestationPeriod": "20 days",
+        "OffspringPerBirth": "3\u20136",
+        "ReproductionCycle": "Annually"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Stable",
+        "Threats": [
+          "None significant"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Common",
+        "Notes": "Can solve puzzles and use logic"
+      },
+      "FunFacts": [
+        "Can recognize faces",
+        "Use traffic to crack nuts"
+      ]
+    },
+    "dateTime": "2025-07-11T09:26:10.756127",
+    "actionType": "explore"
+  },
+  {
+    "id": "2a415328-1f84-4338-aa20-17e1774c455b",
+    "imageData": "",
+    "animalInfo": {
+      "id": "3336c210-635b-40b8-a592-2aef0557afb1",
+      "CommonName": "Pig",
+      "ScientificName": "Sus scrofa domesticus",
+      "OtherNames": [
+        "Domestic Pig"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Suidae",
+        "Genus": "Sus",
+        "Species": "scrofa"
+      },
+      "Habitat": {
+        "Environment": "Farms",
+        "Distribution": "Worldwide",
+        "Countries": [
+          "USA",
+          "China",
+          "Germany"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "1\u20131.8 meters",
+        "Weight": "50\u2013350 kg",
+        "Color": "Pink, brown, black",
+        "Lifespan": "15\u201320 years",
+        "SpecialTraits": [
+          "Highly trainable",
+          "Excellent memory"
+        ]
+      },
+      "Diet": {
+        "Type": "Omnivore",
+        "Foods": [
+          "Grains",
+          "Fruits",
+          "Vegetables",
+          "Meat"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Groups",
+        "IntelligenceLevel": "High",
+        "Communication": "Grunts, squeals, body language"
+      },
+      "Reproduction": {
+        "MaturityAge": "6 months",
+        "GestationPeriod": "114 days",
+        "OffspringPerBirth": "6\u201312",
+        "ReproductionCycle": "2\u20133 times/year"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Domesticated",
+        "PopulationTrend": "Stable",
+        "Threats": []
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": true,
+        "LegalStatus": "Domesticated",
+        "Notes": "Used in cognition studies"
+      },
+      "FunFacts": [
+        "Smarter than dogs",
+        "Can play video games"
+      ]
+    },
+    "dateTime": "2025-07-11T09:26:10.756127",
+    "actionType": "explore"
+  },
+  {
+    "id": "9d239281-78d9-469b-a946-c793ec7d37d3",
+    "imageData": "",
+    "animalInfo": {
+      "id": "4df061b1-0a8e-4a87-b896-c9ade1adaf00",
+      "CommonName": "Dog",
+      "ScientificName": "Canis lupus familiaris",
+      "OtherNames": [
+        "Domestic Dog"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Canidae",
+        "Genus": "Canis",
+        "Species": "lupus"
+      },
+      "Habitat": {
+        "Environment": "Domestic",
+        "Distribution": "Worldwide",
+        "Countries": [
+          "USA",
+          "UK",
+          "Germany",
+          "Japan"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Varies by breed",
+        "Weight": "1.5\u201390 kg",
+        "Color": "Various",
+        "Lifespan": "10\u201315 years",
+        "SpecialTraits": [
+          "Trainable",
+          "Sense of smell",
+          "Social bond with humans"
+        ]
+      },
+      "Diet": {
+        "Type": "Omnivore",
+        "Foods": [
+          "Meat",
+          "Dry food",
+          "Vegetables"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Pack",
+        "IntelligenceLevel": "High",
+        "Communication": "Barking, body language, cues"
+      },
+      "Reproduction": {
+        "MaturityAge": "6\u201312 months",
+        "GestationPeriod": "63 days",
+        "OffspringPerBirth": "4\u20138",
+        "ReproductionCycle": "Biannually"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Domesticated",
+        "PopulationTrend": "Stable",
+        "Threats": []
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": true,
+        "LegalStatus": "Domesticated",
+        "Notes": "Used in service, detection, emotional support"
+      },
+      "FunFacts": [
+        "Can learn 100+ commands",
+        "Understand human pointing gestures"
+      ]
+    },
+    "dateTime": "2025-07-11T09:30:08.592660",
+    "actionType": "explore"
+  },
+  {
+    "id": "396ea721-4977-4556-933b-84ef36fc340d",
+    "imageData": "",
+    "animalInfo": {
+      "id": "3863b2a3-9f0b-453b-92f6-9c6e3295722a",
+      "CommonName": "Elephant",
+      "ScientificName": "Loxodonta africana",
+      "OtherNames": [
+        "African Elephant"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Loxodonta",
+        "Species": "africana"
+      },
+      "Habitat": {
+        "Environment": "Savannah, forests",
+        "Distribution": "Africa",
+        "Countries": [
+          "Kenya",
+          "Botswana",
+          "Tanzania"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "6\u20137.5 meters",
+        "Weight": "5,000\u20137,000 kg",
+        "Color": "Grey",
+        "Lifespan": "60\u201370 years",
+        "SpecialTraits": [
+          "Long-term memory",
+          "Tool use",
+          "Empathy"
+        ]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": [
+          "Grass",
+          "Bark",
+          "Fruit"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Matriarchal groups",
+        "IntelligenceLevel": "High",
+        "Communication": "Rumbles, trumpets, body gestures"
+      },
+      "Reproduction": {
+        "MaturityAge": "10\u201312 years",
+        "GestationPeriod": "22 months",
+        "OffspringPerBirth": "1",
+        "ReproductionCycle": "4\u20136 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Vulnerable",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Poaching",
+          "Habitat loss"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Medium",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Can recognize humans, mourn their dead"
+      },
+      "FunFacts": [
+        "Have excellent memory",
+        "Can mimic sounds"
+      ]
+    },
+    "dateTime": "2025-07-11T09:30:08.592973",
+    "actionType": "explore"
+  },
+  {
+    "id": "015deae4-7a49-4dc2-b54b-dadaa8a70aea",
+    "imageData": "",
+    "animalInfo": {
+      "id": "d8eb9901-1beb-436b-a4f7-4281f74d4603",
+      "CommonName": "Octopus",
+      "ScientificName": "Octopus vulgaris",
+      "OtherNames": [
+        "Common Octopus"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Mollusca",
+        "Class": "Cephalopoda",
+        "Order": "Octopoda",
+        "Family": "Octopodidae",
+        "Genus": "Octopus",
+        "Species": "vulgaris"
+      },
+      "Habitat": {
+        "Environment": "Marine",
+        "Distribution": "Worldwide (Tropical & temperate seas)",
+        "Countries": [
+          "Japan",
+          "Spain",
+          "Brazil"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "1\u20133 meters (arm span)",
+        "Weight": "Up to 10 kg",
+        "Color": "Variable (can change)",
+        "Lifespan": "1\u20132 years",
+        "SpecialTraits": [
+          "Problem solving",
+          "Camouflage",
+          "Escape artists"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Crabs",
+          "Shellfish",
+          "Fish"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Nocturnal",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "Very High",
+        "Communication": "Color change, movement"
+      },
+      "Reproduction": {
+        "MaturityAge": "6\u201318 months",
+        "GestationPeriod": "Varies by species",
+        "OffspringPerBirth": "Thousands (most die)",
+        "ReproductionCycle": "Once in lifetime"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Stable",
+        "Threats": []
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Common",
+        "Notes": "Escape aquariums, open jars"
+      },
+      "FunFacts": [
+        "Have 9 brains",
+        "Can unscrew lids",
+        "Squirt ink to escape"
+      ]
+    },
+    "dateTime": "2025-07-11T09:30:08.593188",
+    "actionType": "explore"
+  },
+  {
+    "id": "7f85f94a-84fc-4fe0-b5ad-daa12a82e195",
+    "imageData": "",
+    "animalInfo": {
+      "id": "0ba19e62-be12-4048-a7ba-0b8a6ff5d65b",
+      "CommonName": "Sea Otter",
+      "ScientificName": "Enhydra lutris",
+      "OtherNames": [
+        "Marine Otter"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Mustelidae",
+        "Genus": "Enhydra",
+        "Species": "lutris"
+      },
+      "Habitat": {
+        "Environment": "Coastal marine",
+        "Distribution": "North Pacific",
+        "Countries": [
+          "USA",
+          "Canada",
+          "Russia"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "1.2\u20131.5 meters",
+        "Weight": "25\u201345 kg",
+        "Color": "Brown",
+        "Lifespan": "15\u201320 years",
+        "SpecialTraits": [
+          "Use tools",
+          "Dense fur",
+          "Float on back"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Clams",
+          "Sea urchins",
+          "Crabs"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Groups (rafts)",
+        "IntelligenceLevel": "High",
+        "Communication": "Whistles, chirps, squeaks"
+      },
+      "Reproduction": {
+        "MaturityAge": "4\u20135 years",
+        "GestationPeriod": "4\u20135 months",
+        "OffspringPerBirth": "1",
+        "ReproductionCycle": "Annually"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Endangered",
+        "PopulationTrend": "Recovering",
+        "Threats": [
+          "Pollution",
+          "Oil spills"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Use rocks to crack shells"
+      },
+      "FunFacts": [
+        "Hold hands while sleeping",
+        "Use belly as table"
+      ]
+    },
+    "dateTime": "2025-07-11T09:30:08.593598",
+    "actionType": "explore"
+  }
+]
