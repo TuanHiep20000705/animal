@@ -1,0 +1,395 @@
+[
+  {
+    "id": "2422d6ab-bab3-41a5-8218-db087a29f0db",
+    "imageData": "aW1hZ2U=",
+    "animalInfo": {
+      "id": "01ddbf00-ac95-43f8-a1f1-c1bb2d2e9c14",
+      "CommonName": "Amur Leopard",
+      "ScientificName": "Panthera pardus orientalis",
+      "OtherNames": [
+        "Far Eastern Leopard",
+        "Manchurian Leopard"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Felidae",
+        "Genus": "Panthera",
+        "Species": "pardus orientalis"
+      },
+      "Habitat": {
+        "Environment": "Temperate forests",
+        "Distribution": "Russian Far East and Northeast China",
+        "Countries": [
+          "Russia",
+          "China"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "90–110 cm",
+        "Weight": "32–48 kg",
+        "Color": "Cream with black rosettes",
+        "Lifespan": "10–15 years",
+        "SpecialTraits": [
+          "Thick fur",
+          "Excellent climber"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Deer",
+          "Hares",
+          "Wild boar"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Nocturnal",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "High",
+        "Communication": "Vocal and scent markings"
+      },
+      "Reproduction": {
+        "MaturityAge": "2–3 years",
+        "GestationPeriod": "90–105 days",
+        "OffspringPerBirth": "1–4",
+        "ReproductionCycle": "Biennial"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Critically Endangered",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Poaching",
+          "Habitat loss",
+          "Inbreeding"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Extremely rare and shy"
+      },
+      "FunFacts": [
+        "Can leap over 10 feet vertically",
+        "Less than 100 individuals remain"
+      ]
+    },
+    "dateTime": "2025-07-11T09:13:09.303812",
+    "actionType": "explore"
+  },
+  {
+    "id": "aff47ae6-a8d5-492f-b237-6a520bd4cd20",
+    "imageData": "aW1hZ2U=",
+    "animalInfo": {
+      "id": "f699860b-02c4-4f51-8854-5fcf6486695e",
+      "CommonName": "Vaquita",
+      "ScientificName": "Phocoena sinus",
+      "OtherNames": [
+        "Vaquita porpoise"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cetacea",
+        "Family": "Phocoenidae",
+        "Genus": "Phocoena",
+        "Species": "sinus"
+      },
+      "Habitat": {
+        "Environment": "Shallow coastal waters",
+        "Distribution": "Gulf of California",
+        "Countries": [
+          "Mexico"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "1.5 m",
+        "Weight": "30–55 kg",
+        "Color": "Gray with dark eye rings",
+        "Lifespan": "20 years",
+        "SpecialTraits": [
+          "Smallest and rarest cetacean"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Fish",
+          "Squid",
+          "Crustaceans"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Solitary or mother-calf pairs",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Echolocation clicks"
+      },
+      "Reproduction": {
+        "MaturityAge": "3–6 years",
+        "GestationPeriod": "10–11 months",
+        "OffspringPerBirth": "1",
+        "ReproductionCycle": "Biennial"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Critically Endangered",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Fishing nets",
+          "Bycatch"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "None",
+        "PetFriendly": false,
+        "LegalStatus": "Critically protected",
+        "Notes": "Only ~10 remain"
+      },
+      "FunFacts": [
+        "Discovered in 1958",
+        "Has never been kept in captivity"
+      ]
+    },
+    "dateTime": "2025-07-11T09:13:09.303812",
+    "actionType": "explore"
+  },
+  {
+    "id": "733da024-a06e-4fcb-957f-9f3c6786c645",
+    "imageData": "aW1hZ2U=",
+    "animalInfo": {
+      "id": "6736a0ba-6bb5-4005-8ce4-49a8601568ef",
+      "CommonName": "Northern Bald Ibis",
+      "ScientificName": "Geronticus eremita",
+      "OtherNames": [
+        "Hermit Ibis"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Pelecaniformes",
+        "Family": "Threskiornithidae",
+        "Genus": "Geronticus",
+        "Species": "eremita"
+      },
+      "Habitat": {
+        "Environment": "Semi-arid habitats",
+        "Distribution": "North Africa and Middle East",
+        "Countries": [
+          "Morocco",
+          "Syria",
+          "Turkey"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "70–80 cm",
+        "Weight": "1–1.3 kg",
+        "Color": "Black iridescent plumage",
+        "Lifespan": "20–25 years",
+        "SpecialTraits": [
+          "Bald red head",
+          "Crescent-shaped wings"
+        ]
+      },
+      "Diet": {
+        "Type": "Omnivore",
+        "Foods": [
+          "Insects",
+          "Reptiles",
+          "Small mammals"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Colonial breeder",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Grunting sounds"
+      },
+      "Reproduction": {
+        "MaturityAge": "3 years",
+        "GestationPeriod": "28–30 days",
+        "OffspringPerBirth": "2–4",
+        "ReproductionCycle": "Annual"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Endangered",
+        "PopulationTrend": "Increasing",
+        "Threats": [
+          "Habitat loss",
+          "Hunting"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "None",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Cultural significance in ancient Egypt"
+      },
+      "FunFacts": [
+        "One of the earliest recorded birds in history"
+      ]
+    },
+    "dateTime": "2025-07-11T09:13:09.303812",
+    "actionType": "explore"
+  },
+  {
+    "id": "8a83e7ed-7c63-41e2-9aca-20035d9b47d9",
+    "imageData": "aW1hZ2U=",
+    "animalInfo": {
+      "id": "6aa98f31-c2a5-4918-9c5c-fae33c5a153f",
+      "CommonName": "Javan Rhino",
+      "ScientificName": "Rhinoceros sondaicus",
+      "OtherNames": [
+        "Sunda Rhino"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Perissodactyla",
+        "Family": "Rhinocerotidae",
+        "Genus": "Rhinoceros",
+        "Species": "sondaicus"
+      },
+      "Habitat": {
+        "Environment": "Rainforest",
+        "Distribution": "Java, Indonesia",
+        "Countries": [
+          "Indonesia"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "3.1–3.2 m",
+        "Weight": "900–2,300 kg",
+        "Color": "Grayish-brown",
+        "Lifespan": "30–40 years",
+        "SpecialTraits": [
+          "Single horn",
+          "Thick skin folds"
+        ]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": [
+          "Leaves",
+          "Shoots",
+          "Fruits"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Mostly nocturnal",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Vocal and scent marking"
+      },
+      "Reproduction": {
+        "MaturityAge": "6 years",
+        "GestationPeriod": "16 months",
+        "OffspringPerBirth": "1",
+        "ReproductionCycle": "3–5 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Critically Endangered",
+        "PopulationTrend": "Stable",
+        "Threats": [
+          "Habitat degradation",
+          "Poaching"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "High if threatened",
+        "PetFriendly": false,
+        "LegalStatus": "Strictly protected",
+        "Notes": "Only found in Ujung Kulon NP"
+      },
+      "FunFacts": [
+        "Only ~80 individuals remain in the wild"
+      ]
+    },
+    "dateTime": "2025-07-11T09:13:09.303812",
+    "actionType": "explore"
+  },
+  {
+    "id": "7cca1322-88cc-4dc4-b9dd-8465701672b4",
+    "imageData": "aW1hZ2U=",
+    "animalInfo": {
+      "id": "154cb808-bc49-42d0-baf3-4a85074a8c99",
+      "CommonName": "Saola",
+      "ScientificName": "Pseudoryx nghetinhensis",
+      "OtherNames": [
+        "Asian Unicorn"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Bovidae",
+        "Genus": "Pseudoryx",
+        "Species": "nghetinhensis"
+      },
+      "Habitat": {
+        "Environment": "Annamite Mountains",
+        "Distribution": "Laos and Vietnam",
+        "Countries": [
+          "Vietnam",
+          "Laos"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "80–90 cm at shoulder",
+        "Weight": "80–100 kg",
+        "Color": "Reddish-brown",
+        "Lifespan": "8-12 years in the wild (estimated)",
+        "SpecialTraits": [
+          "Long parallel horns",
+          "White face markings"
+        ]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": [
+          "Leaves",
+          "Fruits",
+          "Herbs"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Crepuscular",
+        "SocialType": "Solitary or small groups",
+        "IntelligenceLevel": "Estimated to be moderate",
+        "Communication": "Scent marking (estimated), vocalizations are poorly studied"
+      },
+      "Reproduction": {
+        "MaturityAge": "2–3 years",
+        "GestationPeriod": "8 months",
+        "OffspringPerBirth": "1",
+        "ReproductionCycle": "Annual, with mating from late August to mid-November and births from mid-April to late June (estimated)"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Critically Endangered",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Poaching",
+          "Habitat loss"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "None",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Elusive, rarely seen in the wild"
+      },
+      "FunFacts": [
+        "Discovered in 1992",
+        "One of the rarest mammals on Earth"
+      ]
+    },
+    "dateTime": "2025-07-11T09:13:09.303812",
+    "actionType": "explore"
+  }
+]
