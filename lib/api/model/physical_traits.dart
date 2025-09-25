@@ -19,7 +19,7 @@ class PhysicalTraits {
       weight: json['Weight'],
       color: json['Color'],
       lifespan: json['Lifespan'],
-      specialTraits: json['SpecialTraits'],
+      specialTraits: List<String>.from(json['SpecialTraits'] ?? []),
     );
   }
 

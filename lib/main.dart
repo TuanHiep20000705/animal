@@ -4,6 +4,7 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
+import 'api/model/database_helper.dart';
 import 'config/app_config.dart';
 import 'module/global_state_controller.dart';
 import 'module/home/home_screen.dart';
@@ -14,6 +15,7 @@ main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await AppConfig.current();
   await Shared.init();
+  await DatabaseHelper.instance.database;
   AppRoutes.init();
 
   Widget startRouter() {

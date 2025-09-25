@@ -1,18 +1,22 @@
+import 'dart:convert';
+
+import 'package:flutter_blue_plus_example/model/animal_info.dart';
+
 class AnimalScanData {
   final int? id;
   final String? imageHome;
   final String? imagePath;
-  final AnimalScanData animalScanData;
+  final AnimalInfo animalInfo;
   final String? dateTime;
   final AnimalActionType animalActionType;
   final bool isHistory;
   final bool isFavorite;
 
   AnimalScanData({
-    required this.id,
+    this.id,
     required this.imageHome,
     required this.imagePath,
-    required this.animalScanData,
+    required this.animalInfo,
     required this.dateTime,
     required this.animalActionType,
     required this.isHistory,
@@ -24,11 +28,24 @@ class AnimalScanData {
       id: json['Id'],
       imageHome: json['ImageHome'],
       imagePath: json['ImagePath'],
-      animalScanData: json['AnimalScanData'],
+      animalInfo: json['AnimalInfo'],
       dateTime: json['DateTime'],
       animalActionType: json['AnimalActionType'],
       isHistory: json['IsHistory'],
       isFavorite: json['IsFavorite'],
+    );
+  }
+
+  factory AnimalScanData.fromMap(Map<String, dynamic> map) {
+    return AnimalScanData(
+      id: map['Id'],
+      imageHome: map['ImageHome'],
+      imagePath: map['ImagePath'],
+      animalInfo: AnimalInfo.fromJson(jsonDecode(map['AnimalInfo'])),
+      dateTime: map['DateTime'],
+      animalActionType: AnimalActionTypeExt.fromString(map['AnimalActionType']),
+      isHistory: map['IsHistory'] == 1,
+      isFavorite: map['IsFavorite'] == 1,
     );
   }
 
@@ -37,11 +54,24 @@ class AnimalScanData {
       'Id': id,
       'ImageHome': imageHome,
       'ImagePath': imagePath,
-      'AnimalScanData': animalScanData,
+      'AnimalInfo': animalInfo,
       'DateTime': dateTime,
       'AnimalActionType': animalActionType,
       'IsHistory': isHistory,
       'IsFavorite': isFavorite
+    };
+  }
+
+  Map<String, dynamic> toMap() {
+    return {
+      'Id': id,
+      'ImageHome': imageHome,
+      'ImagePath': imagePath,
+      'AnimalInfo': jsonEncode(animalInfo.toJson()),
+      'DateTime': dateTime,
+      'AnimalActionType': animalActionType.value,
+      'IsHistory': isHistory ? 1 : 0,
+      'IsFavorite': isFavorite ? 1 : 0
     };
   }
 }
@@ -49,4 +79,13 @@ class AnimalScanData {
 enum AnimalActionType {
   explore,
   analyze
+}
+
+extension AnimalActionTypeExt on AnimalActionType {
+  String get value => toString().split('.').last;
+
+  static AnimalActionType fromString(String str) {
+    return AnimalActionType.values
+        .firstWhere((e) => e.toString().split('.').last == str);
+  }
 }

@@ -11,7 +11,7 @@ import 'human_interaction.dart';
 class AnimalInfo {
   final String commonName;
   final String scientificName;
-  final String otherNames;
+  final List<String> otherNames;
   final Classification classification;
   final Habitat habitat;
   final PhysicalTraits physicalTraits;
@@ -41,16 +41,16 @@ class AnimalInfo {
     return AnimalInfo(
       commonName: json['CommonName'],
       scientificName: json['ScientificName'],
-      otherNames: json['OtherNames'],
-      classification: json['Classification'],
-      habitat: json['Habitat'],
-      physicalTraits: json['PhysicalTraits'],
-      diet: json['Diet'],
-      behavior: json['Behavior'],
-      reproduction: json['Reproduction'],
-      conservationStatus: json['ConservationStatus'],
-      humanInteraction: json['HumanInteraction'],
-      funFacts: json['FunFacts'],
+      otherNames: List<String>.from(json['OtherNames'] ?? []),
+      classification: Classification.fromJson(json['Classification']),
+      habitat: Habitat.fromJson(json['Habitat']),
+      physicalTraits: PhysicalTraits.fromJson(json['PhysicalTraits']),
+      diet: Diet.fromJson(json['Diet']),
+      behavior: Behavior.fromJson(json['Behavior']),
+      reproduction: Reproduction.fromJson(json['Reproduction']),
+      conservationStatus: ConservationStatus.fromJson(json['ConservationStatus']),
+      humanInteraction: HumanInteraction.fromJson(json['HumanInteraction']),
+      funFacts: List<String>.from(json['FunFacts'] ?? []),
     );
   }
 

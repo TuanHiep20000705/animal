@@ -12,7 +12,7 @@ class Habitat {
     return Habitat(
       environment: json['Environment'],
       distribution: json['Distribution'],
-      countries: json['Countries'],);
+      countries: List<String>.from(json['Countries'] ?? []),) ;
   }
 
   Map<String, dynamic> toJson() {
