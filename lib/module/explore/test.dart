@@ -604,6 +604,13 @@ class ExploreController2 extends BBSBaseController {
     desertDwellers.addAll(desertAnimalStr);
     highAltitudeSpecies.addAll(highAltitudeAnimalStr);
     extinctAnimals.addAll(extinctAnimalStr);
+
+
+    // final animal = AnimalScanData(imageHome: Constants.imgAmurLeopard, imagePath: null, animalInfo: AnimalInfo(commonName: 'Amur Leopard', scientificName: 'Panthera pardus orientalis', otherNames: ['Far Eastern Leopard', 'Manchurian Leopard'], classification: Classification(kingdom: 'Animalia', phylum: 'Chordata', clazz: 'Mammalia', order: 'Carnivora', family: 'Felidae', genus: 'Panthera', species: 'pardus orientalis'), habitat: Habitat(environment: 'Temperate forests', distribution: 'Russian Far East and Northeast China', countries: ['Russia', 'China']), physicalTraits: PhysicalTraits(size: '90–110 cm', weight: '32–48 kg', color: 'Cream with black rosettes', lifespan: '10–15 years', specialTraits: ['Thick fur', 'Excellent climber']), diet: Diet(type: 'Carnivore', foods: ['Deer', 'Hares', 'Wild boar']), behavior: Behavior(activityTime: 'Nocturnal', socialType: 'Solitary', intelligenceLevel: 'High', communication: 'Vocal and scent markings'), reproduction: Reproduction(maturityAge: '2–3 years', gestationPeriod: '90–105 days', offspringPerBirth: '1–4', reproductionCycle: 'Biennial'), conservationStatus: ConservationStatus(iUCNStatus: 'Critically Endangered', populationTrend: 'Decreasing', threats: ['Poaching', 'Habitat loss', 'Inbreeding']), humanInteraction: HumanInteraction(dangerLevel: 'Low', petFriendly: false, legalStatus: 'Protected', notes: 'Extremely rare and shy'), funFacts: ['Can leap over 10 feet vertically', 'Less than 100 individuals remain']), dateTime: '2025-09-24', animalActionType: AnimalActionType.explore, isHistory: false, isFavorite: false);
+    // await DatabaseHelper.instance.create(animal);
+
+    final data = await DatabaseHelper.instance.readAllAnimalScanData();
+    print('dataaaa: ${data.length}');
     notifyListeners();
   }
 }

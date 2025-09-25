@@ -13,7 +13,7 @@ class ConservationStatus {
     return ConservationStatus(
       iUCNStatus: json['IUCNStatus'],
       populationTrend: json['PopulationTrend'],
-      threats: json['Threats'],
+      threats: List<String>.from(json['Threats'] ?? []),
     );
   }
 
