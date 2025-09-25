@@ -1,0 +1,1725 @@
+[
+{
+    "id": "be61000c-751b-4b9a-891b-9bd91d62fc90",
+    "imageData": "",
+    "animalInfo": {
+        "id": "dfc09cb2-5b79-4cf6-8d73-b58cd1e65f31",
+        "CommonName": "Bald Eagle",
+        "ScientificName": "Haliaeetus leucocephalus",
+        "OtherNames": [],
+        "Classification": {
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Aves",
+            "Order": "Accipitriformes",
+            "Family": "Accipitridae",
+            "Genus": "Haliaeetus",
+            "Species": "leucocephalus"
+        },
+        "Habitat": {
+            "Environment": "High Altitude",
+            "Distribution":
+                "Near large bodies of water with old-growth trees for nesting, across North America",
+            "Countries": [
+                "Canada",
+                "United States",
+                "Mexico"
+            ]
+        },
+        "PhysicalTraits": {
+            "Size":
+                "Estimated: 70-102 cm (length), 1.8-2.3 meters (wingspan)",
+            "Weight": "Estimated: 3-6.3 kg",
+            "Color": "Dark brown body with a white head and tail (adults)",
+            "Lifespan": "Estimated: 20-30 years (in the wild)",
+            "SpecialTraits": [
+                "Excellent eyesight for hunting",
+                "Powerful talons",
+                "Large, hooked beak"
+            ]
+        },
+        "Diet": {
+            "Type": "Carnivore",
+            "Foods": [
+                "Fish",
+                "Waterfowl",
+                "Small mammals",
+                "Carrion"
+            ]
+        },
+        "Behavior": {
+            "ActivityTime": "Diurnal",
+            "SocialType":
+                "Monogamous pairs, can gather in large numbers at food sources",
+            "IntelligenceLevel": "High",
+            "Communication": "Chirps, whistles, harsh screams"
+        },
+        "Reproduction": {
+            "MaturityAge": "4-5 years",
+            "GestationPeriod": "Egg layer (incubation: Estimated 35 days)",
+            "OffspringPerBirth": "1-3 eggs",
+            "ReproductionCycle": "Annually"
+        },
+        "ConservationStatus": {
+            "IUCNStatus": "Least Concern",
+            "PopulationTrend": "Increasing",
+            "Threats": [
+                "Habitat loss (historically)",
+                "Lead poisoning",
+                "Illegal shooting (historically)"
+            ]
+        },
+        "HumanInteraction": {
+            "DangerLevel": "Low",
+            "PetFriendly": false,
+            "LegalStatus": "Protected (national bird of the USA)",
+            "Notes": "Symbol of the United States"
+        },
+        "FunFacts": [
+            "Bald eagles are not actually bald; their name comes from an older meaning of 'white-headed'.",
+            "They build some of the largest nests of any North American bird."
+        ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+},
+{
+    "id": "fd65f0ba-950f-4027-8cb7-953a155875c1",
+    "imageData": "",
+    "animalInfo": {
+        "id": "46505294-1037-4b14-b7c4-12a7db69603d",
+        "CommonName": "Golden Eagle",
+        "ScientificName": "Aquila chrysaetos",
+        "OtherNames": [],
+        "Classification": {
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Aves",
+            "Order": "Accipitriformes",
+            "Family": "Accipitridae",
+            "Genus": "Aquila",
+            "Species": "chrysaetos"
+        },
+        "Habitat": {
+            "Environment": "High Altitude",
+            "Distribution":
+                "Mountain ranges, open country, grasslands across Northern Hemisphere",
+            "Countries": [
+                "North America",
+                "Europe",
+                "Asia",
+                "North Africa"
+            ]
+        },
+        "PhysicalTraits": {
+            "Size":
+                "Estimated: 70-84 cm (length), 1.8-2.3 meters (wingspan)",
+            "Weight": "Estimated: 2.5-7 kg",
+            "Color": "Dark brown with golden-brown nape feathers",
+            "Lifespan": "Estimated: 20-30 years (in the wild)",
+            "SpecialTraits": [
+                "Powerful hunter, can take down large prey",
+                "Exceptional eyesight",
+                "Long, broad wings for soaring"
+            ]
+        },
+        "Diet": {
+            "Type": "Carnivore",
+            "Foods": [
+                "Rabbits",
+                "Marmots",
+                "Ground squirrels",
+                "Deer fawns",
+                "Birds",
+                "Carrion"
+            ]
+        },
+        "Behavior": {
+            "ActivityTime": "Diurnal",
+            "SocialType": "Solitary or monogamous pairs",
+            "IntelligenceLevel": "High",
+            "Communication": "Yelps, whistles, chirps"
+        },
+        "Reproduction": {
+            "MaturityAge": "4-5 years",
+            "GestationPeriod":
+                "Egg layer (incubation: Estimated 40-45 days)",
+            "OffspringPerBirth": "1-4 eggs (average 2)",
+            "ReproductionCycle": "Annually"
+        },
+        "ConservationStatus": {
+            "IUCNStatus": "Least Concern",
+            "PopulationTrend": "Stable",
+            "Threats": [
+                "Habitat loss and fragmentation",
+                "Lead poisoning",
+                "Electrocution on power lines"
+            ]
+        },
+        "HumanInteraction": {
+            "DangerLevel": "Low",
+            "PetFriendly": false,
+            "LegalStatus": "Protected",
+            "Notes": "One of the most widespread eagle species"
+        },
+        "FunFacts": [
+            "Golden eagles are known for their spectacular aerial courtship displays.",
+            "They have been used in falconry for thousands of years."
+        ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+},
+{
+    "id": "02861af2-9354-48bb-9a8f-089872af10bb",
+    "imageData": "",
+    "animalInfo": {
+        "id": "2e308026-89bb-4f24-8c87-c8062ebcb5ba",
+        "CommonName": "Snow Leopard",
+        "ScientificName": "Panthera uncia",
+        "OtherNames": [],
+        "Classification": {
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Mammalia",
+            "Order": "Carnivora",
+            "Family": "Felidae",
+            "Genus": "Panthera",
+            "Species": "uncia"
+        },
+        "Habitat": {
+            "Environment": "High Altitude",
+            "Distribution":
+                "Mountain ranges of Central and South Asia (Himalayas, Altai, etc.)",
+            "Countries": [
+                "Afghanistan",
+                "Bhutan",
+                "China",
+                "India",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Mongolia",
+                "Nepal",
+                "Pakistan",
+                "Russia",
+                "Tajikistan",
+                "Uzbekistan"
+            ]
+        },
+        "PhysicalTraits": {
+            "Size":
+                "Estimated: 0.9-1.3 meters (body length), 0.8-1 meter (tail length)",
+            "Weight": "Estimated: 25-55 kg",
+            "Color":
+                "Smoky grey to yellowish tan with dark rosettes and spots, white undersides",
+            "Lifespan": "Estimated: 10-15 years (in the wild)",
+            "SpecialTraits": [
+                "Thick, long fur for insulation",
+                "Large paws for walking on snow and grip",
+                "Long, thick tail for balance and warmth"
+            ]
+        },
+        "Diet": {
+            "Type": "Carnivore",
+            "Foods": [
+                "Wild sheep (argali, bharal)",
+                "Ibex",
+                "Marmots",
+                "Pikas",
+                "Birds"
+            ]
+        },
+        "Behavior": {
+            "ActivityTime": "Crepuscular/Nocturnal",
+            "SocialType": "Solitary",
+            "IntelligenceLevel": "High",
+            "Communication": "Chuffs, growls, hisses, yowls, scent marking"
+        },
+        "Reproduction": {
+            "MaturityAge": "2-3 years",
+            "GestationPeriod": "Approximately 90-103 days",
+            "OffspringPerBirth": "1-5 cubs (average 2-3)",
+            "ReproductionCycle": "Estimated: Every 1-2 years"
+        },
+        "ConservationStatus": {
+            "IUCNStatus": "Vulnerable",
+            "PopulationTrend": "Decreasing",
+            "Threats": [
+                "Poaching for fur and body parts",
+                "Habitat loss and degradation",
+                "Retaliatory killings by livestock herders",
+                "Climate change"
+            ]
+        },
+        "HumanInteraction": {
+            "DangerLevel": "Low (rarely attack humans, very secretive)",
+            "PetFriendly": false,
+            "LegalStatus": "Protected",
+            "Notes":
+                "Elusive and highly adapted to cold, harsh environments"
+        },
+        "FunFacts": [
+            "Snow leopards cannot roar like other big cats; they chuff.",
+            "Their long tail helps them maintain balance on steep, rocky terrain."
+        ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+},
+{
+    "id": "e44148a9-b1c8-40e9-9a79-149ea2aff41f",
+    "imageData": "",
+    "animalInfo": {
+        "id": "e9cddee8-f1f5-4d28-907c-bb1169d61aa2",
+        "CommonName": "Mountain Goat",
+        "ScientificName": "Oreamnos americanus",
+        "OtherNames": [],
+        "Classification": {
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Mammalia",
+            "Order": "Artiodactyla",
+            "Family": "Bovidae",
+            "Genus": "Oreamnos",
+            "Species": "americanus"
+        },
+        "Habitat": {
+            "Environment": "High Altitude",
+            "Distribution":
+                "Rocky, steep mountainous regions of western North America",
+            "Countries": [
+                "United States",
+                "Canada"
+            ]
+        },
+        "PhysicalTraits": {
+            "Size":
+                "Estimated: 1.2-1.8 meters (length), 0.9-1.2 meters (shoulder height)",
+            "Weight": "Estimated: 50-140 kg",
+            "Color": "Long, shaggy white coat",
+            "Lifespan": "Estimated: 12-15 years (in the wild)",
+            "SpecialTraits": [
+                "Sure-footed climbers with specialized hooves for grip",
+                "Thick double coat for insulation against cold",
+                "Short, black, pointed horns"
+            ]
+        },
+        "Diet": {
+            "Type": "Herbivore",
+            "Foods": [
+                "Grasses",
+                "Mosses",
+                "Lichens",
+                "Leaves",
+                "Twigs"
+            ]
+        },
+        "Behavior": {
+            "ActivityTime": "Diurnal",
+            "SocialType":
+                "Solitary or small groups, larger groups in winter",
+            "IntelligenceLevel": "Moderate",
+            "Communication": "Bleats, snorts, grunts"
+        },
+        "Reproduction": {
+            "MaturityAge": "2-3 years",
+            "GestationPeriod": "Approximately 150-180 days",
+            "OffspringPerBirth": "1 kid (rarely 2)",
+            "ReproductionCycle": "Annually"
+        },
+        "ConservationStatus": {
+            "IUCNStatus": "Least Concern",
+            "PopulationTrend": "Stable",
+            "Threats": [
+                "Habitat fragmentation",
+                "Disturbance by humans",
+                "Climate change"
+            ]
+        },
+        "HumanInteraction": {
+            "DangerLevel":
+                "Low to Medium (can be aggressive if cornered, especially males during rut)",
+            "PetFriendly": false,
+            "LegalStatus":
+                "Protected in many areas, hunted in others with permits",
+            "Notes":
+                "Excellent at navigating extremely steep and rocky terrain"
+        },
+        "FunFacts": [
+            "Mountain goats are not true goats but belong to a separate genus.",
+            "Their white coat provides camouflage in snowy environments and reflects sunlight in summer."
+        ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+},
+{
+    "id": "35ac1bc0-a1d9-458c-9c9a-ad9bff05c619",
+    "imageData": "",
+    "animalInfo": {
+        "id": "265f0d49-39ca-434d-84d9-3a8491fdb111",
+        "CommonName": "Andean Condor",
+        "ScientificName": "Vultur gryphus",
+        "OtherNames": [],
+        "Classification": {
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Aves",
+            "Order": "Cathartiformes",
+            "Family": "Cathartidae",
+            "Genus": "Vultur",
+            "Species": "gryphus"
+        },
+        "Habitat": {
+            "Environment": "High Altitude",
+            "Distribution":
+                "Andes Mountains in South America, from Venezuela to Tierra del Fuego",
+            "Countries": [
+                "Argentina",
+                "Bolivia",
+                "Chile",
+                "Colombia",
+                "Ecuador",
+                "Peru",
+                "Venezuela"
+            ]
+        },
+        "PhysicalTraits": {
+            "Size":
+                "Estimated: 1-1.3 meters (length), 2.7-3.2 meters (wingspan)",
+            "Weight": "Estimated: 8-15 kg",
+            "Color":
+                "Black plumage with a white ruff of feathers at the base of the neck, bald red head",
+            "Lifespan": "Estimated: 50-70 years (in the wild)",
+            "SpecialTraits": [
+                "Largest flying land bird in the Western Hemisphere",
+                "Excellent gliders, can soar for hours without flapping",
+                "Strong, hooked beak for tearing carrion"
+            ]
+        },
+        "Diet": {
+            "Type": "Scavenger (Carnivore)",
+            "Foods": [
+                "Carrion (large mammals like cattle, deer, llamas)",
+                "Small birds and rodents (occasionally)"
+            ]
+        },
+        "Behavior": {
+            "ActivityTime": "Diurnal",
+            "SocialType":
+                "Social, often gathers at carcasses and roosts in large groups",
+            "IntelligenceLevel": "Moderate",
+            "Communication":
+                "Hissing, grunting (limited vocalizations due to lack of a voice box)"
+        },
+        "Reproduction": {
+            "MaturityAge": "6-10 years",
+            "GestationPeriod":
+                "Egg layer (incubation: Estimated 54-58 days)",
+            "OffspringPerBirth": "1 egg",
+            "ReproductionCycle": "Estimated: Every 2-3 years"
+        },
+        "ConservationStatus": {
+            "IUCNStatus": "Vulnerable",
+            "PopulationTrend": "Decreasing",
+            "Threats": [
+                "Habitat loss and fragmentation",
+                "Lead poisoning from carcasses",
+                "Illegal hunting and persecution",
+                "Collisions with power lines"
+            ]
+        },
+        "HumanInteraction": {
+            "DangerLevel": "Low",
+            "PetFriendly": false,
+            "LegalStatus":
+                "Protected, national symbol of several Andean countries",
+            "Notes": "Crucial for ecosystem clean-up by consuming carrion"
+        },
+        "FunFacts": [
+            "The Andean Condor can fly up to 5,500 meters (18,000 feet) high.",
+            "They use thermal currents to conserve energy during flight."
+        ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+},
+{
+    "id": "3b752d43-4f44-40f3-afc7-e91b43274d70",
+    "imageData": "",
+    "animalInfo": {
+        "id": "7229c558-7fa8-413a-91d6-ba66cb08e255",
+        "CommonName": "Alpine Chough",
+        "ScientificName": "Pyrrhocorax graculus",
+        "OtherNames": [],
+        "Classification": {
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Aves",
+            "Order": "Passeriformes",
+            "Family": "Corvidae",
+            "Genus": "Pyrrhocorax",
+            "Species": "graculus"
+        },
+        "Habitat": {
+            "Environment": "High Altitude",
+            "Distribution":
+                "High mountains from Western Europe to Central Asia",
+            "Countries": [
+                "Europe (Alps, Pyrenees, etc.)",
+                "North Africa",
+                "Middle East",
+                "Central Asia"
+            ]
+        },
+        "PhysicalTraits": {
+            "Size": "Estimated: 35-39 cm (length), 75-85 cm (wingspan)",
+            "Weight": "Estimated: 190-250 grams",
+            "Color":
+                "Glossy black plumage with a bright yellow bill and red legs",
+            "Lifespan": "Estimated: 7-10 years (in the wild)",
+            "SpecialTraits": [
+                "Highly acrobatic fliers",
+                "Adapted to foraging in snowy conditions",
+                "Sociable and inquisitive"
+            ]
+        },
+        "Diet": {
+            "Type": "Omnivore",
+            "Foods": [
+                "Insects",
+                "Berries",
+                "Seeds",
+                "Scraps of food left by tourists"
+            ]
+        },
+        "Behavior": {
+            "ActivityTime": "Diurnal",
+            "SocialType": "Social (flocks)",
+            "IntelligenceLevel": "High",
+            "Communication":
+                "Distinctive 'chough' calls, various other chirps and whistles"
+        },
+        "Reproduction": {
+            "MaturityAge": "2-3 years",
+            "GestationPeriod":
+                "Egg layer (incubation: Estimated 18-21 days)",
+            "OffspringPerBirth": "3-5 eggs",
+            "ReproductionCycle": "Annually"
+        },
+        "ConservationStatus": {
+            "IUCNStatus": "Least Concern",
+            "PopulationTrend": "Stable",
+            "Threats": [
+                "Climate change (impact on food sources)",
+                "Habitat degradation"
+            ]
+        },
+        "HumanInteraction": {
+            "DangerLevel": "Low",
+            "PetFriendly": false,
+            "LegalStatus": "Protected in some areas",
+            "Notes": "Often seen at ski resorts and mountain huts"
+        },
+        "FunFacts": [
+            "Alpine choughs are known for their playful and curious nature.",
+            "They are skilled at catching insects in flight."
+        ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+},
+{
+    "id": "8cd55988-7281-47eb-8b1d-c58b731485e5",
+    "imageData": "",
+    "animalInfo": {
+        "id": "90f3b408-d467-4b01-8af3-49552e82567c",
+        "CommonName": "Himalayan Tahr",
+        "ScientificName": "Hemitragus jemlahicus",
+        "OtherNames": [],
+        "Classification": {
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Mammalia",
+            "Order": "Artiodactyla",
+            "Family": "Bovidae",
+            "Genus": "Hemitragus",
+            "Species": "jemlahicus"
+        },
+        "Habitat": {
+            "Environment": "High Altitude",
+            "Distribution":
+                "Steep, rocky slopes and forests of the Himalayas",
+            "Countries": [
+                "Nepal",
+                "India",
+                "Bhutan",
+                "China (Tibetan Plateau)"
+            ]
+        },
+        "PhysicalTraits": {
+            "Size":
+                "Estimated: 0.9-1.4 meters (body length), 0.6-1 meter (shoulder height)",
+            "Weight": "Estimated: 50-100 kg",
+            "Color": "Reddish-brown coat (males have shaggy mane)",
+            "Lifespan": "Estimated: 10-14 years (in the wild)",
+            "SpecialTraits": [
+                "Excellent climbers with sure-footed hooves for steep terrain",
+                "Dense coat for insulation",
+                "Males have large, curved horns"
+            ]
+        },
+        "Diet": {
+            "Type": "Herbivore",
+            "Foods": [
+                "Grasses",
+                "Leaves",
+                "Shrubs",
+                "Herbs"
+            ]
+        },
+        "Behavior": {
+            "ActivityTime": "Crepuscular/Diurnal",
+            "SocialType": "Social (herds)",
+            "IntelligenceLevel": "Moderate",
+            "Communication": "Bleats, snorts"
+        },
+        "Reproduction": {
+            "MaturityAge": "2-3 years",
+            "GestationPeriod": "Approximately 180-240 days",
+            "OffspringPerBirth": "1 kid (rarely 2)",
+            "ReproductionCycle": "Annually"
+        },
+        "ConservationStatus": {
+            "IUCNStatus": "Near Threatened",
+            "PopulationTrend": "Stable to decreasing in some areas",
+            "Threats": [
+                "Habitat degradation",
+                "Competition with domestic livestock",
+                "Hunting"
+            ]
+        },
+        "HumanInteraction": {
+            "DangerLevel": "Low",
+            "PetFriendly": false,
+            "LegalStatus":
+                "Protected in some areas, hunted in others with permits (e.g., New Zealand, where it's introduced)",
+            "Notes": "Highly adaptable to harsh mountain environments"
+        },
+        "FunFacts": [
+            "Himalayan Tahrs can withstand extreme cold and high altitudes.",
+            "Males engage in head-butting contests during the breeding season."
+        ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+},
+{
+    "id": "51712bc7-21c5-41c9-9cd0-85fd54f81e0c",
+    "imageData": "",
+    "animalInfo": {
+        "id": "742d5205-9dbe-4e20-9848-bcccb0c99ac2",
+        "CommonName": "Bar-headed Goose",
+        "ScientificName": "Anser indicus",
+        "OtherNames": [],
+        "Classification": {
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Aves",
+            "Order": "Anseriformes",
+            "Family": "Anatidae",
+            "Genus": "Anser",
+            "Species": "indicus"
+        },
+        "Habitat": {
+            "Environment": "High Altitude",
+            "Distribution":
+                "Central Asian high-altitude lakes and wetlands, migrates over Himalayas",
+            "Countries": [
+                "China",
+                "India",
+                "Nepal",
+                "Bhutan",
+                "Pakistan",
+                "Mongolia",
+                "Russia (breeding)",
+                "Southeast Asian countries (wintering)"
+            ]
+        },
+        "PhysicalTraits": {
+            "Size":
+                "Estimated: 71-76 cm (length), 1.4-1.6 meters (wingspan)",
+            "Weight": "Estimated: 2-3 kg",
+            "Color":
+                "Pale grey body, white head with two black bars on the back of the head",
+            "Lifespan": "Estimated: 15-20 years (in the wild)",
+            "SpecialTraits": [
+                "Migrates over the highest mountains in the world (Himalayas)",
+                "Specialized hemoglobin for high-altitude oxygen uptake",
+                "Strong fliers"
+            ]
+        },
+        "Diet": {
+            "Type": "Herbivore",
+            "Foods": [
+                "Grasses",
+                "Aquatic plants",
+                "Grains",
+                "Roots"
+            ]
+        },
+        "Behavior": {
+            "ActivityTime": "Diurnal",
+            "SocialType": "Social (flocks), especially during migration",
+            "IntelligenceLevel": "Moderate",
+            "Communication": "Loud, honking calls"
+        },
+        "Reproduction": {
+            "MaturityAge": "2-3 years",
+            "GestationPeriod":
+                "Egg layer (incubation: Estimated 27-30 days)",
+            "OffspringPerBirth": "3-8 eggs",
+            "ReproductionCycle": "Annually"
+        },
+        "ConservationStatus": {
+            "IUCNStatus": "Least Concern",
+            "PopulationTrend": "Stable",
+            "Threats": [
+                "Habitat degradation at breeding grounds",
+                "Hunting pressure during migration"
+            ]
+        },
+        "HumanInteraction": {
+            "DangerLevel": "Low",
+            "PetFriendly": false,
+            "LegalStatus": "Protected in some regions",
+            "Notes": "Holds the record for the highest bird migration"
+        },
+        "FunFacts": [
+            "Bar-headed geese can fly at altitudes of over 8,000 meters (26,000 feet).",
+            "They have a higher breathing rate and larger lungs than other geese to cope with low oxygen levels."
+        ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+},
+{
+    "id": "079d55db-b95a-4119-b950-b28674167293",
+    "imageData": "",
+    "animalInfo": {
+        "id": "826fb351-1e0c-44e1-acf2-fbf417a78b3c",
+        "CommonName": "Lammergeier",
+        "ScientificName": "Gypaetus barbatus",
+        "OtherNames": [
+            "Bearded Vulture"
+        ],
+        "Classification": {
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Aves",
+            "Order": "Accipitriformes",
+            "Family": "Accipitridae",
+            "Genus": "Gypaetus",
+            "Species": "barbatus"
+        },
+        "Habitat": {
+            "Environment": "High Altitude",
+            "Distribution":
+                "Mountain ranges of Southern Europe, Africa, and Asia",
+            "Countries": [
+                "Europe (Pyrenees, Alps, Balkans)",
+                "Africa (Ethiopia, East Africa)",
+                "Asia (Himalayas, Caucasus, Central Asia)"
+            ]
+        },
+        "PhysicalTraits": {
+            "Size":
+                "Estimated: 1-1.2 meters (length), 2.5-3 meters (wingspan)",
+            "Weight": "Estimated: 4.5-7.8 kg",
+            "Color":
+                "Bluish-grey to black upperparts, rusty-orange underparts, with a distinctive 'beard' of black bristles",
+            "Lifespan": "Estimated: 20-30 years (in the wild)",
+            "SpecialTraits": [
+                "Specialized diet of bones (osteophagy)",
+                "Long, narrow wings for soaring",
+                "Distinctive beard and facial markings"
+            ]
+        },
+        "Diet": {
+            "Type": "Scavenger (Carnivore, primarily osteophagous)",
+            "Foods": [
+                "Bones and bone marrow (up to 90% of diet)",
+                "Carrion (muscle tissue occasionally)"
+            ]
+        },
+        "Behavior": {
+            "ActivityTime": "Diurnal",
+            "SocialType":
+                "Monogamous pairs, can be seen singly or in small groups at carcasses",
+            "IntelligenceLevel": "High (tool use for cracking bones)",
+            "Communication": "Whistles, hisses, guttural calls"
+        },
+        "Reproduction": {
+            "MaturityAge": "5-7 years",
+            "GestationPeriod":
+                "Egg layer (incubation: Estimated 53-58 days)",
+            "OffspringPerBirth": "1-2 eggs",
+            "ReproductionCycle": "Annually"
+        },
+        "ConservationStatus": {
+            "IUCNStatus": "Near Threatened",
+            "PopulationTrend":
+                "Stable in some areas, increasing with conservation efforts, but generally vulnerable",
+            "Threats": [
+                "Poisoning (from poisoned carcasses)",
+                "Habitat loss and degradation",
+                "Direct persecution",
+                "Collisions with power lines"
+            ]
+        },
+        "HumanInteraction": {
+            "DangerLevel": "Low",
+            "PetFriendly": false,
+            "LegalStatus": "Protected",
+            "Notes": "Unique among birds of prey for its diet of bones"
+        },
+        "FunFacts": [
+            "Lammergeiers drop bones from heights onto rocks to shatter them and access the marrow.",
+            "They are often seen with rusty-orange plumage, which is believed to be from bathing in iron-rich mud."
+        ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+},
+{
+    "id": "e30a20a1-4931-458a-b4c8-dbb133ffbc5a",
+    "imageData": "",
+    "animalInfo": {
+        "id": "ddfc9b44-2763-4489-b1be-a54c969c94af",
+        "CommonName": "Red-billed Chough",
+        "ScientificName": "Pyrrhocorax pyrrhocorax",
+        "OtherNames": [
+            "Cornish Chough"
+        ],
+        "Classification": {
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Aves",
+            "Order": "Passeriformes",
+            "Family": "Corvidae",
+            "Genus": "Pyrrhocorax",
+            "Species": "pyrrhocorax"
+        },
+        "Habitat": {
+            "Environment": "High Altitude",
+            "Distribution":
+                "Coastal cliffs and high mountains across Europe, Asia, and North Africa",
+            "Countries": [
+                "Europe (Ireland, UK, Spain, Italy, Alps)",
+                "North Africa",
+                "Middle East",
+                "Central Asia",
+                "China"
+            ]
+        },
+        "PhysicalTraits": {
+            "Size": "Estimated: 39-40 cm (length), 73-90 cm (wingspan)",
+            "Weight": "Estimated: 250-350 grams",
+            "Color":
+                "Glossy black plumage with a bright red bill and red legs",
+            "Lifespan": "Estimated: 10-15 years (in the wild)",
+            "SpecialTraits": [
+                "Highly social and intelligent",
+                "Distinctive red bill and legs",
+                "Graceful, agile fliers"
+            ]
+        },
+        "Diet": {
+            "Type": "Omnivore",
+            "Foods": [
+                "Insects (especially ants and beetles)",
+                "Larvae",
+                "Seeds",
+                "Berries",
+                "Scraps of food"
+            ]
+        },
+        "Behavior": {
+            "ActivityTime": "Diurnal",
+            "SocialType":
+                "Social (flocks), monogamous pairs during breeding season",
+            "IntelligenceLevel": "High",
+            "Communication":
+                "Loud, sharp 'chee-ow' calls, various chirps and caws"
+        },
+        "Reproduction": {
+            "MaturityAge": "2-3 years",
+            "GestationPeriod":
+                "Egg layer (incubation: Estimated 17-18 days)",
+            "OffspringPerBirth": "3-6 eggs",
+            "ReproductionCycle": "Annually"
+        },
+        "ConservationStatus": {
+            "IUCNStatus": "Least Concern",
+            "PopulationTrend":
+                "Stable in some areas, recovering in others due to conservation efforts",
+            "Threats": [
+                "Habitat loss and degradation (e.g., changes in grazing practices)",
+                "Disturbance",
+                "Climate change"
+            ]
+        },
+        "HumanInteraction": {
+            "DangerLevel": "Low",
+            "PetFriendly": false,
+            "LegalStatus": "Protected in many areas",
+            "Notes": "Often associated with ancient folklore and mythology"
+        },
+        "FunFacts": [
+            "The red-billed chough is the national bird emblem of Cornwall, UK.",
+            "They use their curved red bills to probe for invertebrates in soil and turf."
+        ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+},
+{
+    "id": "34ccb5ec-2fed-4b62-9805-f13c3dd17358",
+    "imageData": "",
+    "animalInfo": {
+        "id": "847c991f-3d57-47e2-9a92-4d3d8ce9cd80",
+        "CommonName": "Peregrine Falcon",
+        "ScientificName": "Falco peregrinus",
+        "OtherNames": [
+            "Duck Hawk"
+        ],
+        "Classification": {
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Aves",
+            "Order": "Falconiformes",
+            "Family": "Falconidae",
+            "Genus": "Falco",
+            "Species": "peregrinus"
+        },
+        "Habitat": {
+            "Environment": "High Altitude",
+            "Distribution": "Mountain ranges and high elevations",
+            "Countries": [
+                "Britain (mainly in the north & west of England, Scotland & Ireland)",
+                "rest of Europe",
+                "Asia",
+                "North & South America",
+                "Africa",
+                "Australasia"
+            ]
+        },
+        "PhysicalTraits": {
+            "Size":
+                "Length: 34-58 cm (13-23 in), Wingspan: 74-120 cm (29-47 in)",
+            "Weight":
+                "Male: 420–750 g (0.93–1.65 lb), Female: 910–1,500 g (2.0–3.3 lb)",
+            "Color":
+                "Blue-grey back, barred white underparts, and a black head",
+            "Lifespan": "Estimated: Up to 15-20 years in the wild",
+            "SpecialTraits": [
+                "Extremely fast, known for its diving speed during hunting (stoop)"
+            ]
+        },
+        "Diet": {
+            "Type": "Carnivore",
+            "Foods": [
+                "Mainly medium-sized birds (e.g., pigeons, doves, waterfowl, songbirds)",
+                "sometimes small mammals, reptiles, or insects"
+            ]
+        },
+        "Behavior": {
+            "ActivityTime": "Diurnal",
+            "SocialType": "Solitary or in breeding pairs",
+            "IntelligenceLevel":
+                "High (known for complex hunting strategies)",
+            "Communication": "Loud, harsh calls (e.g., \"kak-kak-kak\")"
+        },
+        "Reproduction": {
+            "MaturityAge": "Estimated: 1-3 years",
+            "GestationPeriod": "Incubation period: 29-33 days",
+            "OffspringPerBirth": "2-5 eggs",
+            "ReproductionCycle": "Annual, typically once a year"
+        },
+        "ConservationStatus": {
+            "IUCNStatus": "Least Concern",
+            "PopulationTrend":
+                "Increasing (recovered from DDT-related decline)",
+            "Threats": [
+                "Historically DDT",
+                "habitat loss",
+                "illegal shooting"
+            ]
+        },
+        "HumanInteraction": {
+            "DangerLevel": "Low",
+            "PetFriendly": false,
+            "LegalStatus":
+                "Protected under various national and international laws (e.g., Migratory Bird Treaty Act in the US)",
+            "Notes": ""
+        },
+        "FunFacts": []
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+},
+{
+    "id": "fd745401-f0a2-46cb-a050-83e90df7b609",
+    "imageData": "",
+    "animalInfo": {
+        "id": "83b168f7-b62e-4355-99b4-a2707a198973",
+        "CommonName": "Griffon Vulture",
+        "ScientificName": "Gyps fulvus",
+        "OtherNames": [
+            "Eurasian Griffon"
+        ],
+        "Classification": {
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Aves",
+            "Order": "Accipitriformes",
+            "Family": "Accipitridae",
+            "Genus": "Gyps",
+            "Species": "fulvus"
+        },
+        "Habitat": {
+            "Environment": "High Altitude",
+            "Distribution": "Mountain ranges and high elevations",
+            "Countries": [
+                "Middle East",
+                "North Africa",
+                "Europe (from India to Portugal and Spain)",
+                "most commonly in countries that border the Mediterranean"
+            ]
+        },
+        "PhysicalTraits": {
+            "Size":
+                "Length: 93-122 cm (37-48 in), Wingspan: 2.3-2.8 m (7.5-9.2 ft)",
+            "Weight": "6.2-11 kg (14-24 lb)",
+            "Color":
+                "Pale brown body, darker flight feathers, white head and neck, pale bill",
+            "Lifespan":
+                "Estimated: Up to 40 years in captivity, 20-25 years in the wild",
+            "SpecialTraits": [
+                "Excellent soaring abilities, bald head and neck for hygiene when feeding on carrion"
+            ]
+        },
+        "Diet": {
+            "Type": "Scavenger (Carnivore)",
+            "Foods": [
+                "Primarily carrion (dead animals)"
+            ]
+        },
+        "Behavior": {
+            "ActivityTime": "Diurnal",
+            "SocialType":
+                "Colonial (roost and nest in colonies), gregarious when feeding",
+            "IntelligenceLevel":
+                "Moderate (efficient at locating carcasses)",
+            "Communication": "Hissing, grunting, and various squawks"
+        },
+        "Reproduction": {
+            "MaturityAge": "Estimated: 3-5 years",
+            "GestationPeriod": "Incubation period: 48-54 days",
+            "OffspringPerBirth": "1 egg",
+            "ReproductionCycle": "Annual, breeding season varies by region"
+        },
+        "ConservationStatus": {
+            "IUCNStatus": "Least Concern",
+            "PopulationTrend": "Increasing",
+            "Threats": [
+                "Poisoning (especially from poisoned bait)",
+                "habitat loss",
+                "disturbance at nesting sites",
+                "power lines"
+            ]
+        },
+        "HumanInteraction": {
+            "DangerLevel": "Low",
+            "PetFriendly": false,
+            "LegalStatus":
+                "Protected in many parts of its range, subject to conservation efforts",
+            "Notes": ""
+        },
+        "FunFacts": []
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+},
+{
+    "id": "47036c70-af71-4d7e-b1d8-9b92038a19cb",
+    "imageData": "",
+    "animalInfo": {
+        "id": "6920ad95-b1fb-4236-9ca5-12bf0491f50c",
+        "CommonName": "Himalayan Monal",
+        "ScientificName": "Lophophorus impejanus",
+        "OtherNames": [
+            "Impeyan Monal",
+            "Impeyan Pheasant"
+        ],
+        "Classification": {
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Aves",
+            "Order": "Galliformes",
+            "Family": "Phasianidae",
+            "Genus": "Lophophorus",
+            "Species": "impejanus"
+        },
+        "Habitat": {
+            "Environment": "High Altitude",
+            "Distribution": "Mountain ranges and high elevations",
+            "Countries": [
+                "Himalayan regions of Afghanistan",
+                "Pakistan",
+                "India",
+                "Nepal",
+                "southern Tibet",
+                "Bhutan"
+            ]
+        },
+        "PhysicalTraits": {
+            "Size": "Male: 70 cm (28 in) long, Female: 64 cm (25 in) long",
+            "Weight":
+                "Male: 1.7-2.3 kg (3.7-5.1 lb), Female: 1.5-1.8 kg (3.3-4.0 lb)",
+            "Color":
+                "Male: iridescent multi-colored plumage, Female: duller brown plumage",
+            "Lifespan": "Estimated: 10-15 years",
+            "SpecialTraits": [
+                "Vibrant, metallic-colored plumage in males, crest on head"
+            ]
+        },
+        "Diet": {
+            "Type": "Omnivore",
+            "Foods": [
+                "Roots",
+                "tubers",
+                "insects",
+                "seeds",
+                "berries"
+            ]
+        },
+        "Behavior": {
+            "ActivityTime": "Diurnal",
+            "SocialType": "Solitary or in small groups",
+            "IntelligenceLevel": "Unknown",
+            "Communication":
+                "Various calls, including alarm calls and crowing"
+        },
+        "Reproduction": {
+            "MaturityAge": "Estimated: 1-2 years",
+            "GestationPeriod": "Incubation period: 27-29 days",
+            "OffspringPerBirth": "3-5 eggs",
+            "ReproductionCycle":
+                "Annual, breeding season typically in spring/early summer"
+        },
+        "ConservationStatus": {
+            "IUCNStatus": "Least Concern",
+            "PopulationTrend": "Stable",
+            "Threats": [
+                "Habitat degradation",
+                "poaching for feathers and meat"
+            ]
+        },
+        "HumanInteraction": {
+            "DangerLevel": "Low",
+            "PetFriendly": false,
+            "LegalStatus":
+                "Protected in some parts of its range, national bird of Nepal",
+            "Notes": ""
+        },
+        "FunFacts": []
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+},
+{
+    "id": "3308a52e-d5b3-483b-a45d-a89806583f20",
+    "imageData": "",
+    "animalInfo": {
+        "id": "5b986b18-acc2-41b4-847b-2cf3a72ae547",
+        "CommonName": "Tibetan Antelope",
+        "ScientificName": "Pantholops hodgsonii",
+        "OtherNames": [
+            "Chiru"
+        ],
+        "Classification": {
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Mammalia",
+            "Order": "Estimated: Artiodactyla",
+            "Family": "Bovidae",
+            "Genus": "Pantholops",
+            "Species": "hodgsonii"
+        },
+        "Habitat": {
+            "Environment": "High Altitude",
+            "Distribution": "Mountain ranges and high elevations",
+            "Countries": [
+                "Tibetan Plateau in China (Tibet Autonomous Region, Xinjiang--Uygur Autonomous Region, and Qinghai Province)",
+                "small portions of India (Ladakh) and western Nepal"
+            ]
+        },
+        "PhysicalTraits": {
+            "Size":
+                "Shoulder height: 75-85 cm (30-33 in), Length: 1.2-1.4 m (3.9-4.6 ft)",
+            "Weight":
+                "Male: 35-45 kg (77-99 lb), Female: 25-35 kg (55-77 lb)",
+            "Color":
+                "Dull fawn to reddish-brown coat, white belly, males have black stripes on legs and black face markings",
+            "Lifespan": "Estimated: 8-10 years in the wild",
+            "SpecialTraits": [
+                "Males have long, slender, ridged horns that can reach up to 70 cm, thick undercoat (shahtoosh wool)"
+            ]
+        },
+        "Diet": {
+            "Type": "Herbivore",
+            "Foods": [
+                "Grasses",
+                "sedges",
+                "herbs"
+            ]
+        },
+        "Behavior": {
+            "ActivityTime": "Diurnal",
+            "SocialType":
+                "Herds (females and young often in large groups, males solitary or in small bachelor groups)",
+            "IntelligenceLevel": "Unknown",
+            "Communication": "Snorts, whistles"
+        },
+        "Reproduction": {
+            "MaturityAge": "Estimated: 1.5-2.5 years",
+            "GestationPeriod": "Estimated: 7-8 months",
+            "OffspringPerBirth": "Typically 1, rarely 2",
+            "ReproductionCycle": "Annual"
+        },
+        "ConservationStatus": {
+            "IUCNStatus": "Near Threatened",
+            "PopulationTrend":
+                "Increasing (due to conservation efforts, but still threatened by poaching)",
+            "Threats": [
+                "Poaching for shahtoosh wool",
+                "habitat degradation",
+                "climate change"
+            ]
+        },
+        "HumanInteraction": {
+            "DangerLevel": "Low",
+            "PetFriendly": false,
+            "LegalStatus":
+                "Protected species, international ban on trade in shahtoosh wool",
+            "Notes": ""
+        },
+        "FunFacts": []
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+},
+{
+    "id": "ab64dbe1-5fae-4694-afc9-069ba3dfb959",
+    "imageData": "",
+    "animalInfo": {
+        "id": "975a792e-2e24-4c9c-8274-0bed61638650",
+        "CommonName": "Markhor",
+        "ScientificName": "Capra falconeri",
+        "OtherNames": [
+            "Spiral-horned goat"
+        ],
+        "Classification": {
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Mammalia",
+            "Order": "Estimated: Artiodactyla",
+            "Family": "Bovidae",
+            "Genus": "Capra",
+            "Species": "falconeri"
+        },
+        "Habitat": {
+            "Environment": "High Altitude",
+            "Distribution": "Mountain ranges and high elevations",
+            "Countries": [
+                "Region between lower Pyanj and the Vakhsh Rivers near Kulyab in Tajikistan",
+                "Kugitangtau Range in Uzbekistan and Turkmenistan",
+                "Laghman and Nuristan (Afghanistan)"
+            ]
+        },
+        "PhysicalTraits": {
+            "Size":
+                "Shoulder height: 65-115 cm (26-45 in), Length: 1.32-1.86 m (4.3-6.1 ft)",
+            "Weight":
+                "Male: 32-110 kg (71-243 lb), Female: 32-50 kg (71-110 lb)",
+            "Color":
+                "Grey-brown coat, males have long, shaggy hair on chin, chest, and shanks",
+            "Lifespan": "Estimated: 10-13 years in the wild",
+            "SpecialTraits": [
+                "Distinctive spiral horns, which can grow up to 160 cm (63 in) in males"
+            ]
+        },
+        "Diet": {
+            "Type": "Herbivore",
+            "Foods": [
+                "Grasses",
+                "leaves",
+                "shrubs",
+                "twigs"
+            ]
+        },
+        "Behavior": {
+            "ActivityTime":
+                "Diurnal, active during early morning and late afternoon",
+            "SocialType":
+                "Herds (females and young, males often solitary or in small groups)",
+            "IntelligenceLevel": "Unknown",
+            "Communication": "Alarm calls, bleats"
+        },
+        "Reproduction": {
+            "MaturityAge": "Estimated: 1.5-2 years",
+            "GestationPeriod": "Estimated: 135-170 days",
+            "OffspringPerBirth": "1-2, rarely 3",
+            "ReproductionCycle": "Annual, rutting season in winter"
+        },
+        "ConservationStatus": {
+            "IUCNStatus": "Near Threatened",
+            "PopulationTrend": "Increasing (due to conservation efforts)",
+            "Threats": [
+                "Poaching for meat and horns",
+                "habitat loss",
+                "competition with livestock"
+            ]
+        },
+        "HumanInteraction": {
+            "DangerLevel": "Low",
+            "PetFriendly": false,
+            "LegalStatus":
+                "Protected species, hunting regulated in some areas",
+            "Notes": ""
+        },
+        "FunFacts": []
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+},
+{
+    "id": "76493825-cfb5-48d6-aa6c-ceef1fabea15",
+    "imageData": "",
+    "animalInfo": {
+        "id": "b8e1b6d5-22ed-47cf-9f23-b7d0d950e5cc",
+        "CommonName": "Wallcreeper",
+        "ScientificName": "Tichodroma muraria",
+        "OtherNames": [
+            "Rock Creeper"
+        ],
+        "Classification": {
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Aves",
+            "Order": "Passeriformes",
+            "Family": "Tichodromidae",
+            "Genus": "Tichodroma",
+            "Species": "muraria"
+        },
+        "Habitat": {
+            "Environment": "High Altitude",
+            "Distribution": "Mountain ranges and high elevations",
+            "Countries": [
+                "High mountains of the Palearctic from southern Europe to central China",
+                "India",
+                "Nepal",
+                "Bhutan",
+                "parts of Tibet",
+                "Bangladesh",
+                "England",
+                "Netherlands"
+            ]
+        },
+        "PhysicalTraits": {
+            "Size": "Length: 15.5-17 cm (6.1-6.7 in)",
+            "Weight": "15-20 g (0.53-0.71 oz)",
+            "Color":
+                "Grey body, crimson wing patches, black throat in breeding males",
+            "Lifespan": "Estimated: 3-5 years",
+            "SpecialTraits": [
+                "Unique climbing behavior, long curved claws, large wings with distinct red patches visible in flight"
+            ]
+        },
+        "Diet": {
+            "Type": "Insectivore",
+            "Foods": [
+                "Insects",
+                "spiders",
+                "other invertebrates found in rock crevices"
+            ]
+        },
+        "Behavior": {
+            "ActivityTime": "Diurnal",
+            "SocialType": "Solitary or in pairs during breeding season",
+            "IntelligenceLevel": "Unknown",
+            "Communication": "Soft whistling calls"
+        },
+        "Reproduction": {
+            "MaturityAge": "Estimated: 1 year",
+            "GestationPeriod": "Incubation period: Estimated 18-20 days",
+            "OffspringPerBirth": "3-5 eggs",
+            "ReproductionCycle": "Annual"
+        },
+        "ConservationStatus": {
+            "IUCNStatus": "Least Concern",
+            "PopulationTrend": "Stable",
+            "Threats": [
+                "Habitat degradation",
+                "disturbance"
+            ]
+        },
+        "HumanInteraction": {
+            "DangerLevel": "Low",
+            "PetFriendly": false,
+            "LegalStatus": "Protected in many areas",
+            "Notes": ""
+        },
+        "FunFacts": []
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+},
+{
+    "id": "abc0251c-e4b6-438d-8026-9a03deec8529",
+    "imageData": "",
+    "animalInfo": {
+        "id": "1440f547-bfa0-40ca-87d4-4bca8f043afc",
+        "CommonName": "Snow Partridge",
+        "ScientificName": "Lerwa lerwa",
+        "OtherNames": [],
+        "Classification": {
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Aves",
+            "Order": "Galliformes",
+            "Family": "Phasianidae",
+            "Genus": "Lerwa",
+            "Species": "lerwa"
+        },
+        "Habitat": {
+            "Environment": "High Altitude",
+            "Distribution": "Mountain ranges and high elevations",
+            "Countries": [
+                "High-altitude Himalayan regions of Pakistan",
+                "China",
+                "India",
+                "Nepal"
+            ]
+        },
+        "PhysicalTraits": {
+            "Size": "Length: 38-40 cm (15-16 in)",
+            "Weight": "Estimated: 450-550 g (1.0-1.2 lb)",
+            "Color":
+                "Mottled grey-brown plumage, white patches on face and neck, white belly with dark streaks",
+            "Lifespan": "Estimated: 5-7 years",
+            "SpecialTraits": [
+                "Well-camouflaged in rocky, snowy habitats"
+            ]
+        },
+        "Diet": {
+            "Type": "Herbivore",
+            "Foods": [
+                "Vegetation",
+                "roots",
+                "seeds",
+                "berries"
+            ]
+        },
+        "Behavior": {
+            "ActivityTime": "Diurnal",
+            "SocialType": "Coveys (small groups)",
+            "IntelligenceLevel": "Unknown",
+            "Communication": "Whistling calls"
+        },
+        "Reproduction": {
+            "MaturityAge": "Estimated: 1 year",
+            "GestationPeriod": "Incubation period: Estimated 21-24 days",
+            "OffspringPerBirth": "3-5 eggs",
+            "ReproductionCycle":
+                "Annual, breeding season in late spring/summer"
+        },
+        "ConservationStatus": {
+            "IUCNStatus": "Least Concern",
+            "PopulationTrend": "Stable",
+            "Threats": [
+                "Habitat degradation",
+                "hunting (local)"
+            ]
+        },
+        "HumanInteraction": {
+            "DangerLevel": "Low",
+            "PetFriendly": false,
+            "LegalStatus":
+                "Unknown (likely protected in national parks/reserves)",
+            "Notes": ""
+        },
+        "FunFacts": []
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+},
+{
+    "id": "77874aa1-6fbf-4b10-bfa2-bd1bad47a64a",
+    "imageData": "",
+    "animalInfo": {
+        "id": "3f4487e5-815f-4c52-b0f7-59fc703fe4c1",
+        "CommonName": "Rock Ptarmigan",
+        "ScientificName": "Lagopus muta",
+        "OtherNames": [
+            "Ptarmigan",
+            "Snow Grouse"
+        ],
+        "Classification": {
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Aves",
+            "Order": "Galliformes",
+            "Family": "Phasianidae",
+            "Genus": "Lagopus",
+            "Species": "muta"
+        },
+        "Habitat": {
+            "Environment": "High Altitude",
+            "Distribution": "Mountain ranges and high elevations",
+            "Countries": [
+                "Arctic Cordillera",
+                "Norway",
+                "Sweden",
+                "Scotland",
+                "Pyrenees",
+                "Alps",
+                "Bulgaria",
+                "Urals",
+                "Pamir Mountains",
+                "Altay Mountains",
+                "Japan (Japanese Alps and on Mount Haku)"
+            ]
+        },
+        "PhysicalTraits": {
+            "Size": "Length: 32-38 cm (13-15 in)",
+            "Weight": "450-650 g (1.0-1.4 lb)",
+            "Color":
+                "Seasonal camouflage: white in winter, mottled grey-brown in summer",
+            "Lifespan": "Estimated: 5-7 years",
+            "SpecialTraits": [
+                "Feathered feet for insulation and traction in snow, seasonal plumage change"
+            ]
+        },
+        "Diet": {
+            "Type": "Herbivore",
+            "Foods": [
+                "Buds",
+                "leaves",
+                "flowers",
+                "berries",
+                "seeds",
+                "twigs"
+            ]
+        },
+        "Behavior": {
+            "ActivityTime": "Diurnal",
+            "SocialType": "Coveys (small groups), solitary during breeding",
+            "IntelligenceLevel": "Unknown",
+            "Communication": "Various calls, including cackles and croaks"
+        },
+        "Reproduction": {
+            "MaturityAge": "Estimated: 1 year",
+            "GestationPeriod": "Incubation period: 20-23 days",
+            "OffspringPerBirth": "6-9 eggs",
+            "ReproductionCycle": "Annual"
+        },
+        "ConservationStatus": {
+            "IUCNStatus": "Least Concern",
+            "PopulationTrend":
+                "Stable, but vulnerable to climate change in some areas",
+            "Threats": [
+                "Climate change (loss of snow cover)",
+                "habitat loss",
+                "hunting"
+            ]
+        },
+        "HumanInteraction": {
+            "DangerLevel": "Low",
+            "PetFriendly": false,
+            "LegalStatus":
+                "Game bird in some regions, but regulated hunting",
+            "Notes": ""
+        },
+        "FunFacts": []
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+},
+{
+    "id": "59b56a48-3c89-4602-b833-b54179371436",
+    "imageData": "",
+    "animalInfo": {
+        "id": "d3d21d84-0edc-4697-b39b-c1ec24ba971a",
+        "CommonName": "Hoary Marmot",
+        "ScientificName": "Marmota caligata",
+        "OtherNames": [
+            "Whistler",
+            "Whistle Pig"
+        ],
+        "Classification": {
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Mammalia",
+            "Order": "Rodentia",
+            "Family": "Sciuridae",
+            "Genus": "Marmota",
+            "Species": "caligata"
+        },
+        "Habitat": {
+            "Environment": "High Altitude",
+            "Distribution": "Mountain ranges and high elevations",
+            "Countries": [
+                "Northwest North America (southern Washington and central Idaho north and through much of Alaska south of the Yukon River)"
+            ]
+        },
+        "PhysicalTraits": {
+            "Size":
+                "Length: 62-82 cm (24-32 in), Tail: 18-25 cm (7.1-9.8 in)",
+            "Weight":
+                "2.5-5.0 kg (5.5-11 lb), up to 15 kg (33 lb) before hibernation",
+            "Color":
+                "Grey-brown with white \"hoary\" patches on shoulders and head, dark feet and tail tip",
+            "Lifespan": "Estimated: 10-15 years in the wild",
+            "SpecialTraits": [
+                "Produces a distinct loud whistle as an alarm call, true hibernator"
+            ]
+        },
+        "Diet": {
+            "Type": "Herbivore",
+            "Foods": [
+                "Grasses",
+                "forbs",
+                "flowers",
+                "leaves",
+                "seeds"
+            ]
+        },
+        "Behavior": {
+            "ActivityTime": "Diurnal",
+            "SocialType": "Colonial, live in family groups or colonies",
+            "IntelligenceLevel": "Unknown",
+            "Communication": "Loud warning whistles, trills, barks"
+        },
+        "Reproduction": {
+            "MaturityAge": "Estimated: 2-3 years",
+            "GestationPeriod": "Estimated: 30-32 days",
+            "OffspringPerBirth": "2-5 young",
+            "ReproductionCycle": "Annual, breeding after hibernation"
+        },
+        "ConservationStatus": {
+            "IUCNStatus": "Least Concern",
+            "PopulationTrend": "Stable",
+            "Threats": [
+                "Habitat degradation",
+                "climate change (affecting hibernation)",
+                "predation"
+            ]
+        },
+        "HumanInteraction": {
+            "DangerLevel": "Low",
+            "PetFriendly": false,
+            "LegalStatus":
+                "Generally not hunted, protected in national parks",
+            "Notes": ""
+        },
+        "FunFacts": []
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+},
+{
+    "id": "baa82ced-3942-4f4d-8a02-3182d4b6e8c0",
+    "imageData": "",
+    "animalInfo": {
+        "id": "97a942c2-a657-4fba-918e-659287b0fc56",
+        "CommonName": "Tibetan Fox",
+        "ScientificName": "Vulpes ferrilata",
+        "OtherNames": [],
+        "Classification": {
+            "Kingdom": "Animalia",
+            "Phylum": "Chordata",
+            "Class": "Mammalia",
+            "Order": "Estimated: Carnivora",
+            "Family": "Canidae",
+            "Genus": "Vulpes",
+            "Species": "ferrilata"
+        },
+        "Habitat": {
+            "Environment": "High Altitude",
+            "Distribution": "Mountain ranges and high elevations",
+            "Countries": [
+                "High Tibetan Plateau",
+                "Nepal",
+                "China",
+                "Bhutan",
+                "Indian states of Ladakh and Sikkim"
+            ]
+        },
+        "PhysicalTraits": {
+            "Size":
+                "Length: 60-70 cm (24-28 in), Tail: 29-40 cm (11-16 in)",
+            "Weight": "3-5 kg (6.6-11 lb)",
+            "Color":
+                "Square-shaped head, thick greyish-brown to reddish-brown coat with lighter underside, bushy tail",
+            "Lifespan": "Estimated: 5-8 years in the wild",
+            "SpecialTraits": [
+                "Unique facial structure (broad, square muzzle), well-adapted to high-altitude cold environments"
+            ]
+        },
+        "Diet": {
+            "Type": "Carnivore",
+            "Foods": [
+                "Pikas (main prey)",
+                "marmots",
+                "small rodents",
+                "birds",
+                "carrion"
+            ]
+        },
+        "Behavior": {
+            "ActivityTime": "Diurnal",
+            "SocialType": "Solitary or in pairs",
+            "IntelligenceLevel": "Unknown",
+            "Communication": "Barks, yelps"
+        },
+        "Reproduction": {
+            "MaturityAge": "Estimated: 1 year",
+            "GestationPeriod": "Estimated: 50-60 days",
+            "OffspringPerBirth": "2-5 pups",
+            "ReproductionCycle":
+                "Annual, breeding season in late winter/early spring"
+        },
+        "ConservationStatus": {
+            "IUCNStatus": "Least Concern",
+            "PopulationTrend": "Stable",
+            "Threats": [
+                "Habitat degradation",
+                "poisoning campaigns against pikas",
+                "incidental trapping"
+            ]
+        },
+        "HumanInteraction": {
+            "DangerLevel": "Low",
+            "PetFriendly": false,
+            "LegalStatus":
+                "Unknown (likely not protected for hunting, but habitat is protected)",
+            "Notes": ""
+        },
+        "FunFacts": []
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+}
+]

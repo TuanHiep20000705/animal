@@ -1,6 +1,7 @@
-import 'package:flutter_blue_plus_example/model/animal_scan_data.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
+
+import 'animal_scan_data.dart';
 
 class DatabaseHelper {
   static final DatabaseHelper instance = DatabaseHelper._init();

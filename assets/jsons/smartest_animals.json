@@ -1,224 +1,242 @@
 [
   {
-    "CommonName": "Chimpanzee",
-    "ScientificName": "Pan troglodytes",
-    "OtherNames": [
-      "Chimp"
-    ],
-    "Classification": {
-      "Kingdom": "Animalia",
-      "Phylum": "Chordata",
-      "Class": "Mammalia",
-      "Order": "Primates",
-      "Family": "Hominidae",
-      "Genus": "Pan",
-      "Species": "troglodytes"
-    },
-    "Habitat": {
-      "Environment": "Tropical forests",
-      "Distribution": "Central and West Africa",
-      "Countries": [
-        "Gabon",
-        "Democratic Republic of Congo",
-        "Uganda"
+    "id": "c1db9939-bc2c-44ca-b32c-237c86f91c2a",
+    "imageData": "",
+    "animalInfo": {
+      "CommonName": "Chimpanzee",
+      "ScientificName": "Pan troglodytes",
+      "OtherNames": [
+        "Chimp"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Hominidae",
+        "Genus": "Pan",
+        "Species": "troglodytes"
+      },
+      "Habitat": {
+        "Environment": "Tropical forests",
+        "Distribution": "Central and West Africa",
+        "Countries": [
+          "Gabon",
+          "Democratic Republic of Congo",
+          "Uganda"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "1\u20131.7 meters",
+        "Weight": "40\u201360 kg",
+        "Color": "Black or dark brown",
+        "Lifespan": "40\u201350 years",
+        "SpecialTraits": [
+          "Opposable thumbs",
+          "Facial expressions"
+        ]
+      },
+      "Diet": {
+        "Type": "Omnivore",
+        "Foods": [
+          "Fruits",
+          "Leaves",
+          "Insects",
+          "Meat"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Highly social",
+        "IntelligenceLevel": "Very High",
+        "Communication": "Gestures, vocalizations, facial expressions"
+      },
+      "Reproduction": {
+        "MaturityAge": "13 years",
+        "GestationPeriod": "230 days",
+        "OffspringPerBirth": "1",
+        "ReproductionCycle": "3\u20135 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Endangered",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Habitat loss",
+          "Poaching",
+          "Disease"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Medium",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Used in cognitive research"
+      },
+      "FunFacts": [
+        "Use tools to get food",
+        "Can learn sign language"
       ]
     },
-    "PhysicalTraits": {
-      "Size": "1\u20131.7 meters",
-      "Weight": "40\u201360 kg",
-      "Color": "Black or dark brown",
-      "Lifespan": "40\u201350 years",
-      "SpecialTraits": [
-        "Opposable thumbs",
-        "Facial expressions"
-      ]
-    },
-    "Diet": {
-      "Type": "Omnivore",
-      "Foods": [
-        "Fruits",
-        "Leaves",
-        "Insects",
-        "Meat"
-      ]
-    },
-    "Behavior": {
-      "ActivityTime": "Diurnal",
-      "SocialType": "Highly social",
-      "IntelligenceLevel": "Very High",
-      "Communication": "Gestures, vocalizations, facial expressions"
-    },
-    "Reproduction": {
-      "MaturityAge": "13 years",
-      "GestationPeriod": "230 days",
-      "OffspringPerBirth": "1",
-      "ReproductionCycle": "3\u20135 years"
-    },
-    "ConservationStatus": {
-      "IUCNStatus": "Endangered",
-      "PopulationTrend": "Decreasing",
-      "Threats": [
-        "Habitat loss",
-        "Poaching",
-        "Disease"
-      ]
-    },
-    "HumanInteraction": {
-      "DangerLevel": "Medium",
-      "PetFriendly": false,
-      "LegalStatus": "Protected",
-      "Notes": "Used in cognitive research"
-    },
-    "FunFacts": [
-      "Use tools to get food",
-      "Can learn sign language"
-    ]
+    "dateTime": "2025-07-11T09:26:10.756127",
+    "actionType": "explore"
   },
   {
-    "CommonName": "Dolphin",
-    "ScientificName": "Delphinidae",
-    "OtherNames": [
-      "Bottlenose dolphin"
-    ],
-    "Classification": {
-      "Kingdom": "Animalia",
-      "Phylum": "Chordata",
-      "Class": "Mammalia",
-      "Order": "Cetacea",
-      "Family": "Delphinidae",
-      "Genus": "Tursiops",
-      "Species": "truncatus"
-    },
-    "Habitat": {
-      "Environment": "Marine",
-      "Distribution": "Global oceans",
-      "Countries": [
-        "USA",
-        "Australia",
-        "New Zealand"
+    "id": "c1db9939-bc2c-44ca-b32c-237c86f91c2a",
+    "imageData": "",
+    "animalInfo": {
+      "CommonName": "Dolphin",
+      "ScientificName": "Delphinidae",
+      "OtherNames": [
+        "Bottlenose dolphin"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cetacea",
+        "Family": "Delphinidae",
+        "Genus": "Tursiops",
+        "Species": "truncatus"
+      },
+      "Habitat": {
+        "Environment": "Marine",
+        "Distribution": "Global oceans",
+        "Countries": [
+          "USA",
+          "Australia",
+          "New Zealand"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "2\u20134 meters",
+        "Weight": "150\u2013650 kg",
+        "Color": "Gray",
+        "Lifespan": "40\u201360 years",
+        "SpecialTraits": [
+          "Echolocation",
+          "Complex brain"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Fish",
+          "Squid"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "All day",
+        "SocialType": "Pods",
+        "IntelligenceLevel": "Very High",
+        "Communication": "Clicks, whistles, body language"
+      },
+      "Reproduction": {
+        "MaturityAge": "5\u201313 years",
+        "GestationPeriod": "12 months",
+        "OffspringPerBirth": "1",
+        "ReproductionCycle": "Every 3\u20136 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Stable",
+        "Threats": [
+          "Fishing nets",
+          "Pollution"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Regulated",
+        "Notes": "Used in therapy and military"
+      },
+      "FunFacts": [
+        "Recognize themselves in mirrors",
+        "Name each other"
       ]
     },
-    "PhysicalTraits": {
-      "Size": "2\u20134 meters",
-      "Weight": "150\u2013650 kg",
-      "Color": "Gray",
-      "Lifespan": "40\u201360 years",
-      "SpecialTraits": [
-        "Echolocation",
-        "Complex brain"
-      ]
-    },
-    "Diet": {
-      "Type": "Carnivore",
-      "Foods": [
-        "Fish",
-        "Squid"
-      ]
-    },
-    "Behavior": {
-      "ActivityTime": "All day",
-      "SocialType": "Pods",
-      "IntelligenceLevel": "Very High",
-      "Communication": "Clicks, whistles, body language"
-    },
-    "Reproduction": {
-      "MaturityAge": "5\u201313 years",
-      "GestationPeriod": "12 months",
-      "OffspringPerBirth": "1",
-      "ReproductionCycle": "Every 3\u20136 years"
-    },
-    "ConservationStatus": {
-      "IUCNStatus": "Least Concern",
-      "PopulationTrend": "Stable",
-      "Threats": [
-        "Fishing nets",
-        "Pollution"
-      ]
-    },
-    "HumanInteraction": {
-      "DangerLevel": "Low",
-      "PetFriendly": false,
-      "LegalStatus": "Regulated",
-      "Notes": "Used in therapy and military"
-    },
-    "FunFacts": [
-      "Recognize themselves in mirrors",
-      "Name each other"
-    ]
+    "dateTime": "2025-07-11T09:26:10.756127",
+    "actionType": "explore"
   },
   {
-    "CommonName": "Elephant",
-    "ScientificName": "Loxodonta africana",
-    "OtherNames": [
-      "African elephant"
-    ],
-    "Classification": {
-      "Kingdom": "Animalia",
-      "Phylum": "Chordata",
-      "Class": "Mammalia",
-      "Order": "Proboscidea",
-      "Family": "Elephantidae",
-      "Genus": "Loxodonta",
-      "Species": "africana"
-    },
-    "Habitat": {
-      "Environment": "Savannahs",
-      "Distribution": "Sub-Saharan Africa",
-      "Countries": [
-        "Botswana",
-        "Kenya",
-        "South Africa"
+    "id": "c1db9939-bc2c-44ca-b32c-237c86f91c2a",
+    "imageData": "",
+    "animalInfo": {
+      "CommonName": "Elephant",
+      "ScientificName": "Loxodonta africana",
+      "OtherNames": [
+        "African elephant"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Loxodonta",
+        "Species": "africana"
+      },
+      "Habitat": {
+        "Environment": "Savannahs",
+        "Distribution": "Sub-Saharan Africa",
+        "Countries": [
+          "Botswana",
+          "Kenya",
+          "South Africa"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "6\u20137.5 meters",
+        "Weight": "4,000\u20136,000 kg",
+        "Color": "Gray",
+        "Lifespan": "60\u201370 years",
+        "SpecialTraits": [
+          "Large ears",
+          "Long trunk",
+          "Tusks"
+        ]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": [
+          "Grass",
+          "Leaves",
+          "Fruit"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Herds",
+        "IntelligenceLevel": "Very High",
+        "Communication": "Trumpets, rumbling, gestures"
+      },
+      "Reproduction": {
+        "MaturityAge": "10\u201315 years",
+        "GestationPeriod": "22 months",
+        "OffspringPerBirth": "1",
+        "ReproductionCycle": "4\u20135 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Endangered",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Poaching",
+          "Habitat destruction"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "High",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Used in tourism and ceremonies"
+      },
+      "FunFacts": [
+        "Mourn their dead",
+        "Have great memory"
       ]
     },
-    "PhysicalTraits": {
-      "Size": "6\u20137.5 meters",
-      "Weight": "4,000\u20136,000 kg",
-      "Color": "Gray",
-      "Lifespan": "60\u201370 years",
-      "SpecialTraits": [
-        "Large ears",
-        "Long trunk",
-        "Tusks"
-      ]
-    },
-    "Diet": {
-      "Type": "Herbivore",
-      "Foods": [
-        "Grass",
-        "Leaves",
-        "Fruit"
-      ]
-    },
-    "Behavior": {
-      "ActivityTime": "Diurnal",
-      "SocialType": "Herds",
-      "IntelligenceLevel": "Very High",
-      "Communication": "Trumpets, rumbling, gestures"
-    },
-    "Reproduction": {
-      "MaturityAge": "10\u201315 years",
-      "GestationPeriod": "22 months",
-      "OffspringPerBirth": "1",
-      "ReproductionCycle": "4\u20135 years"
-    },
-    "ConservationStatus": {
-      "IUCNStatus": "Endangered",
-      "PopulationTrend": "Decreasing",
-      "Threats": [
-        "Poaching",
-        "Habitat destruction"
-      ]
-    },
-    "HumanInteraction": {
-      "DangerLevel": "High",
-      "PetFriendly": false,
-      "LegalStatus": "Protected",
-      "Notes": "Used in tourism and ceremonies"
-    },
-    "FunFacts": [
-      "Mourn their dead",
-      "Have great memory"
-    ]
+    "dateTime": "2025-07-11T09:26:10.756127",
+    "actionType": "explore"
   },
   {
     "id": "c1db9939-bc2c-44ca-b32c-237c86f91c2a",

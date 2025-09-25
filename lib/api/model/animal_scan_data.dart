@@ -1,8 +1,10 @@
+import 'package:base_project/api/model/animal_info.dart';
+
 class AnimalScanData {
   final int? id;
   final String? imageHome;
   final String? imagePath;
-  final AnimalScanData animalScanData;
+  final AnimalInfo animalInfo;
   final String? dateTime;
   final AnimalActionType animalActionType;
   final bool isHistory;
@@ -12,7 +14,7 @@ class AnimalScanData {
     required this.id,
     required this.imageHome,
     required this.imagePath,
-    required this.animalScanData,
+    required this.animalInfo,
     required this.dateTime,
     required this.animalActionType,
     required this.isHistory,
@@ -24,7 +26,7 @@ class AnimalScanData {
       id: json['Id'],
       imageHome: json['ImageHome'],
       imagePath: json['ImagePath'],
-      animalScanData: json['AnimalScanData'],
+      animalInfo: json['AnimalInfo'],
       dateTime: json['DateTime'],
       animalActionType: json['AnimalActionType'],
       isHistory: json['IsHistory'],
@@ -37,7 +39,7 @@ class AnimalScanData {
       'Id': id,
       'ImageHome': imageHome,
       'ImagePath': imagePath,
-      'AnimalScanData': animalScanData,
+      'AnimalInfo': animalInfo,
       'DateTime': dateTime,
       'AnimalActionType': animalActionType,
       'IsHistory': isHistory,

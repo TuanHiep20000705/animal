@@ -1,0 +1,675 @@
+[
+  {
+    "id": "60e06950-f7bc-4dc6-94e4-61cf0c3adc33",
+    "imageData": "",
+    "animalInfo": {
+      "id": "b04d7390-312d-4679-8681-3a2df31bb749",
+      "CommonName": "Dodo",
+      "ScientificName": "Raphus cucullatus",
+      "OtherNames": [],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Columbiformes",
+        "Family": "Columbidae",
+        "Genus": "Raphus",
+        "Species": "R. cucullatus"
+      },
+      "Habitat": {
+        "Environment": "Forest, coastal areas",
+        "Distribution": "Extinct, native to the island of Mauritius",
+        "Countries": ["Mauritius (Extinct)"]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated 3 feet (1 meter) tall",
+        "Weight": "Estimated 23-50 pounds (10-23 kg)",
+        "Color": "Grayish-blue plumage, yellow beak with a black tip, yellow legs",
+        "Lifespan": "Unknown, estimated to be around 10-20 years in the wild, similar to large pigeons or doves.",
+        "SpecialTraits": ["Flightless bird", "Large, hooked beak", "Short, stubby wings"]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": ["Fallen fruits", "Seeds", "Nuts", "Bulbs", "Roots", "Estimated small invertebrates"]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal (Estimated)",
+        "SocialType": "Estimated solitary or in small family groups",
+        "IntelligenceLevel": "Unknown, likely limited due to lack of predators",
+        "Communication": "Unknown, likely vocalizations such as squawks or coos"
+      },
+      "Reproduction": {
+        "MaturityAge": "Unknown, estimated 1-2 years",
+        "GestationPeriod": "Eggs incubated by both parents, estimated around 25-30 days",
+        "OffspringPerBirth": "Typically 1 egg per clutch",
+        "ReproductionCycle": "Estimated once a year, likely during the wet season"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Extinct",
+        "PopulationTrend": "Extinct",
+        "Threats": [
+          "Habitat loss due to human settlement",
+          "Hunting by humans and introduced animals (pigs, macaque monkeys, rats)"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "None",
+        "PetFriendly": false,
+        "LegalStatus": "Extinct",
+        "Notes": "Species has gone extinct due to human activity and introduced species around the late 17th century."
+      },
+      "FunFacts": [
+        "Became a symbol of extinction due to human impact.",
+        "Its name might derive from the Dutch word 'dodoor' meaning 'sluggard' or 'lazy'."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "b60db014-df1f-408a-a2d4-39a5cef4a569",
+    "imageData": "",
+    "animalInfo": {
+      "id": "a022ac7a-cd04-47a3-828d-f18f985a0d75",
+      "CommonName": "Woolly Mammoth",
+      "ScientificName": "Mammuthus primigenius",
+      "OtherNames": ["Tundra Mammoth"],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Mammuthus",
+        "Species": "M. primigenius"
+      },
+      "Habitat": {
+        "Environment": "Steppe-tundra",
+        "Distribution": "Extinct, formerly widespread across Eurasia and North America",
+        "Countries": ["Siberia (Russia)", "North America (Canada, USA)", "Europe (various countries) (Extinct)"]
+      },
+      "PhysicalTraits": {
+        "Size": "Males approximately 9-11 feet (2.7-3.4 meters) tall at the shoulder; females slightly smaller",
+        "Weight": "Estimated 6-8 tons (5,400-7,300 kg)",
+        "Color": "Dark brown or black long fur, varied depending on individual and preservation",
+        "Lifespan": "Estimated 60-70 years, similar to modern elephants",
+        "SpecialTraits": ["Long, curved tusks (up to 15 feet)", "Thick fur for insulation", "Small ears to minimize heat loss"]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": ["Grasses", "Sedges", "Shrubs", "Estimated mosses and other vegetation found in steppe-tundra environments"]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal (Estimated, similar to modern elephants)",
+        "SocialType": "Herd animals, matriarchal social structure (Estimated)",
+        "IntelligenceLevel": "High (Estimated, comparable to modern elephants)",
+        "Communication": "Vocalizations (rumbling, trumpeting - Estimated), body language"
+      },
+      "Reproduction": {
+        "MaturityAge": "Unknown, estimated around 10-15 years, similar to modern elephants",
+        "GestationPeriod": "Estimated 22 months, similar to modern elephants",
+        "OffspringPerBirth": "Typically 1 calf",
+        "ReproductionCycle": "Estimated every 3-4 years, similar to modern elephants"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Extinct",
+        "PopulationTrend": "Extinct",
+        "Threats": [
+          "Climate change (warming leading to habitat loss and fragmentation)",
+          "Overhunting by early humans"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "None (Extinct)",
+        "PetFriendly": false,
+        "LegalStatus": "Extinct",
+        "Notes": "Last known populations died out around 4,000 years ago on Wrangel Island."
+      },
+      "FunFacts": [
+        "Closest living relatives are Asian elephants.",
+        "Their remains are often found well-preserved in permafrost."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "12d84735-c2eb-43d2-a04c-c92ba02cad54",
+    "imageData": "",
+    "animalInfo": {
+      "id": "e12930ae-d639-4678-a374-dd40dcff4ad9",
+      "CommonName": "Passenger Pigeon",
+      "ScientificName": "Ectopistes migratorius",
+      "OtherNames": [],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Columbiformes",
+        "Family": "Columbidae",
+        "Genus": "Ectopistes",
+        "Species": "E. migratorius"
+      },
+      "Habitat": {
+        "Environment": "Deciduous forests",
+        "Distribution": "Extinct, formerly widespread across eastern North America",
+        "Countries": ["United States", "Canada (Extinct)"]
+      },
+      "PhysicalTraits": {
+        "Size": "Approximately 15-16 inches (38-41 cm) long",
+        "Weight": "Estimated 9-12 ounces (250-340 grams)",
+        "Color": "Males: slate blue head and neck, reddish-orange breast; Females: duller, more brownish",
+        "Lifespan": "Unknown, estimated 10-15 years, similar to other large pigeons",
+        "SpecialTraits": ["Highly social, formed massive flocks", "Long, pointed tail"]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": ["Acorns", "Beech nuts", "Chestnuts", "Berries", "Seeds", "Estimated small invertebrates"]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Highly colonial, lived in immense flocks and nesting colonies",
+        "IntelligenceLevel": "Unknown, likely social intelligence due to flocking behavior",
+        "Communication": "Various cooing sounds, wing clapping during flight"
+      },
+      "Reproduction": {
+        "MaturityAge": "Estimated 1 year",
+        "GestationPeriod": "Eggs incubated for approximately 12-14 days",
+        "OffspringPerBirth": "Typically 1 egg per clutch",
+        "ReproductionCycle": "Estimated 1-2 clutches per year, often synchronized within colonies"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Extinct",
+        "PopulationTrend": "Extinct",
+        "Threats": [
+          "Massive commercial hunting (for meat and feathers)",
+          "Habitat destruction (deforestation of breeding grounds)"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "None",
+        "PetFriendly": false,
+        "LegalStatus": "Extinct",
+        "Notes": "Once the most numerous bird in North America, its extinction was rapid and complete by the early 20th century (last individual died in 1914)."
+      },
+      "FunFacts": [
+        "Their flocks were so vast they could darken the sky for hours.",
+        "Their extinction is a prime example of human-induced extinction."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "effcfd90-c8ab-4dbe-9aa2-45f83bfa46c2",
+    "imageData": "",
+    "animalInfo": {
+      "id": "147cd115-9595-40dd-93a0-feed541df127",
+      "CommonName": "Tasmanian Tiger",
+      "ScientificName": "Thylacinus cynocephalus",
+      "OtherNames": ["Thylacine", "Tasmanian Wolf", "Tasmanian Native Hen (historical misnomer)"],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dasyuromorphia",
+        "Family": "Thylacinidae",
+        "Genus": "Thylacinus",
+        "Species": "T. cynocephalus"
+      },
+      "Habitat": {
+        "Environment": "Forests, grasslands, wetlands",
+        "Distribution": "Extinct, formerly native to Australia and New Guinea, most recently confined to Tasmania",
+        "Countries": ["Australia (Tasmania) (Extinct)"]
+      },
+      "PhysicalTraits": {
+        "Size": "Approximately 3.3-4.3 feet (1-1.3 meters) long (head to tail base), plus a tail of 20-26 inches (50-65 cm)",
+        "Weight": "Estimated 30-65 pounds (15-30 kg)",
+        "Color": "Yellowish-brown fur with distinctive dark stripes on its back and tail base",
+        "Lifespan": "Unknown, estimated 5-7 years in the wild, up to 9 years in captivity",
+        "SpecialTraits": ["Marsupial (pouch for young)", "Dog-like appearance with stiff tail", "Remarkable jaw gape"]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": ["Kangaroo rats and other small rodents", "Wallabies", "Small birds", "Carrion", "Estimated sheep and poultry after European settlement"]
+      },
+      "Behavior": {
+        "ActivityTime": "Nocturnal or crepuscular (Estimated)",
+        "SocialType": "Solitary or in pairs (Estimated)",
+        "IntelligenceLevel": "Unknown, likely cunning predator",
+        "Communication": "Growls, hisses, estimated bark-like calls"
+      },
+      "Reproduction": {
+        "MaturityAge": "Unknown, estimated 1-2 years",
+        "GestationPeriod": "Estimated 35 days (marsupial, young develop in pouch)",
+        "OffspringPerBirth": "Typically 2-4 young (joeys) born underdeveloped and mature in a pouch",
+        "ReproductionCycle": "Estimated once a year"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Extinct",
+        "PopulationTrend": "Extinct",
+        "Threats": [
+          "Intensive hunting (bounty system by settlers)",
+          "Habitat loss and fragmentation",
+          "Disease",
+          "Competition with dingoes and wild dogs"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "None (Extinct)",
+        "PetFriendly": false,
+        "LegalStatus": "Extinct",
+        "Notes": "The last known Tasmanian Tiger died in Hobart Zoo in 1936. There have been unconfirmed sightings since."
+      },
+      "FunFacts": [
+        "Despite its common name, it was a marsupial, not a true tiger or wolf.",
+        "Had a distinctive stiff tail, tapering from the body."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "75271707-53d5-40c6-8a8f-f488fc8e630e",
+    "imageData": "",
+    "animalInfo": {
+      "id": "f47d0e8f-9b14-4d69-9097-cf6648dad8f6",
+      "CommonName": "Great Auk",
+      "ScientificName": "Pinguinus impennis",
+      "OtherNames": [],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Charadriiformes",
+        "Family": "Alcidae",
+        "Genus": "Pinguinus",
+        "Species": "P. impennis"
+      },
+      "Habitat": {
+        "Environment": "North Atlantic coastal waters, rocky islands",
+        "Distribution": "Extinct, formerly found in the North Atlantic Ocean",
+        "Countries": ["North America (Canada, USA)", "Greenland", "Iceland", "Europe (Norway, UK, Ireland, France) (Extinct)"]
+      },
+      "PhysicalTraits": {
+        "Size": "Approximately 30-33 inches (75-85 cm) tall",
+        "Weight": "Estimated 11 pounds (5 kg)",
+        "Color": "Black back and head, white belly, white patch below each eye",
+        "Lifespan": "Unknown, estimated 20-30 years, similar to other long-lived seabirds",
+        "SpecialTraits": ["Flightless seabird", "Expert swimmer and diver", "Large, grooved beak"]
+      },
+      "Diet": {
+        "Type": "Carnivore (Piscivore)",
+        "Foods": ["Fish (e.g., capelin, lumpfish, hake)", "Crustaceans (Estimated)"]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal (Estimated)",
+        "SocialType": "Colonial breeder, highly social during breeding season",
+        "IntelligenceLevel": "Unknown, likely typical for seabirds",
+        "Communication": "Various guttural calls and vocalizations"
+      },
+      "Reproduction": {
+        "MaturityAge": "Unknown, estimated 3-5 years, similar to other large seabirds",
+        "GestationPeriod": "Eggs incubated for estimated 40-45 days",
+        "OffspringPerBirth": "Typically 1 egg per breeding season",
+        "ReproductionCycle": "Annual breeding in large, dense colonies on remote islands"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Extinct",
+        "PopulationTrend": "Extinct",
+        "Threats": [
+          "Intensive hunting (for meat, eggs, feathers, oil)",
+          "Vulnerability due to flightlessness and breeding in accessible colonies"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "None",
+        "PetFriendly": false,
+        "LegalStatus": "Extinct",
+        "Notes": "The last confirmed pair was killed on Eldey Island, Iceland, in 1844."
+      },
+      "FunFacts": [
+        "Often referred to as the 'penguin of the north' due to similar appearance and ecological niche.",
+        "Their flightlessness made them easy prey for hunters."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "bba01ab9-c67f-4b24-96c2-18d18752b3ff",
+    "imageData": "",
+    "animalInfo": {
+      "id": "0f63d004-4044-4107-a5ef-1070c0786079",
+      "CommonName": "Quagga",
+      "ScientificName": "Equus quagga quagga",
+      "OtherNames": [],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Perissodactyla",
+        "Family": "Equidae",
+        "Genus": "Equus",
+        "Species": "E. quagga quagga (subspecies of Plains Zebra)"
+      },
+      "Habitat": {
+        "Environment": "Grasslands, plains",
+        "Distribution": "Extinct, native to South Africa",
+        "Countries": ["South Africa (Extinct)"]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated 8.2-8.5 feet (2.5-2.6 meters) long, 4.1-4.7 feet (1.25-1.45 meters) tall at shoulder",
+        "Weight": "Estimated 500-650 pounds (220-300 kg)",
+        "Color": "Brownish-red with zebra-like stripes on the front half of the body, fading to solid brown on the rear",
+        "Lifespan": "Unknown, estimated 20-30 years, similar to other equids",
+        "SpecialTraits": ["Distinctive half-striped, half-solid brown coat", "Related to zebras"]
+      },
+      "Diet": {
+        "Type": "Herbivore (Grazer)",
+        "Foods": ["Grasses", "Estimated herbs and shrubs"]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal (Estimated)",
+        "SocialType": "Herd animals (Estimated, similar to other zebras)",
+        "IntelligenceLevel": "Unknown, likely typical for equids",
+        "Communication": "Various vocalizations, including a distinctive 'kwa-ha' sound (hence the name 'quagga'), neighs, snorts"
+      },
+      "Reproduction": {
+        "MaturityAge": "Unknown, estimated 2-3 years, similar to zebras",
+        "GestationPeriod": "Estimated 12-13 months",
+        "OffspringPerBirth": "Typically 1 foal",
+        "ReproductionCycle": "Estimated once a year"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Extinct",
+        "PopulationTrend": "Extinct",
+        "Threats": [
+          "Extensive hunting by European settlers for meat and hides",
+          "Competition with livestock for grazing land"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "None (Extinct)",
+        "PetFriendly": false,
+        "LegalStatus": "Extinct",
+        "Notes": "The last wild quagga was likely killed in the late 1870s; the last captive individual died in Amsterdam Zoo in 1883. The Quagga Project is attempting to breed back quaggas through selective breeding of plains zebras."
+      },
+      "FunFacts": [
+        "Was once considered a distinct species, but genetic studies confirmed it as a subspecies of the plains zebra.",
+        "Its unique striping pattern made it easily recognizable."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "7810562a-6550-43fd-b380-d19f5433a1be",
+    "imageData": "",
+    "animalInfo": {
+      "id": "5f33c21c-ce88-4b9f-ad4e-e6d4e95e14f5",
+      "CommonName": "Baiji Dolphin",
+      "ScientificName": "Lipotes vexillifer",
+      "OtherNames": ["Yangtze River Dolphin", "Goddess of the Yangtze"],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cetacea",
+        "Family": "Lipotidae",
+        "Genus": "Lipotes",
+        "Species": "L. vexillifer"
+      },
+      "Habitat": {
+        "Environment": "Freshwater river systems",
+        "Distribution": "Extinct in the wild (possibly functionally extinct), formerly found in the Yangtze River in China",
+        "Countries": ["China (Yangtze River) (Extinct in the Wild/Functionally Extinct)"]
+      },
+      "PhysicalTraits": {
+        "Size": "Approximately 6.6-8.2 feet (2-2.5 meters) long",
+        "Weight": "Estimated 285-500 pounds (130-230 kg)",
+        "Color": "Light blue-gray with a white belly",
+        "Lifespan": "Unknown, estimated 20-30 years",
+        "SpecialTraits": ["Long, slender beak with many teeth", "Small dorsal fin", "Poor eyesight, relied on echolocation"]
+      },
+      "Diet": {
+        "Type": "Carnivore (Piscivore)",
+        "Foods": ["Fish (especially small, bottom-dwelling fish)"]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal and Nocturnal (Estimated, based on other river dolphins)",
+        "SocialType": "Estimated solitary or in small groups (2-3 individuals)",
+        "IntelligenceLevel": "High (Estimated, comparable to other dolphins)",
+        "Communication": "Echolocation clicks, whistles, moans"
+      },
+      "Reproduction": {
+        "MaturityAge": "Estimated 4-6 years",
+        "GestationPeriod": "Estimated 10-11 months",
+        "OffspringPerBirth": "Typically 1 calf",
+        "ReproductionCycle": "Estimated every 2-3 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Extinct",
+        "PopulationTrend": "Extinct",
+        "Threats": [
+          "Intensive fishing (bycatch in fishing gear, especially rolling hooks)",
+          "Habitat degradation (pollution, dam construction, river traffic, sand dredging)"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "None",
+        "PetFriendly": false,
+        "LegalStatus": "Extinct (Protected when it existed)",
+        "Notes": "A survey in 2006 found no individuals, leading to its declaration as functionally extinct. It is considered the first cetacean to be driven to extinction by human activity."
+      },
+      "FunFacts": [
+        "Known as the 'Goddess of the Yangtze' in China.",
+        "Its eyesight was very poor, relying heavily on echolocation in the murky river."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "c14bac13-b7e3-4082-a0e9-fb7dd8c7d6e2",
+    "imageData": "",
+    "animalInfo": {
+      "id": "8e3fb9db-3529-41b6-8a14-49a0a97b2600",
+      "CommonName": "Steller's Sea Cow",
+      "ScientificName": "Hydrodamalis gigas",
+      "OtherNames": [],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Sirenia",
+        "Family": "Dugongidae",
+        "Genus": "Hydrodamalis",
+        "Species": "H. gigas"
+      },
+      "Habitat": {
+        "Environment": "Cold coastal waters",
+        "Distribution": "Extinct, formerly found in the North Pacific Ocean, particularly around the Bering Sea",
+        "Countries": ["Russia (Commander Islands) (Extinct)"]
+      },
+      "PhysicalTraits": {
+        "Size": "Approximately 25-30 feet (7.5-9 meters) long",
+        "Weight": "Estimated 8-10 tons (8,000-10,000 kg)",
+        "Color": "Dark brown or grayish skin",
+        "Lifespan": "Unknown, estimated around 50 years, similar to other large long-lived marine mammals",
+        "SpecialTraits": ["Large, slow-moving marine mammal", "No teeth, used horny plates for chewing", "Thick blubber layer"]
+      },
+      "Diet": {
+        "Type": "Herbivore (Algae eater)",
+        "Foods": ["Kelp and other marine algae"]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal (Estimated)",
+        "SocialType": "Estimated lived in small family groups",
+        "IntelligenceLevel": "Unknown, likely typical for large marine herbivores",
+        "Communication": "Unknown, likely grunts, sighs (Estimated)"
+      },
+      "Reproduction": {
+        "MaturityAge": "Unknown, estimated 5-7 years, similar to other sirenians",
+        "GestationPeriod": "Estimated 10-12 months",
+        "OffspringPerBirth": "Typically 1 calf",
+        "ReproductionCycle": "Estimated every 2-3 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Extinct",
+        "PopulationTrend": "Extinct",
+        "Threats": [
+          "Intensive hunting by Russian fur traders and explorers for meat, blubber, and hide",
+          "Ease of capture due to its large size, slow movement, and fearlessness of humans"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "None",
+        "PetFriendly": false,
+        "LegalStatus": "Extinct",
+        "Notes": "Discovered in 1741 and hunted to extinction within 27 years, by 1768. It was completely defenseless against human hunters."
+      },
+      "FunFacts": [
+        "Named after Georg Steller, the naturalist who first described it.",
+        "Could not fully submerge, making it an easy target for hunters."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "c811fe00-b12a-451f-a66d-a155bed6a735",
+    "imageData": "",
+    "animalInfo": {
+      "id": "717e08bb-161d-4f92-9f67-5c1f154ed57b",
+      "CommonName": "Caribbean Monk Seal",
+      "ScientificName": "Monachus tropicalis",
+      "OtherNames": ["West Indian Seal", "Sea Wolf"],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pinnipedia",
+        "Family": "Phocidae",
+        "Genus": "Monachus",
+        "Species": "M. tropicalis"
+      },
+      "Habitat": {
+        "Environment": "Coastal waters, sandy beaches, rocky islets, coral reefs",
+        "Distribution": "Extinct, formerly found throughout the Caribbean Sea, Gulf of Mexico, and western Atlantic Ocean",
+        "Countries": ["Caribbean Islands", "United States (Florida, Gulf Coast)", "Mexico (Extinct)"]
+      },
+      "PhysicalTraits": {
+        "Size": "Approximately 6.6-8 feet (2-2.4 meters) long",
+        "Weight": "Estimated 375-600 pounds (170-270 kg)",
+        "Color": "Brownish-gray on the back, lighter yellow-brown on the belly",
+        "Lifespan": "Unknown, estimated 20-25 years, similar to other monk seals",
+        "SpecialTraits": ["Only seal native to the Caribbean Sea", "Docile and not fearful of humans"]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": ["Fish", "Eels", "Lobsters", "Octopus"]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal (Estimated)",
+        "SocialType": "Estimated solitary or in small groups on haul-out sites",
+        "IntelligenceLevel": "Unknown, likely typical for seals",
+        "Communication": "Unknown, likely various barks and grunts (Estimated)"
+      },
+      "Reproduction": {
+        "MaturityAge": "Unknown, estimated 4-6 years",
+        "GestationPeriod": "Estimated 10-11 months",
+        "OffspringPerBirth": "Typically 1 pup",
+        "ReproductionCycle": "Estimated annually"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Extinct",
+        "PopulationTrend": "Extinct",
+        "Threats": [
+          "Intensive hunting for blubber (oil), meat, and hide",
+          "Overfishing of their prey base",
+          "Disturbance of breeding and resting sites by human activity"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "None",
+        "PetFriendly": false,
+        "LegalStatus": "Extinct (Protected when it existed)",
+        "Notes": "Declared extinct in 2008 by the U.S. Fish and Wildlife Service, though the last confirmed sighting was in 1952."
+      },
+      "FunFacts": [
+        "The only seal species endemic to the Caribbean Sea.",
+        "Their docile nature made them very vulnerable to human exploitation."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "d73aa117-0962-4d24-b71f-03a69ad8bd78",
+    "imageData": "",
+    "animalInfo": {
+      "id": "d224d075-ea8b-47f9-8909-b52e133f0212",
+      "CommonName": "Pinta Island Tortoise",
+      "ScientificName": "Chelonoidis abingdonii",
+      "OtherNames": ["Abingdon Island Tortoise"],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Reptilia",
+        "Order": "Testudines",
+        "Family": "Testudinidae",
+        "Genus": "Chelonoidis",
+        "Species": "C. abingdonii"
+      },
+      "Habitat": {
+        "Environment": "Arid lowlands, volcanic highlands",
+        "Distribution": "Extinct, native to Pinta Island in the Galápagos archipelago",
+        "Countries": ["Ecuador (Galápagos Islands) (Extinct)"]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated up to 3 feet (0.9 meters) shell length",
+        "Weight": "Estimated up to 200 pounds (90 kg)",
+        "Color": "Dark, grayish-brown shell and skin",
+        "Lifespan": "Unknown, estimated well over 100 years, typical for giant tortoises",
+        "SpecialTraits": ["Saddleback shell (elevated front of shell)", "Long neck for reaching high vegetation"]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": ["Cactus pads (Opuntia spp.)", "Leaves", "Grasses", "Lichens", "Fruits"]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal (Estimated)",
+        "SocialType": "Solitary (Estimated, typical for giant tortoises), occasionally congregate around water sources",
+        "IntelligenceLevel": "Unknown, likely basic problem-solving for foraging",
+        "Communication": "Hisses, grunts during mating (Estimated)"
+      },
+      "Reproduction": {
+        "MaturityAge": "Unknown, estimated 15-20 years, typical for giant tortoises",
+        "GestationPeriod": "Eggs incubated for estimated 4-8 months",
+        "OffspringPerBirth": "Typically 1-20 eggs per clutch",
+        "ReproductionCycle": "Estimated annually or biannually"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Extinct",
+        "PopulationTrend": "Extinct",
+        "Threats": [
+          "Overhunting by sailors and whalers for food",
+          "Introduction of non-native species (goats, rats) that degraded habitat and preyed on eggs/hatchlings"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "None",
+        "PetFriendly": false,
+        "LegalStatus": "Extinct",
+        "Notes": "The last known individual, 'Lonesome George,' died in 2012, marking the extinction of the species. Efforts were made to breed him, but they were unsuccessful."
+      },
+      "FunFacts": [
+        "Lonesome George became a global symbol of conservation.",
+        "Their saddleback shell allowed them to browse higher vegetation on arid islands."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  }
+]

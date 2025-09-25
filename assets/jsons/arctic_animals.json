@@ -1,0 +1,438 @@
+[
+  {
+    "id": "ca73513e-d464-4e6d-9c22-e8100385c2da",
+    "imageData": "",
+    "animalInfo": {
+      "id": "00734756-7a15-42ab-abe0-c5659e410dce",
+      "CommonName": "Polar Bear",
+      "ScientificName": "Ursus maritimus",
+      "OtherNames": [
+        "Sea Bear",
+        "White Bear"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Ursidae",
+        "Genus": "Ursus",
+        "Species": "maritimus"
+      },
+      "Habitat": {
+        "Environment": "Arctic",
+        "Distribution": "Arctic Circle",
+        "Countries": [
+          "Canada",
+          "Greenland",
+          "Norway",
+          "Russia",
+          "United States"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "2.4-3 meters (male), 1.8-2.4 meters (female)",
+        "Weight": "350-600 kg (male), 150-250 kg (female)",
+        "Color": "White",
+        "Lifespan": "15-18 years (in the wild)",
+        "SpecialTraits": [
+          "Thick blubber and fur for insulation",
+          "Large paws for swimming and walking on ice",
+          "Excellent sense of smell"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Seals (main prey)",
+          "Walruses",
+          "Arctic foxes (occasionally)",
+          "Birds",
+          "Fish",
+          "Carrion"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Year-round active, may have periods of rest/denning",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "High (estimated)",
+        "Communication": "Growls, roars, hisses, body language"
+      },
+      "Reproduction": {
+        "MaturityAge": "3-5 years (female), 6 years (male)",
+        "GestationPeriod": "Approximately 8 months (including delayed implantation)",
+        "OffspringPerBirth": "1-3 cubs",
+        "ReproductionCycle": "Every 3-4 years (female)"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Vulnerable",
+        "PopulationTrend": "Decreasing (estimated)",
+        "Threats": [
+          "Climate change (habitat loss)",
+          "Pollution",
+          "Oil and gas exploration",
+          "Human-polar bear conflicts"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "High",
+        "PetFriendly": false,
+        "LegalStatus": "Protected in most ranges",
+        "Notes": ""
+      },
+      "FunFacts": [
+        "They are marine mammals.",
+        "They can swim for hours at a time."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "751e6bde-571c-400f-96cd-cad70625d9c8",
+    "imageData": "",
+    "animalInfo": {
+      "id": "34f0450b-4870-4400-8783-bfb4261efc8a",
+      "CommonName": "Arctic Fox",
+      "ScientificName": "Vulpes lagopus",
+      "OtherNames": [
+        "White Fox",
+        "Snow Fox",
+        "Polar Fox"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Canidae",
+        "Genus": "Vulpes",
+        "Species": "lagopus"
+      },
+      "Habitat": {
+        "Environment": "Arctic",
+        "Distribution": "Arctic Circle",
+        "Countries": [
+          "Canada",
+          "Greenland",
+          "Norway",
+          "Russia",
+          "United States",
+          "Iceland"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "46-68 cm (body length), 30-40 cm (tail length)",
+        "Weight": "2.5-5 kg",
+        "Color": "White (winter), Brown/Grey (summer)",
+        "Lifespan": "3-6 years (in the wild)",
+        "SpecialTraits": [
+          "Thick fur that changes color seasonally",
+          "Well-insulated paws",
+          "Excellent hearing"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Lemmings",
+          "Volves",
+          "Arctic hares",
+          "Birds and their eggs",
+          "Fish",
+          "Carrion"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Crepuscular or nocturnal (estimated)",
+        "SocialType": "Monogamous pairs during breeding season, can be solitary",
+        "IntelligenceLevel": "High (estimated)",
+        "Communication": "Barks, growls, whimpers, body language"
+      },
+      "Reproduction": {
+        "MaturityAge": "1 year",
+        "GestationPeriod": "52-54 days",
+        "OffspringPerBirth": "5-8 pups (can be up to 16 in good years)",
+        "ReproductionCycle": "Once a year"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Stable (estimated)",
+        "Threats": [
+          "Climate change (habitat shifts)",
+          "Competition with red foxes",
+          "Trapping"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Protected in some areas, hunted in others",
+        "Notes": ""
+      },
+      "FunFacts": [
+        "They are known for their exceptional hearing, allowing them to locate prey under snow.",
+        "They build extensive dens."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "9bf5cb80-ee83-4ba0-9f71-79ab4f7ea6cf",
+    "imageData": "",
+    "animalInfo": {
+      "id": "24921bc8-3772-4dfd-ad22-024ce97efe57",
+      "CommonName": "Narwhal",
+      "ScientificName": "Monodon monoceros",
+      "OtherNames": [
+        "Narwhale"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Monodontidae",
+        "Genus": "Monodon",
+        "Species": "monoceros"
+      },
+      "Habitat": {
+        "Environment": "Arctic Ocean",
+        "Distribution": "Arctic Circle",
+        "Countries": [
+          "Canada",
+          "Greenland",
+          "Norway",
+          "Russia"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "3.95-5.5 meters (excluding tusk)",
+        "Weight": "800-1,600 kg",
+        "Color": "Mottled grey/white",
+        "Lifespan": "Up to 50 years (estimated)",
+        "SpecialTraits": [
+          "Long, spiraled tusk (modified canine tooth, primarily in males)",
+          "Echolocation",
+          "Deep diving ability"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Greenland halibut",
+          "Cod",
+          "Squid",
+          "Shrimp"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Year-round active",
+        "SocialType": "Social, typically found in groups (pods)",
+        "IntelligenceLevel": "High (estimated)",
+        "Communication": "Clicks, whistles, pulses for echolocation and communication"
+      },
+      "Reproduction": {
+        "MaturityAge": "6-8 years (female), 8-9 years (male)",
+        "GestationPeriod": "14-15 months",
+        "OffspringPerBirth": "1 calf",
+        "ReproductionCycle": "Every 2-3 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Stable (estimated)",
+        "Threats": [
+          "Climate change (sea ice loss)",
+          "Noise pollution",
+          "Hunting (subsistence)"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Protected under CITES Appendix II",
+        "Notes": ""
+      },
+      "FunFacts": [
+        "Their tusk can grow up to 3 meters long.",
+        "They are sometimes called the 'unicorns of the sea'."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "584ac5e3-e9b6-45b9-903c-ae54c453259d",
+    "imageData": "",
+    "animalInfo": {
+      "id": "ca264d3c-b850-46b4-b69f-8f041f03326e",
+      "CommonName": "Walrus",
+      "ScientificName": "Odobenus rosmarus",
+      "OtherNames": [],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Odobenidae",
+        "Genus": "Odobenus",
+        "Species": "rosmarus"
+      },
+      "Habitat": {
+        "Environment": "Arctic and sub-Arctic waters",
+        "Distribution": "Arctic Circle",
+        "Countries": [
+          "Canada",
+          "Greenland",
+          "Norway",
+          "Russia",
+          "United States (Alaska)"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "2.2-3.6 meters (male), 2-3.1 meters (female)",
+        "Weight": "800-1,700 kg (male), 400-1,200 kg (female)",
+        "Color": "Brownish to cinnamon (can appear reddish when warm)",
+        "Lifespan": "30-40 years",
+        "SpecialTraits": [
+          "Long tusks (canine teeth) used for hauling out, defense, and foraging",
+          "Vibrissae (whiskers) for finding food on the seafloor",
+          "Thick blubber layer"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore/Opportunistic Feeder",
+        "Foods": [
+          "Bivalve mollusks (clams)",
+          "Worms",
+          "Snails",
+          "Sea cucumbers",
+          "Occasionally seals or carrion"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Year-round active",
+        "SocialType": "Highly social, form large herds on ice floes and land",
+        "IntelligenceLevel": "Medium to High (estimated)",
+        "Communication": "Bellows, grunts, whistles, clicks"
+      },
+      "Reproduction": {
+        "MaturityAge": "6-10 years (female), 8-10 years (male)",
+        "GestationPeriod": "15 months (including delayed implantation)",
+        "OffspringPerBirth": "1 calf",
+        "ReproductionCycle": "Every 2-3 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Vulnerable",
+        "PopulationTrend": "Decreasing (estimated for Pacific Walrus)",
+        "Threats": [
+          "Climate change (loss of sea ice)",
+          "Oil and gas exploration",
+          "Hunting"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Medium (can be aggressive if provoked or threatened)",
+        "PetFriendly": false,
+        "LegalStatus": "Protected in most ranges",
+        "Notes": ""
+      },
+      "FunFacts": [
+        "Their tusks can grow up to 1 meter long.",
+        "They can slow their heart rate to dive to extreme depths."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "eb07f5a2-26f2-49ae-9d18-ac50539f8310",
+    "imageData": "",
+    "animalInfo": {
+      "id": "7a23387d-5a37-4afe-9996-20b1fad6a1ec",
+      "CommonName": "Snowy Owl",
+      "ScientificName": "Bubo scandiacus",
+      "OtherNames": [
+        "Arctic Owl",
+        "Great White Owl"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Strigiformes",
+        "Family": "Strigidae",
+        "Genus": "Bubo",
+        "Species": "scandiacus"
+      },
+      "Habitat": {
+        "Environment": "Arctic tundra and open fields",
+        "Distribution": "Circumpolar Arctic, migratory to temperate regions in winter",
+        "Countries": [
+          "Canada",
+          "Greenland",
+          "Norway",
+          "Russia",
+          "United States (Alaska)",
+          "Finland",
+          "Sweden"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "53-70 cm (length), 137-164 cm (wingspan)",
+        "Weight": "1.6-3 kg",
+        "Color": "White with varying degrees of dark barring (more prominent in females and juveniles)",
+        "Lifespan": "Up to 10 years (in the wild), up to 28 years (in captivity)",
+        "SpecialTraits": [
+          "Thick plumage for insulation",
+          "Excellent eyesight and hearing for hunting",
+          "Diurnal (active during the day) unlike most owls"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Lemmings (primary prey)",
+          "Volves",
+          "Arctic hares",
+          "Small birds",
+          "Rodents"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal (active during the day)",
+        "SocialType": "Solitary, congregates during irruptions (high prey availability)",
+        "IntelligenceLevel": "High (estimated)",
+        "Communication": "Hooting, hissing, clacking of beak"
+      },
+      "Reproduction": {
+        "MaturityAge": "2 years",
+        "GestationPeriod": "N/A (egg incubation)",
+        "OffspringPerBirth": "3-11 eggs (clutch size varies with prey abundance)",
+        "ReproductionCycle": "Annual (if prey is abundant)"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Vulnerable",
+        "PopulationTrend": "Decreasing (estimated)",
+        "Threats": [
+          "Climate change (prey availability, habitat changes)",
+          "Habitat degradation",
+          "Collisions with vehicles and power lines"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low (generally avoid humans, may defend nests)",
+        "PetFriendly": false,
+        "LegalStatus": "Protected in most ranges",
+        "Notes": ""
+      },
+      "FunFacts": [
+        "They are one of the largest owl species in North America.",
+        "They often perch on high points to scan for prey."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  }
+]

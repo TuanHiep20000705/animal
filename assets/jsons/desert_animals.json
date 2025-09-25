@@ -1,0 +1,322 @@
+[
+  {
+    "id": "611927dc-1db8-4559-9a52-489c1ed89c9f",
+    "imageData": "",
+    "animalInfo": {
+      "id": "076d0dbd-f883-43f7-b26c-d2bf29a87e79",
+      "CommonName": "Fennec Fox",
+      "ScientificName": "Vulpes zerda",
+      "OtherNames": [],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Canidae",
+        "Genus": "Vulpes",
+        "Species": "V. zerda"
+      },
+      "Habitat": {
+        "Environment": "Desert",
+        "Distribution": "Arid and semi-arid desert regions",
+        "Countries": ["North Africa", "Sinai Peninsula"]
+      },
+      "PhysicalTraits": {
+        "Size": "Approximately 9-16 inches long, 8 inches tall",
+        "Weight": "Approximately 1.5-3.5 pounds",
+        "Color": "Sandy, varied",
+        "Lifespan": "Up to 14 years in human care, estimated 10-12 years in wild",
+        "SpecialTraits": ["Large ears for heat dissipation", "Hairy soles to protect from hot sand"]
+      },
+      "Diet": {
+        "Type": "Omnivore",
+        "Foods": ["Rodents", "Birds", "Eggs", "Lizards", "Insects", "Plants", "Fruits", "Roots"]
+      },
+      "Behavior": {
+        "ActivityTime": "Nocturnal",
+        "SocialType": "Social, may share burrows",
+        "IntelligenceLevel": "Unknown, likely high for a canid",
+        "Communication": "Various vocalizations including yelps, growls"
+      },
+      "Reproduction": {
+        "MaturityAge": "Approximately 9-11 months",
+        "GestationPeriod": "Approximately 50-53 days",
+        "OffspringPerBirth": "Typically 1-4 kits",
+        "ReproductionCycle": "Typically one litter per year, breeding season in late winter/early spring"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Stable, but threatened by habitat loss and pet trade",
+        "Threats": ["Habitat loss", "Fragmentation", "Degradation", "Pet trade", "Poaching"]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low (shy, not aggressive towards humans unless threatened)",
+        "PetFriendly": true,
+        "LegalStatus": "Varies by region/country (e.g., legal in some US states with permits, generally legal in Japan)",
+        "Notes": "Often captured for the pet trade"
+      },
+      "FunFacts": [
+        "Has the largest ears relative to body size of any canid",
+        "Ears act as radiators to regulate body temperature"
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "e5f36ed3-a750-4b43-95d6-beb3a7f0473f",
+    "imageData": "",
+    "animalInfo": {
+      "id": "68ae199d-93e7-472f-bdbc-3f3fe5f817cf",
+      "CommonName": "Camel",
+      "ScientificName": "Camelus (Camelus dromedarius or Camelus bactrianus)",
+      "OtherNames": [],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cetartiodactyla",
+        "Family": "Camelidae",
+        "Genus": "Camelus",
+        "Species": "Dromedarius (one-humped) or Bactrianus (two-humped)"
+      },
+      "Habitat": {
+        "Environment": "Desert",
+        "Distribution": "Arid and semi-arid desert regions",
+        "Countries": ["North Africa", "Middle East", "Central Asia", "Australia (feral population)"]
+      },
+      "PhysicalTraits": {
+        "Size": "Dromedary: Approximately 7.2-11.2 feet long, 5.9-6.6 feet tall at shoulder; Bactrian: Approximately 10-11.5 feet long, 5.2-5.9 feet tall at shoulder",
+        "Weight": "Dromedary: Approximately 880-1320 pounds; Bactrian: Approximately 990-2200 pounds",
+        "Color": "Varied, typically shades of brown",
+        "Lifespan": "Estimated 40 years",
+        "SpecialTraits": ["Humps for fat storage", "Able to tolerate extreme temperatures", "Can go long periods without water"]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": ["Grasses", "Shrubs", "Desert plants (including thorny and salty varieties)"]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal (active during the day, especially early morning and late afternoon for feeding)",
+        "SocialType": "Herd animals",
+        "IntelligenceLevel": "Unknown, generally considered intelligent for livestock",
+        "Communication": "Various vocalizations, body language"
+      },
+      "Reproduction": {
+        "MaturityAge": "Females: 3-4 years; Males: 5-6 years",
+        "GestationPeriod": "Approximately 12-14 months",
+        "OffspringPerBirth": "Typically 1 (rarely 2)",
+        "ReproductionCycle": "Seasonal breeders, typically during late fall and winter months"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Wild Bactrian Camel: Critically Endangered; Dromedary: Domesticated, widespread",
+        "PopulationTrend": "Wild Bactrian Camel: Decreasing; Dromedary: Stable/Increasing (domesticated)",
+        "Threats": ["Wild Bactrian Camel: Habitat loss, illegal mining, hunting; Dromedary: Limited threats due to domestication"]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Medium (can bite or kick if provoked, especially males in rut)",
+        "PetFriendly": false,
+        "LegalStatus": "Requires special licensing in many regions due to 'dangerous wild animal' classification",
+        "Notes": "Used for transport, milk, meat, and wool"
+      },
+      "FunFacts": [
+        "Humps store fat, not water",
+        "Can carry heavy loads for long distances"
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "3679ec66-957b-45fc-923a-36ed224634cc",
+    "imageData": "",
+    "animalInfo": {
+      "id": "753e2e46-4d8a-4680-bd17-1c5b4b29ee8d",
+      "CommonName": "Gila Monster",
+      "ScientificName": "Heloderma suspectum",
+      "OtherNames": [],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Reptilia",
+        "Order": "Squamata",
+        "Family": "Helodermatidae",
+        "Genus": "Heloderma",
+        "Species": "H. suspectum"
+      },
+      "Habitat": {
+        "Environment": "Desert",
+        "Distribution": "Arid and semi-arid desert regions",
+        "Countries": ["Southwestern United States (Arizona, California, Nevada, Utah, New Mexico)", "Mexico"]
+      },
+      "PhysicalTraits": {
+        "Size": "Approximately 14-22 inches long (max 55cm)",
+        "Weight": "Approximately 1-1.5 pounds (max 1kg)",
+        "Color": "Black with pink, orange, or yellow markings",
+        "Lifespan": "Estimated 8-20 years in the wild, up to 30 years in captivity",
+        "SpecialTraits": ["Venomous (one of only two venomous lizard species)", "Stores fat in tail for energy during lean times"]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": ["Bird and reptile eggs", "Young birds", "Small mammals (rodents, rabbits)", "Lizards", "Insects", "Carrion"]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal (most active in spring), spends ~98% of time underground",
+        "SocialType": "Solitary (congregate only for hibernation or mating)",
+        "IntelligenceLevel": "Unknown, considered to have a slow metabolism adapted to infrequent large meals",
+        "Communication": "Limited, primarily chemical cues"
+      },
+      "Reproduction": {
+        "MaturityAge": "Unknown, estimated around 3-5 years",
+        "GestationPeriod": "Eggs incubated for approximately 10 months",
+        "OffspringPerBirth": "Typically 1-12 eggs per clutch",
+        "ReproductionCycle": "Breed in spring (April-June), female lays eggs in early summer"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Near Threatened",
+        "PopulationTrend": "Decreasing in some areas due to habitat loss",
+        "Threats": ["Habitat destruction (agriculture, development)", "Illegal collection", "Road mortality"]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "High (venomous, bite is painful but rarely fatal to humans)",
+        "PetFriendly": false,
+        "LegalStatus": "Illegal to own wild-caught in most states; captive-bred ownership varies by state (often requires permits or is illegal)",
+        "Notes": "Venom used primarily for defense, not prey capture. A compound from their saliva is used in a diabetes drug."
+      },
+      "FunFacts": [
+        "Named after the Gila River in Arizona",
+        "Can eat up to a third of its body weight in one meal"
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "63821c0d-cff4-4b0b-8a02-ab800fb5dac8",
+    "imageData": "",
+    "animalInfo": {
+      "id": "3d8229be-1ab3-4d6e-b2ad-00541193cb5c",
+      "CommonName": "Sidewinder Rattlesnake",
+      "ScientificName": "Crotalus cerastes",
+      "OtherNames": ["Horned Rattlesnake", "Sidewinder"],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Reptilia",
+        "Order": "Squamata",
+        "Family": "Viperidae",
+        "Genus": "Crotalus",
+        "Species": "C. cerastes"
+      },
+      "Habitat": {
+        "Environment": "Desert",
+        "Distribution": "Arid and semi-arid desert regions",
+        "Countries": ["Southwestern United States (California, Arizona, Nevada, Utah)", "Northwestern Mexico"]
+      },
+      "PhysicalTraits": {
+        "Size": "Approximately 17-32 inches long (up to 80 cm)",
+        "Weight": "Estimated 0.5-1.5 pounds",
+        "Color": "Varied, typically sandy, cream, or light brown to match desert surroundings",
+        "Lifespan": "Estimated 10-20 years in the wild, longer in captivity",
+        "SpecialTraits": ["Unique 'sidewinding' locomotion for moving on loose sand", "Supraocular scales (horns) above eyes"]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": ["Lizards", "Kangaroo rats and other small rodents", "Birds"]
+      },
+      "Behavior": {
+        "ActivityTime": "Nocturnal (primarily), sometimes crepuscular",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "Unknown, typical for snakes",
+        "Communication": "Rattling of tail as a warning"
+      },
+      "Reproduction": {
+        "MaturityAge": "Estimated 2-3 years",
+        "GestationPeriod": "Approximately 2-3 months",
+        "OffspringPerBirth": "Typically 5-18 live young",
+        "ReproductionCycle": "Gives birth to live young (viviparous), breeding typically in spring, births in late summer/early fall"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Stable, but local declines due to habitat fragmentation",
+        "Threats": ["Habitat loss", "Road mortality", "Human persecution"]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "High (venomous, bite can be medically significant but rarely fatal to humans)",
+        "PetFriendly": false,
+        "LegalStatus": "Varies by state, generally illegal or requires special permits for venomous reptiles",
+        "Notes": "Known for distinctive 'S-shaped' track in sand"
+      },
+      "FunFacts": [
+        "Moves by 'sidewinding' to minimize contact with hot sand",
+        "Can bury itself quickly in sand to ambush prey or hide"
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "5e5f1114-e37d-4859-a661-3f69762fa719",
+    "imageData": "",
+    "animalInfo": {
+      "id": "b0c3d2f9-842b-44b5-9a97-e52ee7653a89",
+      "CommonName": "Kangaroo Rat",
+      "ScientificName": "Dipodomys (various species, e.g., Dipodomys deserti, Dipodomys stephensi)",
+      "OtherNames": [],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Rodentia",
+        "Family": "Heteromyidae",
+        "Genus": "Dipodomys",
+        "Species": "Various (e.g., D. deserti, D. stephensi)"
+      },
+      "Habitat": {
+        "Environment": "Desert",
+        "Distribution": "Arid and semi-arid desert regions",
+        "Countries": ["Western and Southwestern United States", "Mexico"]
+      },
+      "PhysicalTraits": {
+        "Size": "Approximately 4-6 inches body length, plus a long tail (up to 8 inches)",
+        "Weight": "Estimated 1-6 ounces",
+        "Color": "Varied, typically light brown to dark brown with a white underside",
+        "Lifespan": "Estimated 2-5 years in the wild, longer in captivity",
+        "SpecialTraits": ["Large hind legs for jumping", "External fur-lined cheek pouches for carrying seeds", "Can survive without drinking water"]
+      },
+      "Diet": {
+        "Type": "Herbivore (primarily granivore)",
+        "Foods": ["Seeds (from desert grasses, mesquite beans)", "Some green vegetation", "Occasionally insects"]
+      },
+      "Behavior": {
+        "ActivityTime": "Nocturnal",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "Unknown, adept at finding and storing food",
+        "Communication": "Foot drumming, various chirps and squeaks"
+      },
+      "Reproduction": {
+        "MaturityAge": "Estimated 2-3 months",
+        "GestationPeriod": "Approximately 29-35 days",
+        "OffspringPerBirth": "Typically 1-6 young per litter",
+        "ReproductionCycle": "Multiple litters per year (up to 3-4), especially after rainfall"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Varies by species (e.g., Stephens' Kangaroo Rat is Threatened, many are Least Concern)",
+        "PopulationTrend": "Generally stable, some species facing decline due to habitat loss",
+        "Threats": ["Habitat loss and fragmentation", "Agriculture", "Urbanization", "Invasive species"]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low (small, shy, harmless to humans)",
+        "PetFriendly": false,
+        "LegalStatus": "Generally not kept as pets, wild capture is illegal in many areas",
+        "Notes": "Crucial for desert ecosystem by dispersing seeds"
+      },
+      "FunFacts": [
+        "Can jump up to 9 feet in one bound",
+        "Gets all its water from metabolic processes and food"
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  }
+]

@@ -1,0 +1,1732 @@
+[
+  {
+    "id": "4cc3cb4e-a888-4a40-ba44-af2e6ff7fad7",
+    "imageData": "",
+    "animalInfo": {
+      "id": "28e2c517-0059-4b7f-ab5c-fd965317665d",
+      "CommonName": "Tiger",
+      "ScientificName": "Panthera tigris",
+      "OtherNames": [],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Felidae",
+        "Genus": "Panthera",
+        "Species": "tigris"
+      },
+      "Habitat": {
+        "Environment": "Forest",
+        "Distribution": "Tropical and temperate forests",
+        "Countries": [
+          "India",
+          "Nepal",
+          "Bhutan",
+          "Bangladesh",
+          "Myanmar",
+          "Thailand",
+          "Malaysia",
+          "Indonesia",
+          "China",
+          "Russia"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated: 1.8-3.3 meters long (including tail)",
+        "Weight": "Estimated: 100-300 kg",
+        "Color": "Orange with black stripes and white undersides",
+        "Lifespan": "10-15 years (in the wild)",
+        "SpecialTraits": [
+          "Striped coat for camouflage",
+          "Powerful build for hunting",
+          "Excellent night vision"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Deer",
+          "Wild boar",
+          "Buffalo",
+          "Antelope",
+          "Fish"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Crepuscular/Nocturnal",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "High",
+        "Communication": "Roars, growls, chuffs, scent marking"
+      },
+      "Reproduction": {
+        "MaturityAge": "3-4 years",
+        "GestationPeriod": "Approximately 103 days",
+        "OffspringPerBirth": "2-4 cubs",
+        "ReproductionCycle": "Estimated: Every 2-2.5 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Endangered",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Habitat loss and fragmentation",
+          "Poaching for body parts",
+          "Human-wildlife conflict"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "High",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Apex predator, culturally significant"
+      },
+      "FunFacts": [
+        "Each tiger's stripe pattern is unique, like human fingerprints.",
+        "Tigers are strong swimmers and often hunt in water."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "75fcd9aa-b288-4937-b374-035497195b0f",
+    "imageData": "",
+    "animalInfo": {
+      "id": "2940aadc-d6b5-4907-a8f3-49a641f021ad",
+      "CommonName": "Jaguar",
+      "ScientificName": "Panthera onca",
+      "OtherNames": [],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Felidae",
+        "Genus": "Panthera",
+        "Species": "onca"
+      },
+      "Habitat": {
+        "Environment": "Forest",
+        "Distribution": "Tropical and subtropical forests, grasslands, swamps",
+        "Countries": [
+          "Mexico",
+          "Central America",
+          "South America"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "1.12-1.85 meters long (including tail)",
+        "Weight": "Estimated: 56-96 kg (males can be larger)",
+        "Color": "Tan or orange with black rosettes",
+        "Lifespan": "12-15 years (in the wild)",
+        "SpecialTraits": [
+          "Strongest bite of any big cat proportional to size",
+          "Excellent swimmer and climber",
+          "Rosette patterns"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Deer",
+          "Capybara",
+          "Caiman",
+          "Fish",
+          "Armadillo"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Nocturnal/Crepuscular",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "Moderate to High",
+        "Communication": "Roars, grunts, huffs, scent marking"
+      },
+      "Reproduction": {
+        "MaturityAge": "2-3 years",
+        "GestationPeriod": "Approximately 93-105 days",
+        "OffspringPerBirth": "1-4 cubs",
+        "ReproductionCycle": "Estimated: Every 1-2 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Near Threatened",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Habitat loss and fragmentation",
+          "Illegal hunting",
+          "Human-wildlife conflict"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Medium",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Largest cat in the Americas"
+      },
+      "FunFacts": [
+        "Jaguars are known for their powerful jaws, capable of piercing turtle shells.",
+        "They are often found near water sources."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "72ccc273-4120-47d7-8a39-e8840d7ebf53",
+    "imageData": "",
+    "animalInfo": {
+      "id": "88ffc57d-d1b5-4377-bd96-48c68ad1336e",
+      "CommonName": "Sloth",
+      "ScientificName": "Bradypus (three-toed) or Choloepus (two-toed)",
+      "OtherNames": [],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pilosa",
+        "Family": "Bradypodidae (three-toed) or Megalonychidae (two-toed)",
+        "Genus": "Bradypus/Choloepus",
+        "Species": "Various (e.g., Bradypus variegatus for Brown-throated Sloth)"
+      },
+      "Habitat": {
+        "Environment": "Forest",
+        "Distribution": "Tropical and subtropical forests",
+        "Countries": [
+          "Central America",
+          "South America"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated: 0.5-0.7 meters long",
+        "Weight": "Estimated: 2.5-8 kg",
+        "Color": "Brownish-gray with greenish algae on fur (camouflage)",
+        "Lifespan": "15-20 years (in the wild, estimated)",
+        "SpecialTraits": [
+          "Slow metabolism and movement",
+          "Long claws for hanging",
+          "Can rotate head almost 360 degrees"
+        ]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": [
+          "Leaves",
+          "Twigs",
+          "Buds",
+          "Fruits (occasionally)"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Mostly nocturnal but can be active during the day",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "Low to Moderate",
+        "Communication": "Hissing, squeaking, grunting (infrequent)"
+      },
+      "Reproduction": {
+        "MaturityAge": "3-5 years",
+        "GestationPeriod": "Estimated: 6-11 months (species dependent)",
+        "OffspringPerBirth": "1 cub",
+        "ReproductionCycle": "Estimated: Annually or every 2 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Various (e.g., Least Concern to Critically Endangered depending on species)",
+        "PopulationTrend": "Estimated: Varies by species, some decreasing due to habitat loss",
+        "Threats": [
+          "Habitat loss and fragmentation",
+          "Deforestation",
+          "Illegal pet trade"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Protected (most species)",
+        "Notes": "Known for their extremely slow movement"
+      },
+      "FunFacts": [
+        "Sloths descend from trees once a week to defecate.",
+        "Their slow metabolism means they can take up to a month to digest a meal."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "bdada65d-f5ce-4baa-8797-8f07f59f424a",
+    "imageData": "",
+    "animalInfo": {
+      "id": "da633997-5ace-4e60-930e-f202c224584c",
+      "CommonName": "Red Panda",
+      "ScientificName": "Ailurus fulgens",
+      "OtherNames": [
+        "Lesser Panda",
+        "Fire Fox"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Ailuridae",
+        "Genus": "Ailurus",
+        "Species": "fulgens"
+      },
+      "Habitat": {
+        "Environment": "Forest",
+        "Distribution": "Temperate forests of the Himalayas",
+        "Countries": [
+          "Nepal",
+          "India",
+          "Bhutan",
+          "Myanmar",
+          "China"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated: 50-64 cm (body), 30-48 cm (tail)",
+        "Weight": "Estimated: 3-6 kg",
+        "Color": "Reddish-brown with white markings on face and darker fur on belly",
+        "Lifespan": "Estimated: 8-10 years (in the wild)",
+        "SpecialTraits": [
+          "False thumb (modified wrist bone) for gripping bamboo",
+          "Long bushy tail for balance and warmth",
+          "Dense fur for insulation"
+        ]
+      },
+      "Diet": {
+        "Type": "Omnivore (primarily herbivore)",
+        "Foods": [
+          "Bamboo",
+          "Acorns",
+          "Roots",
+          "Fruits",
+          "Eggs",
+          "Insects"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Crepuscular/Nocturnal",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Twittering, squeaking, huffing, tail flicking"
+      },
+      "Reproduction": {
+        "MaturityAge": "18-20 months",
+        "GestationPeriod": "Estimated: 90-150 days (with delayed implantation)",
+        "OffspringPerBirth": "1-2 cubs",
+        "ReproductionCycle": "Annually"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Endangered",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Habitat loss and fragmentation",
+          "Poaching for fur and pet trade",
+          "Inbreeding"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Often confused with the giant panda"
+      },
+      "FunFacts": [
+        "Red pandas are excellent climbers and spend most of their time in trees.",
+        "They use their long, bushy tails as blankets in cold weather."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "17e9bc8f-e4fa-48dd-b94d-83932f98cf7a",
+    "imageData": "",
+    "animalInfo": {
+      "id": "5740a1cc-05b6-41c1-80cd-180c6d809572",
+      "CommonName": "Okapi",
+      "ScientificName": "Okapia johnstoni",
+      "OtherNames": [
+        "Forest Giraffe"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Giraffidae",
+        "Genus": "Okapia",
+        "Species": "johnstoni"
+      },
+      "Habitat": {
+        "Environment": "Forest",
+        "Distribution": "Dense rainforests of Central Africa",
+        "Countries": [
+          "Democratic Republic of Congo"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated: 1.9-2.5 meters long, 1.5-2.0 meters tall at shoulder",
+        "Weight": "Estimated: 200-350 kg",
+        "Color": "Dark chocolate brown body with distinctive white and black striped legs",
+        "Lifespan": "Estimated: 15-20 years (in the wild)",
+        "SpecialTraits": [
+          "Long, prehensile tongue (up to 30 cm) for stripping leaves",
+          "Oily fur for waterproofing",
+          "Large ears for acute hearing"
+        ]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": [
+          "Leaves",
+          "Twigs",
+          "Fruits",
+          "Grasses",
+          "Fungi"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Solitary (except mothers with calves)",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Chuffs, coughs, bleats, infrasound (estimated)"
+      },
+      "Reproduction": {
+        "MaturityAge": "2-3 years",
+        "GestationPeriod": "Estimated: 14-15 months",
+        "OffspringPerBirth": "1 calf",
+        "ReproductionCycle": "Estimated: Every 1.5-2 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Endangered",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Habitat loss and degradation",
+          "Poaching for meat and skin",
+          "Civil unrest"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Often called a 'living fossil' due to its ancient lineage"
+      },
+      "FunFacts": [
+        "The okapi's stripes help them blend into the dappled light of the forest.",
+        "They can clean their own eyelids and ears with their long tongue."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "393b601b-d23a-48af-a714-e461ff080e73",
+    "imageData": "",
+    "animalInfo": {
+      "id": "45cb19bc-cb20-4812-bb74-65a1e7ffc7d0",
+      "CommonName": "Chimpanzee",
+      "ScientificName": "Pan troglodytes",
+      "OtherNames": [
+        "Common Chimpanzee"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Hominidae",
+        "Genus": "Pan",
+        "Species": "troglodytes"
+      },
+      "Habitat": {
+        "Environment": "Forest",
+        "Distribution": "Tropical forests and savannas of Central and West Africa",
+        "Countries": [
+          "Democratic Republic of Congo",
+          "Gabon",
+          "Cameroon",
+          "Nigeria",
+          "Uganda",
+          "Tanzania"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated: 1-1.7 meters tall",
+        "Weight": "Estimated: 30-70 kg",
+        "Color": "Black fur with bare faces (can vary with age and subspecies)",
+        "Lifespan": "Estimated: 40-50 years (in the wild)",
+        "SpecialTraits": [
+          "Highly intelligent with complex social structures",
+          "Opposable thumbs for tool use",
+          "Strong limbs for climbing"
+        ]
+      },
+      "Diet": {
+        "Type": "Omnivore",
+        "Foods": [
+          "Fruits",
+          "Leaves",
+          "Insects",
+          "Meat (small mammals)"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Social (fission-fusion communities)",
+        "IntelligenceLevel": "High (tool use, problem-solving, self-awareness)",
+        "Communication": "Vocalizations (hoots, screams, grunts), facial expressions, body language, gestures"
+      },
+      "Reproduction": {
+        "MaturityAge": "8-10 years",
+        "GestationPeriod": "Approximately 8 months",
+        "OffspringPerBirth": "1 infant",
+        "ReproductionCycle": "Estimated: Every 3-5 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Endangered",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Habitat loss and degradation",
+          "Poaching for bushmeat and pet trade",
+          "Diseases"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Medium (can be aggressive if threatened)",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Closest living relatives to humans"
+      },
+      "FunFacts": [
+        "Chimpanzees use a variety of tools, including sticks to extract insects and leaves to absorb water.",
+        "They have unique personalities and form strong bonds within their communities."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "5bc16f6a-a4ee-46a7-a127-03a8d9caa32c",
+    "imageData": "",
+    "animalInfo": {
+      "id": "669deee6-7c4a-47a7-bb94-5a6629dbcb04",
+      "CommonName": "Orangutan",
+      "ScientificName": "Pongo (e.g., Pongo pygmaeus for Bornean Orangutan)",
+      "OtherNames": [],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Hominidae",
+        "Genus": "Pongo",
+        "Species": "Various (e.g., Pongo pygmaeus, Pongo abelii, Pongo tapanuliensis)"
+      },
+      "Habitat": {
+        "Environment": "Forest",
+        "Distribution": "Tropical rainforests of Borneo and Sumatra",
+        "Countries": [
+          "Indonesia",
+          "Malaysia"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated: 1.2-1.5 meters tall",
+        "Weight": "Estimated: 30-90 kg (males significantly larger)",
+        "Color": "Reddish-brown long shaggy fur",
+        "Lifespan": "Estimated: 30-40 years (in the wild)",
+        "SpecialTraits": [
+          "Long, powerful arms for brachiation (swinging through trees)",
+          "Highly intelligent with problem-solving skills",
+          "Males develop large cheek pads (flanges)"
+        ]
+      },
+      "Diet": {
+        "Type": "Herbivore (primarily frugivore)",
+        "Foods": [
+          "Fruits",
+          "Leaves",
+          "Bark",
+          "Insects",
+          "Bird eggs"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Semi-solitary (mothers with offspring, males mostly alone)",
+        "IntelligenceLevel": "High (tool use, learning, emotional depth)",
+        "Communication": "Long calls (males), grunts, squeaks, facial expressions, gestures"
+      },
+      "Reproduction": {
+        "MaturityAge": "7-10 years",
+        "GestationPeriod": "Approximately 8.5 months",
+        "OffspringPerBirth": "1 infant",
+        "ReproductionCycle": "Estimated: Every 6-8 years (longest interbirth interval among great apes)"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Critically Endangered (all species)",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Habitat loss due to palm oil plantations and logging",
+          "Forest fires",
+          "Illegal pet trade"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low (generally shy, but can defend if threatened)",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Arboreal apes, rarely descend to the ground"
+      },
+      "FunFacts": [
+        "Orangutans build elaborate nests in trees for sleeping.",
+        "Their name means 'person of the forest' in Malay."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "27a1671c-3b69-487b-a468-d3bea0535528",
+    "imageData": "",
+    "animalInfo": {
+      "id": "6fe48f80-76fc-492a-8cf7-f516e03a526a",
+      "CommonName": "Capybara",
+      "ScientificName": "Hydrochoerus hydrochaeris",
+      "OtherNames": [
+        "Water Hog"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Rodentia",
+        "Family": "Caviidae",
+        "Genus": "Hydrochoerus",
+        "Species": "hydrochaeris"
+      },
+      "Habitat": {
+        "Environment": "Forest",
+        "Distribution": "Forests near water bodies (rivers, lakes, swamps) in South America",
+        "Countries": [
+          "Brazil",
+          "Argentina",
+          "Venezuela",
+          "Colombia",
+          "Peru",
+          "Ecuador",
+          "Bolivia",
+          "Guyana",
+          "Suriname",
+          "French Guiana",
+          "Paraguay",
+          "Uruguay"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated: 1-1.3 meters long",
+        "Weight": "Estimated: 35-66 kg",
+        "Color": "Reddish-brown to grayish fur",
+        "Lifespan": "Estimated: 8-10 years (in the wild)",
+        "SpecialTraits": [
+          "Semi-aquatic, excellent swimmers",
+          "Webbed feet",
+          "Eyes, ears, and nostrils on top of head for staying submerged"
+        ]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": [
+          "Grasses",
+          "Aquatic plants",
+          "Fruits",
+          "Bark"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal/Crepuscular",
+        "SocialType": "Herd",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Grunts, chirps, whistles, barks (alarm calls)"
+      },
+      "Reproduction": {
+        "MaturityAge": "18-24 months",
+        "GestationPeriod": "Approximately 130-150 days",
+        "OffspringPerBirth": "1-8 pups (average 4)",
+        "ReproductionCycle": "Estimated: 1-2 litters per year"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Stable",
+        "Threats": [
+          "Habitat degradation",
+          "Hunting for meat and hide"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low (generally docile, but can bite if threatened)",
+        "PetFriendly": false,
+        "LegalStatus": "Common, sometimes hunted for sustenance",
+        "Notes": "Largest rodent in the world"
+      },
+      "FunFacts": [
+        "Capybaras can stay submerged underwater for up to 5 minutes.",
+        "They are often seen resting in water to regulate their body temperature."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "0fa0a6c0-2248-4fd6-8ea6-321aa3732817",
+    "imageData": "",
+    "animalInfo": {
+      "id": "b5e1e234-56c0-4de2-a0e2-62e74f9e5b5c",
+      "CommonName": "Toucan",
+      "ScientificName": "Ramphastidae (family)",
+      "OtherNames": [],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Piciformes",
+        "Family": "Ramphastidae",
+        "Genus": "Various (e.g., Ramphastos, Pteroglossus)",
+        "Species": "Various (e.g., Ramphastos toco for Toco Toucan)"
+      },
+      "Habitat": {
+        "Environment": "Forest",
+        "Distribution": "Tropical and subtropical forests of Central and South America",
+        "Countries": [
+          "Mexico",
+          "Central America",
+          "Brazil",
+          "Colombia",
+          "Ecuador",
+          "Peru"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated: 29-63 cm (species dependent)",
+        "Weight": "Estimated: 130-680 grams (species dependent)",
+        "Color": "Black plumage with brightly colored bills and facial markings",
+        "Lifespan": "Estimated: 12-20 years (in the wild)",
+        "SpecialTraits": [
+          "Large, colorful, lightweight bill",
+          "Zygodactyl feet (two toes forward, two backward) for gripping branches"
+        ]
+      },
+      "Diet": {
+        "Type": "Omnivore (primarily frugivore)",
+        "Foods": [
+          "Fruits",
+          "Insects",
+          "Small lizards",
+          "Bird eggs",
+          "Nestlings"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Small flocks or pairs",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Loud, distinct calls (frog-like croaks, yelps), bill clacking"
+      },
+      "Reproduction": {
+        "MaturityAge": "2-3 years",
+        "GestationPeriod": "Egg layer (incubation: estimated 16-20 days)",
+        "OffspringPerBirth": "2-4 eggs",
+        "ReproductionCycle": "Annually"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Various (e.g., Least Concern to Vulnerable depending on species)",
+        "PopulationTrend": "Estimated: Varies by species, some decreasing due to habitat loss",
+        "Threats": [
+          "Habitat loss and deforestation",
+          "Illegal pet trade"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Protected in many areas, sometimes kept as pets (often illegally)",
+        "Notes": "Iconic bird of the rainforest"
+      },
+      "FunFacts": [
+        "Despite its large size, a toucan's bill is very light because it's mostly hollow bone.",
+        "They use their bill to regulate body temperature."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "9458a730-1ba8-4951-bc99-a05df59be682",
+    "imageData": "",
+    "animalInfo": {
+      "id": "1fd5b087-86a2-4a7b-99b4-5b4883832024",
+      "CommonName": "Gorilla",
+      "ScientificName": "Gorilla gorilla (Western Gorilla) or Gorilla beringei (Eastern Gorilla)",
+      "OtherNames": [],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Hominidae",
+        "Genus": "Gorilla",
+        "Species": "gorilla/beringei (with subspecies)"
+      },
+      "Habitat": {
+        "Environment": "Forest",
+        "Distribution": "Tropical and subtropical forests of Central and East Africa",
+        "Countries": [
+          "Democratic Republic of Congo",
+          "Rwanda",
+          "Uganda",
+          "Gabon",
+          "Cameroon",
+          "Central African Republic"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated: 1.25-1.8 meters tall (standing)",
+        "Weight": "Estimated: 70-200 kg (males significantly larger)",
+        "Color": "Black fur (Western Gorilla), darker or browner (Eastern Gorilla)",
+        "Lifespan": "Estimated: 35-50 years (in the wild)",
+        "SpecialTraits": [
+          "Largest living primate",
+          "Highly intelligent with complex social structures",
+          "Strong and powerful"
+        ]
+      },
+      "Diet": {
+        "Type": "Herbivore (primarily folivore/frugivore)",
+        "Foods": [
+          "Leaves",
+          "Stems",
+          "Bamboo shoots",
+          "Fruits",
+          "Insects (occasionally)"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Social (family groups led by a silverback male)",
+        "IntelligenceLevel": "High (tool use observed, complex communication)",
+        "Communication": "Vocalizations (grunts, hoots, screams, roars), chest-beating, facial expressions, body posture"
+      },
+      "Reproduction": {
+        "MaturityAge": "10-12 years",
+        "GestationPeriod": "Approximately 8.5 months",
+        "OffspringPerBirth": "1 infant",
+        "ReproductionCycle": "Estimated: Every 3.5-4 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Critically Endangered (all species and subspecies)",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Habitat loss and degradation (logging, agriculture)",
+          "Poaching for bushmeat and trophy hunting",
+          "Diseases (Ebola)"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Medium (generally shy, but can be dangerous if provoked or feel threatened)",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Gentle giants, crucial for forest health"
+      },
+      "FunFacts": [
+        "Gorillas share about 98% of their DNA with humans.",
+        "Silverback gorillas are the dominant male leaders of a group."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "44e341e3-a21d-46d1-bc3c-5a684fabb0e4",
+    "imageData": "",
+    "animalInfo": {
+      "id": "34861d7e-54f2-4845-9867-b3502a383e05",
+      "CommonName": "Binturong",
+      "ScientificName": "Arctictis binturong",
+      "OtherNames": [
+        "Bearcat",
+        "Asian Beartcat"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Viverridae",
+        "Genus": "Arctictis",
+        "Species": "binturong"
+      },
+      "Habitat": {
+        "Environment": "Forest",
+        "Distribution": "Tropical rainforests of Southeast Asia",
+        "Countries": [
+          "Bangladesh",
+          "Bhutan",
+          "Cambodia",
+          "China",
+          "India",
+          "Indonesia",
+          "Laos",
+          "Malaysia",
+          "Myanmar",
+          "Nepal",
+          "Philippines",
+          "Thailand",
+          "Vietnam"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated: 60-96 cm (body), 56-89 cm (tail)",
+        "Weight": "Estimated: 9-20 kg",
+        "Color": "Shaggy black fur, often with gray-tipped hairs",
+        "Lifespan": "Estimated: 18-25 years (in captivity, less in wild)",
+        "SpecialTraits": [
+          "Prehensile tail used like a fifth limb",
+          "Smells like popcorn or buttered toast",
+          "Nocturnal and arboreal"
+        ]
+      },
+      "Diet": {
+        "Type": "Omnivore",
+        "Foods": [
+          "Fruits (especially figs)",
+          "Small mammals",
+          "Birds",
+          "Eggs",
+          "Insects",
+          "Carrion"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Nocturnal",
+        "SocialType": "Solitary or small family groups",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Chirps, purrs, growls, hisses, scent marking (popcorn smell)"
+      },
+      "Reproduction": {
+        "MaturityAge": "2.5-3 years",
+        "GestationPeriod": "Estimated: 74-76 days",
+        "OffspringPerBirth": "1-3 cubs",
+        "ReproductionCycle": "Estimated: Can breed year-round, 1-2 litters per year"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Vulnerable",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Habitat loss and deforestation",
+          "Poaching for meat, traditional medicine, and pet trade"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low (generally shy, but can bite if provoked)",
+        "PetFriendly": false,
+        "LegalStatus": "Protected in many range countries",
+        "Notes": "Has a unique scent often compared to buttered popcorn"
+      },
+      "FunFacts": [
+        "Binturongs are one of the few carnivores with a prehensile tail.",
+        "They use their tails to grip branches while climbing."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "47026074-be0a-4b08-8618-675923e71382",
+    "imageData": "",
+    "animalInfo": {
+      "id": "f59ea377-eb4c-4945-89e1-9a5d1ddf1e6a",
+      "CommonName": "Asian Elephant",
+      "ScientificName": "Elephas maximus",
+      "OtherNames": [],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Elephas",
+        "Species": "maximus"
+      },
+      "Habitat": {
+        "Environment": "Forest",
+        "Distribution": "Tropical and subtropical forests, grasslands, and scrublands in Asia",
+        "Countries": [
+          "India",
+          "Sri Lanka",
+          "Nepal",
+          "Bhutan",
+          "Bangladesh",
+          "Myanmar",
+          "Thailand",
+          "Laos",
+          "Cambodia",
+          "Vietnam",
+          "China",
+          "Malaysia",
+          "Indonesia"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated: 2-3.5 meters tall at shoulder, 5.5-6.5 meters long",
+        "Weight": "Estimated: 2,000-5,000 kg",
+        "Color": "Gray to brownish-gray",
+        "Lifespan": "Estimated: 48-60 years (in the wild)",
+        "SpecialTraits": [
+          "Large ears (smaller than African elephants), long trunk",
+          "Tusks (in some males), large columnar legs",
+          "Highly intelligent and social"
+        ]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": [
+          "Grasses",
+          "Leaves",
+          "Bark",
+          "Roots",
+          "Fruits",
+          "Sugarcane"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal/Crepuscular",
+        "SocialType": "Herd (matriarchal groups)",
+        "IntelligenceLevel": "High (complex social bonds, memory, problem-solving)",
+        "Communication": "Trumpeting, rumbling (infrasound), roars, rumbles, tactile communication, scent marking"
+      },
+      "Reproduction": {
+        "MaturityAge": "8-12 years",
+        "GestationPeriod": "Approximately 18-22 months (longest gestation of any mammal)",
+        "OffspringPerBirth": "1 calf",
+        "ReproductionCycle": "Estimated: Every 4-5 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Endangered",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Habitat loss and fragmentation",
+          "Human-elephant conflict",
+          "Poaching for ivory"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Medium to High (can be dangerous if provoked or protecting young)",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Cultural icon, keystone species for forest ecosystems"
+      },
+      "FunFacts": [
+        "Asian elephants have smaller ears compared to African elephants.",
+        "They use their trunks for breathing, smelling, touching, grasping, and drinking."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "f7c6f16e-fa55-4994-876f-9d79ec97882a",
+    "imageData": "",
+    "animalInfo": {
+      "id": "82a94762-dbd3-4df5-a53c-d1efbf046368",
+      "CommonName": "Leopard",
+      "ScientificName": "Panthera pardus",
+      "OtherNames": [],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Felidae",
+        "Genus": "Panthera",
+        "Species": "pardus"
+      },
+      "Habitat": {
+        "Environment": "Forest",
+        "Distribution": "Wide range of habitats including forests, grasslands, mountains, and deserts across Africa and Asia",
+        "Countries": [
+          "Across Sub-Saharan Africa",
+          "India",
+          "Southeast Asia",
+          "Parts of the Middle East"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated: 0.9-1.9 meters long (including tail)",
+        "Weight": "Estimated: 28-90 kg (males larger)",
+        "Color": "Pale yellowish to deep gold with black rosettes (spots)",
+        "Lifespan": "10-12 years (in the wild, estimated)",
+        "SpecialTraits": [
+          "Excellent climbers (can drag prey into trees)",
+          "Powerful jaws and sharp claws",
+          "Solitary and secretive"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Deer",
+          "Antelope",
+          "Primates",
+          "Rodents",
+          "Birds",
+          "Reptiles"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Mostly nocturnal",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "Moderate to High",
+        "Communication": "Roars, growls, purrs, raspy coughs, scent marking"
+      },
+      "Reproduction": {
+        "MaturityAge": "2-3 years",
+        "GestationPeriod": "Approximately 90-105 days",
+        "OffspringPerBirth": "2-3 cubs",
+        "ReproductionCycle": "Estimated: Every 1-2 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Vulnerable",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Habitat loss and fragmentation",
+          "Poaching for fur and body parts",
+          "Human-wildlife conflict"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Medium to High (can be dangerous if cornered or threatened)",
+        "PetFriendly": false,
+        "LegalStatus": "Protected in many range countries",
+        "Notes": "Most widely distributed wild cat species"
+      },
+      "FunFacts": [
+        "Leopards are opportunistic hunters and have a very diverse diet.",
+        "They are incredibly agile and can leap long distances."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "dca3b193-885e-4beb-99b8-2ab0074e4c3f",
+    "imageData": "",
+    "animalInfo": {
+      "id": "0402de62-eb2a-4417-bd33-76336f965d21",
+      "CommonName": "Pangolin",
+      "ScientificName": "Pholidota (order, various species)",
+      "OtherNames": [
+        "Scaly Anteater"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pholidota",
+        "Family": "Manidae",
+        "Genus": "Manis (various species)",
+        "Species": "Various (e.g., Manis javanica for Sunda Pangolin)"
+      },
+      "Habitat": {
+        "Environment": "Forest",
+        "Distribution": "Tropical forests, grasslands, and savannas across Africa and Asia",
+        "Countries": [
+          "Across Sub-Saharan Africa",
+          "India",
+          "Southeast Asia",
+          "China"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated: 30-100 cm (body), 26-70 cm (tail) depending on species",
+        "Weight": "Estimated: 2-35 kg depending on species",
+        "Color": "Brownish-gray, covered in hard, overlapping scales",
+        "Lifespan": "Estimated: Up to 20 years (in the wild, estimated)",
+        "SpecialTraits": [
+          "Covered in keratin scales for defense",
+          "Long, sticky tongue for catching insects (up to 40 cm)",
+          "Can roll into a tight ball when threatened"
+        ]
+      },
+      "Diet": {
+        "Type": "Insectivore",
+        "Foods": [
+          "Ants",
+          "Termites",
+          "Larvae"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Mostly nocturnal",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "Low to Moderate",
+        "Communication": "Hissing, sniffing, tail movements (infrequent vocalizations)"
+      },
+      "Reproduction": {
+        "MaturityAge": "1-2 years",
+        "GestationPeriod": "Estimated: 69-140 days (species dependent)",
+        "OffspringPerBirth": "1 (occasionally 2)",
+        "ReproductionCycle": "Annually"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Critically Endangered to Vulnerable (all species)",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Illegal trafficking for meat and scales (traditional medicine)",
+          "Habitat loss and degradation"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Protected (most trafficked mammal in the world)",
+        "Notes": "The only mammals covered in scales"
+      },
+      "FunFacts": [
+        "Pangolins lack teeth and rely on their strong stomach to grind food.",
+        "They are sometimes called 'pine cones with legs'."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "eec34042-7503-4f91-888f-9bf9d18f4e7f",
+    "imageData": "",
+    "animalInfo": {
+      "id": "16cf4b38-62bd-4459-93d9-7207838c85e6",
+      "CommonName": "Sun Bear",
+      "ScientificName": "Helarctos malayanus",
+      "OtherNames": [
+        "Honey Bear",
+        "Dog Bear"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Ursidae",
+        "Genus": "Helarctos",
+        "Species": "malayanus"
+      },
+      "Habitat": {
+        "Environment": "Forest",
+        "Distribution": "Tropical rainforests of Southeast Asia",
+        "Countries": [
+          "Bangladesh",
+          "Brunei",
+          "Cambodia",
+          "China",
+          "India",
+          "Indonesia",
+          "Laos",
+          "Malaysia",
+          "Myanmar",
+          "Thailand",
+          "Vietnam"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated: 1-1.4 meters long",
+        "Weight": "Estimated: 25-65 kg",
+        "Color": "Black fur with a distinctive yellow/orange crescent-shaped chest patch",
+        "Lifespan": "Estimated: 20-25 years (in captivity, less in wild)",
+        "SpecialTraits": [
+          "Long, sharp claws for climbing and digging",
+          "Long tongue (up to 25 cm) for extracting honey and insects",
+          "Smallest bear species"
+        ]
+      },
+      "Diet": {
+        "Type": "Omnivore",
+        "Foods": [
+          "Fruits",
+          "Honey",
+          "Insects (termites, ants, beetle larvae)",
+          "Small vertebrates",
+          "Palm hearts"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Nocturnal",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Grunts, roars, growls, huffs, scent marking"
+      },
+      "Reproduction": {
+        "MaturityAge": "3-4 years",
+        "GestationPeriod": "Estimated: 95-240 days (with delayed implantation)",
+        "OffspringPerBirth": "1-2 cubs",
+        "ReproductionCycle": "Estimated: Every 1.5-2 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Vulnerable",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Habitat loss and deforestation",
+          "Poaching for bile (traditional medicine) and paws (delicacy)",
+          "Illegal pet trade"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Medium (can be aggressive if threatened or protecting cubs)",
+        "PetFriendly": false,
+        "LegalStatus": "Protected in most range countries",
+        "Notes": "Known for their love of honey"
+      },
+      "FunFacts": [
+        "Sun bears have very loose skin, which allows them to turn and bite an attacker even if grabbed.",
+        "They are excellent climbers and often build nests in trees."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "6488db42-6b40-43de-97bd-3b2869928cbb",
+    "imageData": "",
+    "animalInfo": {
+      "id": "9f13abe3-c51d-45cb-ae7d-e3c9b8e3fdf2",
+      "CommonName": "Kinkajou",
+      "ScientificName": "Potos flavus",
+      "OtherNames": [
+        "Honey Bear",
+        "Night Ape"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Procyonidae",
+        "Genus": "Potos",
+        "Species": "flavus"
+      },
+      "Habitat": {
+        "Environment": "Forest",
+        "Distribution": "Tropical rainforests of Central and South America",
+        "Countries": [
+          "Mexico",
+          "Central America",
+          "Brazil",
+          "Colombia",
+          "Ecuador",
+          "Peru",
+          "Bolivia"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated: 40-60 cm (body), 40-55 cm (tail)",
+        "Weight": "Estimated: 1.4-4.6 kg",
+        "Color": "Golden or reddish-brown fur, sometimes gray",
+        "Lifespan": "Estimated: 20-25 years (in captivity, less in wild)",
+        "SpecialTraits": [
+          "Prehensile tail for gripping branches",
+          "Long tongue for reaching nectar and fruit",
+          "Nocturnal and arboreal"
+        ]
+      },
+      "Diet": {
+        "Type": "Omnivore (primarily frugivore)",
+        "Foods": [
+          "Fruits",
+          "Nectar",
+          "Flowers",
+          "Insects",
+          "Small vertebrates"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Nocturnal",
+        "SocialType": "Solitary or small family groups",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Hissing, barking, squeaking, scent marking"
+      },
+      "Reproduction": {
+        "MaturityAge": "1.5-3 years",
+        "GestationPeriod": "Estimated: 112-118 days",
+        "OffspringPerBirth": "1 (occasionally 2)",
+        "ReproductionCycle": "Estimated: Can breed year-round, 1-2 litters per year"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Stable",
+        "Threats": [
+          "Habitat loss and deforestation",
+          "Illegal pet trade",
+          "Hunting for meat and fur"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low (generally shy, but can bite if threatened)",
+        "PetFriendly": false,
+        "LegalStatus": "Common, sometimes kept as pets (controversial)",
+        "Notes": "Often mistaken for a primate due to its arboreal lifestyle"
+      },
+      "FunFacts": [
+        "Kinkajous can hang upside down by their prehensile tail.",
+        "They are important pollinators of certain fruit trees."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "a0e391ff-5940-41fc-9037-a713bbc03764",
+    "imageData": "",
+    "animalInfo": {
+      "id": "a5737219-27c8-4a60-b6a4-49af54cfbdd7",
+      "CommonName": "Howler Monkey",
+      "ScientificName": "Alouatta (genus, various species)",
+      "OtherNames": [],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Atelidae",
+        "Genus": "Alouatta",
+        "Species": "Various (e.g., Alouatta palliata for Mantled Howler Monkey)"
+      },
+      "Habitat": {
+        "Environment": "Forest",
+        "Distribution": "Tropical forests of Central and South America",
+        "Countries": [
+          "Mexico",
+          "Central America",
+          "Brazil",
+          "Argentina",
+          "Bolivia",
+          "Colombia",
+          "Ecuador",
+          "Peru",
+          "Guyana",
+          "Suriname",
+          "French Guiana",
+          "Paraguay"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated: 50-70 cm (body), 50-70 cm (tail)",
+        "Weight": "Estimated: 4-10 kg",
+        "Color": "Varies by species (black, brown, red, golden)",
+        "Lifespan": "Estimated: 15-20 years (in the wild)",
+        "SpecialTraits": [
+          "Powerful vocalizations (howls) that can travel miles",
+          "Prehensile tail for gripping branches",
+          "Folivorous diet (leaf-eaters)"
+        ]
+      },
+      "Diet": {
+        "Type": "Herbivore (primarily folivore)",
+        "Foods": [
+          "Leaves",
+          "Fruits",
+          "Flowers",
+          "Buds"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Social (troops)",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Loud howls (territorial calls), grunts, barks, facial expressions"
+      },
+      "Reproduction": {
+        "MaturityAge": "3.5-4 years",
+        "GestationPeriod": "Estimated: 180-190 days",
+        "OffspringPerBirth": "1 infant",
+        "ReproductionCycle": "Estimated: Annually or every 2 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Various (e.g., Least Concern to Critically Endangered depending on species)",
+        "PopulationTrend": "Estimated: Varies by species, some decreasing due to habitat loss",
+        "Threats": [
+          "Habitat loss and fragmentation",
+          "Hunting",
+          "Electrocution on power lines"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low (generally shy, but may defend if threatened)",
+        "PetFriendly": false,
+        "LegalStatus": "Protected in many areas",
+        "Notes": "Known for their incredibly loud calls"
+      },
+      "FunFacts": [
+        "Howler monkeys have a specially adapted hyoid bone in their throat that allows for their loud vocalizations.",
+        "They are one of the loudest land animals."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "db767d61-c90e-4d61-8255-e4baab9f8077",
+    "imageData": "",
+    "animalInfo": {
+      "id": "5480f70f-25a1-46ab-ac07-224f6fd6d1ec",
+      "CommonName": "Great Hornbill",
+      "ScientificName": "Buceros bicornis",
+      "OtherNames": [
+        "Concave-casqued Hornbill"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Bucerotiformes",
+        "Family": "Bucerotidae",
+        "Genus": "Buceros",
+        "Species": "bicornis"
+      },
+      "Habitat": {
+        "Environment": "Forest",
+        "Distribution": "Tropical and subtropical forests of Southeast Asia and the Indian subcontinent",
+        "Countries": [
+          "India",
+          "Nepal",
+          "Bhutan",
+          "Myanmar",
+          "Thailand",
+          "Malaysia",
+          "Indonesia"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated: 95-120 cm long, 150 cm wingspan",
+        "Weight": "Estimated: 2-4 kg",
+        "Color": "Black and white plumage with a large yellow and black casque on the bill",
+        "Lifespan": "Estimated: 35-50 years (in captivity, less in wild)",
+        "SpecialTraits": [
+          "Large, prominent casque on top of bill (hollow and lightweight)",
+          "Loud, far-carrying calls",
+          "Nests in tree cavities"
+        ]
+      },
+      "Diet": {
+        "Type": "Omnivore (primarily frugivore)",
+        "Foods": [
+          "Fruits (especially figs)",
+          "Insects",
+          "Small reptiles",
+          "Birds",
+          "Eggs"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Monogamous pairs or small groups",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Loud trumpeting calls, cackles, growls, bill clacking"
+      },
+      "Reproduction": {
+        "MaturityAge": "3-4 years",
+        "GestationPeriod": "Egg layer (incubation: estimated 38-40 days)",
+        "OffspringPerBirth": "1-2 eggs",
+        "ReproductionCycle": "Annually"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Vulnerable",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Habitat loss and deforestation",
+          "Hunting for meat, casque, and feathers",
+          "Illegal pet trade"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "One of the largest hornbill species"
+      },
+      "FunFacts": [
+        "Female hornbills seal themselves into tree cavities during nesting, relying on the male to feed them.",
+        "They are important seed dispersers in their forest ecosystems."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "e2e34bc7-6cc2-453e-ba6a-5afa56d250e4",
+    "imageData": "",
+    "animalInfo": {
+      "id": "254bb3e5-6728-4188-ac8f-8d5db0c09f45",
+      "CommonName": "Malayan Tapir",
+      "ScientificName": "Tapirus indicus",
+      "OtherNames": [
+        "Asian Tapir",
+        "Saddle-backed Tapir"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Perissodactyla",
+        "Family": "Tapiridae",
+        "Genus": "Tapirus",
+        "Species": "indicus"
+      },
+      "Habitat": {
+        "Environment": "Forest",
+        "Distribution": "Tropical rainforests and swamps of Southeast Asia",
+        "Countries": [
+          "Malaysia",
+          "Indonesia (Sumatra)",
+          "Thailand",
+          "Myanmar"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated: 1.8-2.5 meters long, 0.9-1.1 meters tall",
+        "Weight": "Estimated: 250-320 kg",
+        "Color": "Black front and hind legs, black head, and a distinctive white or gray saddle on its back",
+        "Lifespan": "Estimated: 25-30 years (in captivity, less in wild)",
+        "SpecialTraits": [
+          "Short, flexible proboscis (trunk-like snout) for grasping food",
+          "Excellent swimmer and diver",
+          "Unique black and white coloration for camouflage"
+        ]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": [
+          "Leaves",
+          "Shoots",
+          "Twigs",
+          "Fruits",
+          "Aquatic plants"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Mostly nocturnal",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "High-pitched whistles, snorts, clicks"
+      },
+      "Reproduction": {
+        "MaturityAge": "3-4 years",
+        "GestationPeriod": "Estimated: 390-400 days",
+        "OffspringPerBirth": "1 calf",
+        "ReproductionCycle": "Estimated: Every 2-3 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Endangered",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Habitat loss and fragmentation",
+          "Illegal hunting",
+          "Road accidents"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low (generally shy, but can defend if threatened)",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "The only tapir species found in Asia"
+      },
+      "FunFacts": [
+        "Malayan tapir calves are born with a spotted and striped coat, which they lose as they mature.",
+        "They use their proboscis to sniff out food and to breathe when submerged."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "e1a6fb39-abd7-46cd-8f2a-6cfa41878d03",
+    "imageData": "",
+    "animalInfo": {
+      "id": "4b50d98b-542e-4350-a026-f4e2faed35c2",
+      "CommonName": "Bush Baby",
+      "ScientificName": "Galago (genus, various species)",
+      "OtherNames": [
+        "Galago",
+        "Nagapie"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Galagidae",
+        "Genus": "Galago",
+        "Species": "Various (e.g., Galago senegalensis for Senegal Bushbaby)"
+      },
+      "Habitat": {
+        "Environment": "Forest",
+        "Distribution": "Forests and woodlands across Sub-Saharan Africa",
+        "Countries": [
+          "Across Sub-Saharan Africa (wide distribution)"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Estimated: 13-40 cm (body), 15-50 cm (tail)",
+        "Weight": "Estimated: 50-1,500 grams (species dependent)",
+        "Color": "Grayish-brown to reddish-brown fur",
+        "Lifespan": "Estimated: 10-15 years (in captivity, less in wild)",
+        "SpecialTraits": [
+          "Large, forward-facing eyes for night vision",
+          "Long, powerful hind legs for leaping",
+          "Highly mobile ears for precise hearing"
+        ]
+      },
+      "Diet": {
+        "Type": "Omnivore (primarily insectivore/frugivore)",
+        "Foods": [
+          "Insects",
+          "Fruits",
+          "Tree gum",
+          "Nectar",
+          "Small birds and eggs"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Nocturnal",
+        "SocialType": "Solitary (foraging), but can sleep in groups",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Variety of vocalizations (loud cries, chirps, clicks, croaks), scent marking"
+      },
+      "Reproduction": {
+        "MaturityAge": "9-12 months",
+        "GestationPeriod": "Estimated: 110-133 days",
+        "OffspringPerBirth": "1-3 infants",
+        "ReproductionCycle": "Estimated: 1-2 litters per year"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Various (e.g., Least Concern to Near Threatened depending on species)",
+        "PopulationTrend": "Estimated: Varies by species, some stable, others decreasing due to habitat loss",
+        "Threats": [
+          "Habitat loss and degradation",
+          "Illegal pet trade",
+          "Hunting"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Protected in some areas, commonly traded illegally",
+        "Notes": "Known for their 'baby-like' cries"
+      },
+      "FunFacts": [
+        "Bush babies can leap up to 2.25 meters (7.4 feet) using their powerful legs.",
+        "They mark their territory by urinating on their hands and then spreading it on branches."
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  }
+]

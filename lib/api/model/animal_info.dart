@@ -1,8 +1,8 @@
-import 'package:flutter_blue_plus_example/model/classification.dart';
-import 'package:flutter_blue_plus_example/model/physical_traits.dart';
-import 'package:flutter_blue_plus_example/model/reproduction.dart';
+import 'package:base_project/api/model/physical_traits.dart';
+import 'package:base_project/api/model/reproduction.dart';
 
 import 'behavior.dart';
+import 'classification.dart';
 import 'conservation_status.dart';
 import 'diet.dart';
 import 'habitat.dart';
@@ -11,7 +11,7 @@ import 'human_interaction.dart';
 class AnimalInfo {
   final String commonName;
   final String scientificName;
-  final String otherNames;
+  final List<String> otherNames;
   final Classification classification;
   final Habitat habitat;
   final PhysicalTraits physicalTraits;

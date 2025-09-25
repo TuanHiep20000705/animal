@@ -1,0 +1,853 @@
+[
+  {
+    "id": "addd7a12-29b4-459d-a76c-9ac400598da5",
+    "imageData": "",
+    "animalInfo": {
+      "id": "b1ff9199-9353-494f-8e20-1264f784da5f",
+      "CommonName": "Mosquito",
+      "ScientificName": "Culicidae",
+      "OtherNames": [
+        "Mosquito"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Arthropoda",
+        "Class": "Insecta",
+        "Order": "Diptera",
+        "Family": "Culicidae",
+        "Genus": "Various (e.g., Anopheles, Aedes, Culex)",
+        "Species": "Various"
+      },
+      "Habitat": {
+        "Environment": "Wetlands, forests, cities",
+        "Distribution": "Worldwide",
+        "Countries": [
+          "All tropical/subtropical countries",
+          "Temperate regions"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "3–6 mm",
+        "Weight": "2.5 mg",
+        "Color": "Gray-brown (can vary by species)",
+        "Lifespan": "2 weeks (female, estimated longer than male)",
+        "SpecialTraits": [
+          "Blood-feeding (females)",
+          "Disease carrier",
+          "Long, piercing proboscis"
+        ]
+      },
+      "Diet": {
+        "Type": "Omnivore",
+        "Foods": [
+          "Nectar",
+          "Plant sap",
+          "Blood (females)"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Nocturnal (varies by species, some are diurnal)",
+        "SocialType": "Solitary (form swarms for mating)",
+        "IntelligenceLevel": "Low",
+        "Communication": "Chemical cues, wing beat frequency (for mating)"
+      },
+      "Reproduction": {
+        "MaturityAge": "Few days (3-5 days, estimated)",
+        "GestationPeriod": "Few days (2-3 days from blood meal to egg laying, estimated)",
+        "OffspringPerBirth": "100-300 eggs per batch",
+        "ReproductionCycle": "Rapid (can lay multiple batches in a lifetime)"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Not Evaluated",
+        "PopulationTrend": "Stable",
+        "Threats": [
+          "Pesticide resistance (for control efforts)"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Extreme",
+        "PetFriendly": false,
+        "LegalStatus": "Unregulated",
+        "Notes": "Kills over 725,000 people/year via diseases"
+      },
+      "FunFacts": [
+        "Deadliest animal to humans due to disease transmission",
+        "Only female mosquitoes bite."
+      ]
+    },
+    "dateTime": "2025-07-11T09:42:09.189769",
+    "actionType": "explore"
+  },
+  {
+    "id": "74f8fca4-08b8-45bc-80ee-24f6dd1ed356",
+    "imageData": "",
+    "animalInfo": {
+      "id": "b8bf95bd-44f9-4805-87b9-c11350992cbc",
+      "CommonName": "Box Jellyfish",
+      "ScientificName": "Chironex fleckeri",
+      "OtherNames": [
+        "Sea Wasp",
+        "Marine Stinger"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Cnidaria",
+        "Class": "Cubozoa",
+        "Order": "Carybdeida",
+        "Family": "Chirodropidae",
+        "Genus": "Chironex",
+        "Species": "fleckeri"
+      },
+      "Habitat": {
+        "Environment": "Coastal waters, estuaries",
+        "Distribution": "Indo-Pacific",
+        "Countries": [
+          "Australia",
+          "Philippines",
+          "Thailand",
+          "Malaysia",
+          "Vietnam"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Up to 30 cm bell (larger for tentacles)",
+        "Weight": "2 kg (estimated)",
+        "Color": "Transparent",
+        "Lifespan": "Less than 1 year (estimated lifespan of 3-9 months)",
+        "SpecialTraits": [
+          "Tentacles with lethal venom",
+          "Four distinct eyes (rhopalia) that can detect light",
+          "Cube-shaped bell"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Small fish",
+          "Crustaceans (e.g., prawns, shrimp)"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal (more active during the day)",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "Low (simple nervous system)",
+        "Communication": "Not applicable (no known complex communication)"
+      },
+      "Reproduction": {
+        "MaturityAge": "Few weeks (estimated, rapid development)",
+        "GestationPeriod": "N/A (sexual reproduction, no gestation period in the mammalian sense)",
+        "OffspringPerBirth": "Hundreds (estimated, many larvae are produced)",
+        "ReproductionCycle": "Seasonal (breeding season during warmer months)"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Not Evaluated",
+        "PopulationTrend": "Stable (estimated)",
+        "Threats": [
+          "Habitat degradation (coastal development)"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Extreme",
+        "PetFriendly": false,
+        "LegalStatus": "Unregulated",
+        "Notes": "Can kill a human in minutes; venom causes cardiac arrest, paralysis, and excruciating pain."
+      },
+      "FunFacts": [
+        "One of the most venomous creatures on Earth",
+        "Their venom is considered among the most potent in the world."
+      ]
+    },
+    "dateTime": "2025-07-11T09:42:09.189769",
+    "actionType": "explore"
+  },
+  {
+    "id": "e6b03e3a-09bb-400b-9726-724634897ca7",
+    "imageData": "",
+    "animalInfo": {
+      "id": "22f371d5-94cb-4edb-889a-36c2a3a704e3",
+      "CommonName": "Saltwater Crocodile",
+      "ScientificName": "Crocodylus porosus",
+      "OtherNames": [
+        "Estuarine Crocodile",
+        "Saltie",
+        "Indo-Pacific Crocodile"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Reptilia",
+        "Order": "Crocodylia",
+        "Family": "Crocodylidae",
+        "Genus": "Crocodylus",
+        "Species": "porosus"
+      },
+      "Habitat": {
+        "Environment": "Rivers, estuaries, coastal waters, swamps",
+        "Distribution": "Southeast Asia, Australia, India",
+        "Countries": [
+          "Australia",
+          "Indonesia",
+          "Papua New Guinea",
+          "India",
+          "Vietnam",
+          "Sri Lanka"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Up to 7 meters (males), 2.5-3 meters (females)",
+        "Weight": "Up to 1,200 kg (males), 150-200 kg (females)",
+        "Color": "Gray-green to dark brown with lighter undersides",
+        "Lifespan": "70+ years (estimated, can live over 100 in captivity)",
+        "SpecialTraits": [
+          "Incredible bite force (strongest of any living animal)",
+          "Ambush predator",
+          "Tolerance to saltwater"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Fish",
+          "Birds",
+          "Mammals (including large ungulates)",
+          "Reptiles",
+          "Crustaceans",
+          "Humans (opportunistic)"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal (often bask), but also nocturnal hunters",
+        "SocialType": "Solitary (territorial)",
+        "IntelligenceLevel": "Moderate (show complex hunting strategies)",
+        "Communication": "Growls, hisses, head-slapping, tail-slapping, vocalizations for territorial defense and mating"
+      },
+      "Reproduction": {
+        "MaturityAge": "10–12 years (males), 12-14 years (females)",
+        "GestationPeriod": "90 days (incubation period for eggs)",
+        "OffspringPerBirth": "40–60 eggs",
+        "ReproductionCycle": "Annually (during wet season)"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Stable",
+        "Threats": [
+          "Habitat loss (coastal development, pollution)",
+          "Illegal hunting (for skin and meat)",
+          "Human-crocodile conflict"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Extreme",
+        "PetFriendly": false,
+        "LegalStatus": "Protected (under CITES Appendix II)",
+        "Notes": "Most aggressive crocodilian, known for attacks on humans; responsible for many fatalities annually."
+      },
+      "FunFacts": [
+        "Largest living reptile",
+        "They can go for long periods without food."
+      ]
+    },
+    "dateTime": "2025-07-11T09:43:50.825110",
+    "actionType": "explore"
+  },
+  {
+    "id": "c48b5895-564e-4aac-93be-0631eb2ae040",
+    "imageData": "",
+    "animalInfo": {
+      "id": "ab9bee29-9d04-4c4e-9068-af5df8bd8a34",
+      "CommonName": "Cape Buffalo",
+      "ScientificName": "Syncerus caffer",
+      "OtherNames": [
+        "African Buffalo",
+        "African Forest Buffalo (subspecies)"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Bovidae",
+        "Genus": "Syncerus",
+        "Species": "caffer"
+      },
+      "Habitat": {
+        "Environment": "Savannas, woodlands, grasslands, swamps",
+        "Distribution": "Sub-Saharan Africa",
+        "Countries": [
+          "Kenya",
+          "South Africa",
+          "Tanzania",
+          "Botswana",
+          "Zimbabwe"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "1.0-1.7 meters tall, 2.1-3.4 meters long",
+        "Weight": "500–900 kg (females), 600-1000 kg (males)",
+        "Color": "Black-brown (can appear reddish-brown in some regions)",
+        "Lifespan": "15–25 years (in the wild, up to 30 in captivity)",
+        "SpecialTraits": [
+          "Thick horns that fuse at the base (boss)",
+          "Known for their aggressive and unpredictable nature",
+          "Strong herd mentality for defense"
+        ]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": [
+          "Grass (primarily)",
+          "Sedge",
+          "Leaves",
+          "Shrubs"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal (graze in the early morning and late afternoon), rest during the hottest parts of the day",
+        "SocialType": "Herd (large, complex social structures)",
+        "IntelligenceLevel": "Moderate (demonstrate collective defense strategies)",
+        "Communication": "Snorts, grunts, bellows, low-frequency rumbling"
+      },
+      "Reproduction": {
+        "MaturityAge": "4-5 years (females), 5 years (males)",
+        "GestationPeriod": "11 months",
+        "OffspringPerBirth": "1 calf",
+        "ReproductionCycle": "Every 2 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Stable (some regional declines)",
+        "Threats": [
+          "Habitat loss (agriculture, human settlement)",
+          "Diseases (e.g., bovine tuberculosis from domestic cattle)",
+          "Poaching"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "High",
+        "PetFriendly": false,
+        "LegalStatus": "Protected (regulated hunting in some areas)",
+        "Notes": "Responsible for more hunter deaths than any other African animal; can be extremely dangerous when threatened or injured."
+      },
+      "FunFacts": [
+        "Known as 'Black Death' in Africa due to their dangerous nature.",
+        "They are part of Africa's 'Big Five' game animals."
+      ]
+    },
+    "dateTime": "2025-07-11T09:43:50.825352",
+    "actionType": "explore"
+  },
+  {
+    "id": "53e94f8f-c7f3-4781-bb68-309f4c61edc1",
+    "imageData": "",
+    "animalInfo": {
+      "id": "1d4732fa-11ce-489e-9f73-59006c520083",
+      "CommonName": "African Elephant",
+      "ScientificName": "Loxodonta africana",
+      "OtherNames": [
+        "Savanna Elephant",
+        "African Bush Elephant"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Loxodonta",
+        "Species": "africana"
+      },
+      "Habitat": {
+        "Environment": "Grasslands, forests, savannas, deserts, mountains",
+        "Distribution": "Africa",
+        "Countries": [
+          "Botswana",
+          "Tanzania",
+          "Kenya",
+          "South Africa",
+          "Zimbabwe"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "2.5-3.3 meters tall, 5.5-7 meters long",
+        "Weight": "4,000–6,000 kg (males), 2,000-4,000 kg (females)",
+        "Color": "Gray (often appear brownish from dust/mud baths)",
+        "Lifespan": "60–70 years (in the wild)",
+        "SpecialTraits": [
+          "Large tusks (modified incisors) for digging, lifting, defense",
+          "Long, prehensile trunk for breathing, smelling, touching, grasping",
+          "Large ears for heat dissipation",
+          "Highly intelligent"
+        ]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": [
+          "Grass",
+          "Fruits",
+          "Bark",
+          "Leaves",
+          "Roots",
+          "Twigs"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal (active during the day, but also at night in some areas)",
+        "SocialType": "Herd (matriarchal family groups, males often solitary or in bachelor herds)",
+        "IntelligenceLevel": "High (complex social structures, problem-solving, memory)",
+        "Communication": "Trumpets, rumbles (including infrasound), roars, body language (ear flapping, trunk gestures)"
+      },
+      "Reproduction": {
+        "MaturityAge": "10-12 years (females), 12–14 years (males)",
+        "GestationPeriod": "22 months (longest of any mammal)",
+        "OffspringPerBirth": "1 calf",
+        "ReproductionCycle": "4–6 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Endangered",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Poaching (for ivory)",
+          "Habitat destruction (agriculture, human encroachment)",
+          "Human-elephant conflict"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "High (can be aggressive if threatened, especially mothers with calves)",
+        "PetFriendly": false,
+        "LegalStatus": "Protected (under CITES Appendix I)",
+        "Notes": "Can charge when threatened, causing fatalities; important keystone species in their ecosystems."
+      },
+      "FunFacts": [
+        "Largest land animal on Earth",
+        "They can recognize themselves in a mirror."
+      ]
+    },
+    "dateTime": "2025-07-11T09:43:50.825797",
+    "actionType": "explore"
+  },
+  {
+    "id": "ccf399dd-6412-493a-b046-296898ed4bf1",
+    "imageData": "",
+    "animalInfo": {
+      "id": "b56cf1c9-16a4-4ce1-bb99-a86cccc0ef18",
+      "CommonName": "Inland Taipan",
+      "ScientificName": "Oxyuranus microlepidotus",
+      "OtherNames": [
+        "Fierce Snake",
+        "Small-scaled Snake",
+        "Western Taipan"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Reptilia",
+        "Order": "Squamata",
+        "Family": "Elapidae",
+        "Genus": "Oxyuranus",
+        "Species": "microlepidotus"
+      },
+      "Habitat": {
+        "Environment": "Semi-arid deserts, floodplains, grasslands",
+        "Distribution": "Central Australia (Queensland and South Australia)",
+        "Countries": [
+          "Australia"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "1.8–2.5 meters",
+        "Weight": "1.5–2.5 kg (estimated)",
+        "Color": "Olive or brown (color changes seasonally to match surroundings)",
+        "Lifespan": "10–15 years (estimated in the wild, longer in captivity)",
+        "SpecialTraits": [
+          "Most toxic venom of any snake (neurotoxic and hemotoxic)",
+          "Long fangs",
+          "Fast-striking"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Rodents (e.g., Long-haired Rat - Rattus villosissimus)",
+          "Small mammals",
+          "Birds"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal (more active during cooler parts of the day), can be crepuscular",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "Low (typical for reptiles, instinct-driven)",
+        "Communication": "Hissing (when threatened), tongue-flicking for sensing prey"
+      },
+      "Reproduction": {
+        "MaturityAge": "2–3 years",
+        "GestationPeriod": "Egg-laying (incubation period of 60-70 days, estimated)",
+        "OffspringPerBirth": "10-20 eggs (clutch size)",
+        "ReproductionCycle": "Annually (usually between September and December)"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Stable",
+        "Threats": [
+          "Habitat degradation (agriculture, development)",
+          "Road mortality",
+          "Predation by feral cats"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Extreme (extremely venomous, but shy and rarely encountered)",
+        "PetFriendly": false,
+        "LegalStatus": "Protected (requires permits for keeping in captivity)",
+        "Notes": "Single bite can kill 100 men if untreated; very few recorded human fatalities due to its reclusive nature."
+      },
+      "FunFacts": [
+        "World's most venomous snake by LD50 (lethal dose 50%)",
+        "Can deliver up to 110 mg of venom in one bite."
+      ]
+    },
+    "dateTime": "2025-07-11T09:46:18.546353",
+    "actionType": "explore"
+  },
+  {
+    "id": "b5898658-b14b-496c-8fb2-76500fdc8574",
+    "imageData": "",
+    "animalInfo": {
+      "id": "c81c28e6-d52d-4018-9f50-a03b39868c7a",
+      "CommonName": "Hippopotamus",
+      "ScientificName": "Hippopotamus amphibius",
+      "OtherNames": [
+        "Hippo",
+        "Common Hippopotamus"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Hippopotamidae",
+        "Genus": "Hippopotamus",
+        "Species": "amphibius"
+      },
+      "Habitat": {
+        "Environment": "Rivers, lakes, swamps (freshwater bodies with grasslands nearby)",
+        "Distribution": "Sub-Saharan Africa",
+        "Countries": [
+          "Kenya",
+          "Uganda",
+          "Tanzania",
+          "Zambia",
+          "South Africa"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "1.3-1.5 meters tall, 3.3-5 meters long",
+        "Weight": "1,500–3,200 kg (males), 1,300-1,500 kg (females)",
+        "Color": "Gray-brown (skin produces a reddish 'sweat' that acts as sunscreen and antibiotic)",
+        "Lifespan": "40–50 years (in the wild)",
+        "SpecialTraits": [
+          "Powerful jaws with large canine teeth (tusks)",
+          "Aggressive and highly territorial",
+          "Semi-aquatic, can hold breath for up to 5 minutes (estimated)"
+        ]
+      },
+      "Diet": {
+        "Type": "Herbivore",
+        "Foods": [
+          "Grass (primarily, graze at night)",
+          "Aquatic plants (opportunistically)"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Nocturnal (foraging), spend days submerged in water",
+        "SocialType": "Groups (herds, called 'schools' or 'bloats')",
+        "IntelligenceLevel": "Moderate (show social learning and complex interactions)",
+        "Communication": "Grunts, bellows, roars, honks (often very loud, both above and below water)"
+      },
+      "Reproduction": {
+        "MaturityAge": "3-4 years (females), 7-15 years (males)",
+        "GestationPeriod": "8 months",
+        "OffspringPerBirth": "1 calf (rarely twins)",
+        "ReproductionCycle": "Every 2 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Vulnerable",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Habitat loss and degradation (water scarcity, human encroachment)",
+          "Poaching (for ivory tusks and meat)",
+          "Human-wildlife conflict"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Extreme (highly aggressive, especially if their path to water is blocked)",
+        "PetFriendly": false,
+        "LegalStatus": "Protected (hunting regulated in some areas)",
+        "Notes": "Responsible for hundreds of deaths annually in Africa, particularly to fishermen and river users."
+      },
+      "FunFacts": [
+        "Can run faster than humans on land (up to 30 km/h).",
+        "Their skin secretes a natural sunscreen."
+      ]
+    },
+    "dateTime": "2025-07-11T09:46:18.546941",
+    "actionType": "explore"
+  },
+  {
+    "id": "3239e06b-b9e4-41f6-a7b1-a8cb7fe22051",
+    "imageData": "",
+    "animalInfo": {
+      "id": "a3591e79-8204-4a13-acda-cd32058d3f2e",
+      "CommonName": "Poison Dart Frog",
+      "ScientificName": "Dendrobatidae spp.",
+      "OtherNames": [
+        "Dart Frog",
+        "Poison Frog"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Amphibia",
+        "Order": "Anura",
+        "Family": "Dendrobatidae",
+        "Genus": "Various (e.g., Phyllobates, Dendrobates)",
+        "Species": "Various"
+      },
+      "Habitat": {
+        "Environment": "Rainforests (tropical, humid environments)",
+        "Distribution": "Central and South America",
+        "Countries": [
+          "Colombia",
+          "Brazil",
+          "Peru",
+          "Ecuador",
+          "Guyana"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "1.5–6 cm (species dependent)",
+        "Weight": "1–5 grams (estimated)",
+        "Color": "Bright blue, yellow, green, red, black (aposematic coloration)",
+        "Lifespan": "5–10 years (in the wild, up to 15-20 in captivity)",
+        "SpecialTraits": [
+          "Secretes lethal toxins (alkaloids) from skin (toxicity derived from diet)",
+          "Bright, warning coloration",
+          "Parental care (some species)"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Ants",
+          "Termites",
+          "Mites",
+          "Small beetles",
+          "Spiders"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal (active during the day)",
+        "SocialType": "Solitary or small groups (species dependent), some exhibit complex parental care",
+        "IntelligenceLevel": "Low (instinct-driven)",
+        "Communication": "Calls (for mating and territorial defense), visual displays (coloration)"
+      },
+      "Reproduction": {
+        "MaturityAge": "1 year (estimated for most species)",
+        "GestationPeriod": "N/A (egg-laying; eggs hatch in 10-14 days, estimated)",
+        "OffspringPerBirth": "2-30 eggs (clutch size varies greatly by species)",
+        "ReproductionCycle": "Several times a year"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Various (some Least Concern, many Vulnerable to Critically Endangered)",
+        "PopulationTrend": "Various (many decreasing)",
+        "Threats": [
+          "Habitat destruction (deforestation)",
+          "Pollution (pesticides, water quality)",
+          "Pet trade (illegal collection)",
+          "Chytrid fungus (disease)"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "High (contact with some species' toxins can be lethal)",
+        "PetFriendly": false,
+        "LegalStatus": "Restricted (CITES Appendix II for some species, illegal to collect without permits)",
+        "Notes": "Some species used by indigenous tribes to poison blow darts; captive-bred frogs are typically non-toxic due to diet."
+      },
+      "FunFacts": [
+        "Bright colors warn predators of toxicity.",
+        "Their toxicity depends on their diet in the wild."
+      ]
+    },
+    "dateTime": "2025-07-11T09:46:18.547079",
+    "actionType": "explore"
+  },
+  {
+    "id": "4c93d884-1066-4180-af7b-1f97e9ec6015",
+    "imageData": "",
+    "animalInfo": {
+      "id": "844fad5f-263f-4677-8820-2313a6a038ae",
+      "CommonName": "Cone Snail",
+      "ScientificName": "Conus spp.",
+      "OtherNames": [
+        "Cone Shell",
+        "Killer Cone"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Mollusca",
+        "Class": "Gastropoda",
+        "Order": "Neogastropoda",
+        "Family": "Conidae",
+        "Genus": "Conus",
+        "Species": "Various (over 900 species)"
+      },
+      "Habitat": {
+        "Environment": "Tropical marine (coral reefs, rocky shores, sandy bottoms)",
+        "Distribution": "Indo-Pacific region (most diverse), also Atlantic",
+        "Countries": [
+          "Philippines",
+          "Indonesia",
+          "Australia",
+          "Caribbean",
+          "Indian Ocean islands"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "1–23 cm (shell length, depending on species)",
+        "Weight": "10–200 g (estimated)",
+        "Color": "Patterned shells (diverse patterns and colors)",
+        "Lifespan": "10–20 years (estimated)",
+        "SpecialTraits": [
+          "Venomous harpoon-like tooth (radular tooth) that injects neurotoxins",
+          "Beautifully patterned shells",
+          "Prehensile siphon for sensing prey"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Fish",
+          "Worms (polychaetes)",
+          "Other mollusks (snails)"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Nocturnal (most species, some are crepuscular)",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "Low (instinct-driven)",
+        "Communication": "Chemical cues (for hunting and mating)"
+      },
+      "Reproduction": {
+        "MaturityAge": "1-3 years (estimated for many species)",
+        "GestationPeriod": "Egg-laying (eggs laid in capsules, development inside capsule)",
+        "OffspringPerBirth": "Hundreds of eggs (per egg capsule, multiple capsules per female)",
+        "ReproductionCycle": "Seasonal (typically once a year during warmer months)"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Not Evaluated (many species), some are Least Concern or Data Deficient",
+        "PopulationTrend": "Unknown (estimated stable for most, some localized declines)",
+        "Threats": [
+          "Shell collection (over-collection)",
+          "Habitat degradation (coral reef destruction)",
+          "Pollution"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "High (some species can deliver a fatal sting to humans)",
+        "PetFriendly": false,
+        "LegalStatus": "Not protected (some regional regulations)",
+        "Notes": "Venom can cause paralysis, respiratory failure, and death; no known antidote, only symptomatic treatment."
+      },
+      "FunFacts": [
+        "One sting from certain species (e.g., geographic cone) can be fatal.",
+        "Their venom has potential uses in medicine (painkillers)."
+      ]
+    },
+    "dateTime": "2025-07-11T09:46:18.547147",
+    "actionType": "explore"
+  },
+  {
+    "id": "c5eb4583-8f1d-44fc-846a-ad9658661e01",
+    "imageData": "",
+    "animalInfo": {
+      "id": "c950966f-1b91-4ef3-a60c-e94ade2d7d2b",
+      "CommonName": "Komodo Dragon",
+      "ScientificName": "Varanus komodoensis",
+      "OtherNames": [
+        "Komodo Monitor",
+        "Ora (local name)"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Reptilia",
+        "Order": "Squamata",
+        "Family": "Varanidae",
+        "Genus": "Varanus",
+        "Species": "komodoensis"
+      },
+      "Habitat": {
+        "Environment": "Dry forests, savannas, grasslands, beaches",
+        "Distribution": "Komodo Islands, Indonesia (Komodo, Rinca, Flores, Gili Motang, Padar)",
+        "Countries": [
+          "Indonesia"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Up to 3 meters (males), 2 meters (females)",
+        "Weight": "Up to 90 kg (average for males, can exceed 100 kg), 70-80 kg (females)",
+        "Color": "Brownish-gray (rough, scaly skin)",
+        "Lifespan": "30 years (in the wild, up to 50 in captivity)",
+        "SpecialTraits": [
+          "Venomous saliva (anticoagulant and hypotensive venom)",
+          "Large claws and powerful tails for hunting and defense",
+          "Excellent sense of smell (using Jacobson's organ)"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Deer",
+          "Pigs",
+          "Water buffalo",
+          "Monkeys",
+          "Goats",
+          "Carrion (large preference for carrion)",
+          "Young Komodo dragons (cannibalistic)"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal (most active during the day, especially morning and late afternoon)",
+        "SocialType": "Solitary (territorial, but may congregate at kill sites)",
+        "IntelligenceLevel": "Moderate (demonstrate some problem-solving, can recognize caretakers in captivity)",
+        "Communication": "Hissing, tongue-flicking, body postures, chemical cues"
+      },
+      "Reproduction": {
+        "MaturityAge": "8–10 years (males), 9-11 years (females)",
+        "GestationPeriod": "8–9 months (incubation period for eggs is typically 7-8 months)",
+        "OffspringPerBirth": "Up to 20-30 eggs",
+        "ReproductionCycle": "Annually (usually lays eggs between May and August)"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Endangered",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Habitat loss (due to human encroachment and climate change)",
+          "Tourism (disrupts natural behavior)",
+          "Poaching of prey animals",
+          "Illegal trade (limited)"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "High (capable of killing humans with powerful bite, venom, and bacterial infections)",
+        "PetFriendly": false,
+        "LegalStatus": "Protected (under Indonesian law and CITES Appendix I)",
+        "Notes": "Capable of killing humans with powerful bite and venom; attacks are rare but can be fatal."
+      },
+      "FunFacts": [
+        "Largest living lizard",
+        "Can practice parthenogenesis (virgin birth) in captivity."
+      ]
+    },
+    "dateTime": "2025-07-11T09:46:18.547189",
+    "actionType": "explore"
+  }
+]

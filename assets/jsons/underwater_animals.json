@@ -1,0 +1,1579 @@
+[
+  {
+    "id": "655b2ec0-fa63-40a1-98a9-e25fe5668c76",
+    "imageData": "",
+    "animalInfo": {
+      "id": "1d0398f6-422f-4107-b283-cb7a21c0b17d",
+      "CommonName": "Blue Whale",
+      "ScientificName": "Balaenoptera musculus",
+      "OtherNames": [
+        "Sulphur-bottom whale"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Balaenopteridae",
+        "Genus": "Balaenoptera",
+        "Species": "musculus"
+      },
+      "Habitat": {
+        "Environment": "Open oceans",
+        "Distribution": "Worldwide",
+        "Countries": [
+          "USA",
+          "Australia",
+          "Canada",
+          "Norway",
+          "Chile"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "24\u201330 meters",
+        "Weight": "100,000\u2013150,000 kg",
+        "Color": "Blue-gray",
+        "Lifespan": "70\u201390 years",
+        "SpecialTraits": [
+          "Largest animal ever known"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Krill"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Solitary or pairs",
+        "IntelligenceLevel": "High",
+        "Communication": "Low-frequency calls"
+      },
+      "Reproduction": {
+        "MaturityAge": "10 years",
+        "GestationPeriod": "11\u201312 months",
+        "OffspringPerBirth": "1",
+        "ReproductionCycle": "2\u20133 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Endangered",
+        "PopulationTrend": "Increasing",
+        "Threats": [
+          "Ship strikes",
+          "Noise pollution",
+          "Climate change"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Protected",
+        "Notes": "Once hunted to near extinction"
+      },
+      "FunFacts": [
+        "Its heart is the size of a small car"
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "454705f2-52fb-4d6b-939e-9212f32b349f",
+    "imageData": "",
+    "animalInfo": {
+      "id": "7e56a501-520d-41ba-b126-7df623f596a6",
+      "CommonName": "Great White Shark",
+      "ScientificName": "Carcharodon carcharias",
+      "OtherNames": [
+        "White Pointer",
+        "White Shark"
+      ],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Chondrichthyes",
+        "Order": "Lamniformes",
+        "Family": "Lamnidae",
+        "Genus": "Carcharodon",
+        "Species": "carcharias"
+      },
+      "Habitat": {
+        "Environment": "Coastal and offshore waters",
+        "Distribution": "Worldwide (temperate zones)",
+        "Countries": [
+          "USA",
+          "Australia",
+          "South Africa"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "4\u20136 meters",
+        "Weight": "1,000\u20132,200 kg",
+        "Color": "White belly, gray top",
+        "Lifespan": "70 years",
+        "SpecialTraits": [
+          "Powerful jaws",
+          "Rows of sharp teeth"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Seals",
+          "Fish",
+          "Turtles"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Diurnal",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "Moderate",
+        "Communication": "Body language"
+      },
+      "Reproduction": {
+        "MaturityAge": "15 years",
+        "GestationPeriod": "11 months",
+        "OffspringPerBirth": "2\u201314",
+        "ReproductionCycle": "2\u20133 years"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Vulnerable",
+        "PopulationTrend": "Decreasing",
+        "Threats": [
+          "Overfishing",
+          "Bycatch",
+          "Fin trade"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "High",
+        "PetFriendly": false,
+        "LegalStatus": "Protected in many regions",
+        "Notes": "Misunderstood and often feared"
+      },
+      "FunFacts": [
+        "Can detect blood from miles away"
+      ]
+    },
+    "dateTime": "2025-07-11T09:48:46.016174",
+    "actionType": "explore"
+  },
+  {
+    "id": "72ba2c6e-497b-4b53-8cc7-30c657d9fff9",
+    "imageData": "",
+    "animalInfo": {
+      "id": "2f61bdda-9422-4f6a-aa13-82414dc27db7",
+      "CommonName": "Giant Squid",
+      "ScientificName": "Architeuthis dux",
+      "OtherNames": [],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Mollusca",
+        "Class": "Cephalopoda",
+        "Order": "Oegopsida (Estimated)",
+        "Family": "Architeuthidae (Estimated)",
+        "Genus": "Architeuthis",
+        "Species": "dux"
+      },
+      "Habitat": {
+        "Environment": "Ocean",
+        "Distribution": "Worldwide",
+        "Countries": [
+          "USA",
+          "Canada",
+          "Norway",
+          "United Kingdom",
+          "Spain",
+          "Portugal",
+          "South Africa",
+          "Japan",
+          "Australia",
+          "New Zealand",
+          "Chile",
+          "Antarctica (Estimated)"
+        ]
+      },
+      "PhysicalTraits": {
+        "Size": "Up to 13 meters (Estimated)",
+        "Weight": "Up to 500 kg (Estimated)",
+        "Color": "Reddish-brown (Estimated)",
+        "Lifespan": "Up to 5 years",
+        "SpecialTraits": [
+          "Two long tentacles with suckers",
+          "Large eyes"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore",
+        "Foods": [
+          "Deep water fish",
+          "Other squids (including other giant squids)"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Nocturnal (Estimated)",
+        "SocialType": "Solitary (Estimated)",
+        "IntelligenceLevel": "Moderate (Estimated)",
+        "Communication": "Chemical signals (Estimated)"
+      },
+      "Reproduction": {
+        "MaturityAge": "3 years (Estimated)",
+        "GestationPeriod": "6-9 months (Estimated)",
+        "OffspringPerBirth": "Hundreds to thousands of eggs",
+        "ReproductionCycle": "Annual (Estimated)"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Data Deficient",
+        "PopulationTrend": "Unknown",
+        "Threats": [
+          "Deep-sea fishing bycatch (Estimated)"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Not typically harvested or regulated (Estimated)",
+        "Notes": ""
+      },
+      "FunFacts": []
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+  {
+    "id": "65aad08d-7e0b-4e94-8ad0-a3f653a43efa",
+    "imageData": "",
+    "animalInfo": {
+      "id": "70a5f3da-2acb-4e9b-9b7f-b8b56ab58239",
+      "CommonName": "Dumbo Octopus",
+      "ScientificName": "Grimpoteuthis",
+      "OtherNames": [],
+      "Classification": {
+        "Kingdom": "Animalia",
+        "Phylum": "Mollusca",
+        "Class": "Cephalopoda",
+        "Order": "Octopoda",
+        "Family": "Grimpoteuthidae",
+        "Genus": "Grimpoteuthis",
+        "Species": "Various species (Estimated)"
+      },
+      "Habitat": {
+        "Environment": "Ocean",
+        "Distribution": "Worldwide",
+        "Countries": []
+      },
+      "PhysicalTraits": {
+        "Size": "20-30 cm (7.9-12 inches)",
+        "Weight": "Up to 6 kg (Estimated)",
+        "Color": "Varied",
+        "Lifespan": "3-5 years",
+        "SpecialTraits": [
+          "Ear-like fins",
+          "Webbing between arms",
+          "No ink sac"
+        ]
+      },
+      "Diet": {
+        "Type": "Carnivore (Estimated)",
+        "Foods": [
+          "Copepods",
+          "Isopods",
+          "Bristle worms",
+          "Amphipods",
+          "Snails"
+        ]
+      },
+      "Behavior": {
+        "ActivityTime": "Active throughout the day (Estimated)",
+        "SocialType": "Solitary",
+        "IntelligenceLevel": "Moderate (Estimated)",
+        "Communication": "Chemical signals (Estimated)"
+      },
+      "Reproduction": {
+        "MaturityAge": "1-2 years",
+        "GestationPeriod": "Unknown",
+        "OffspringPerBirth": "Continuous laying of eggs",
+        "ReproductionCycle": "Continuous (Estimated)"
+      },
+      "ConservationStatus": {
+        "IUCNStatus": "Least Concern",
+        "PopulationTrend": "Unknown",
+        "Threats": [
+          "Habitat disturbance (Estimated)",
+          "Climate change (Estimated)"
+        ]
+      },
+      "HumanInteraction": {
+        "DangerLevel": "Low",
+        "PetFriendly": false,
+        "LegalStatus": "Not regulated (Estimated)",
+        "Notes": ""
+      },
+      "FunFacts": []
+    },
+    "dateTime": "2025-07-11T09:48:46.015977",
+    "actionType": "explore"
+  },
+    {
+      "id": "d7e24b50-2beb-4c2d-85fc-c49ed6190050",
+      "imageData": "",
+      "animalInfo": {
+        "id": "c2fe8aac-0c53-4fa0-a37e-39b08a707b38",
+        "CommonName": "Orca",
+        "ScientificName": "Orcinus orca",
+        "OtherNames": [],
+        "Classification": {
+          "Kingdom": "Animalia",
+          "Phylum": "Chordata",
+          "Class": "Mammalia",
+          "Order": "Artiodactyla",
+          "Family": "Delphinidae",
+          "Genus": "Orcinus",
+          "Species": "orca"
+        },
+        "Habitat": {
+          "Environment": "Ocean",
+          "Distribution": "Worldwide",
+          "Countries": [
+            "Worldwide, especially polar and temperate waters"
+          ]
+        },
+        "PhysicalTraits": {
+          "Size": "5.5-9.8 meters (18-32 feet)",
+          "Weight": "3,000-6,000 kg (6,600-13,200 lbs)",
+          "Color": "Black and white",
+          "Lifespan": "Estimated 50-80 years (females often live longer)",
+          "SpecialTraits": [
+            "Apex predator",
+            "Highly intelligent",
+            "Complex social structures"
+          ]
+        },
+        "Diet": {
+          "Type": "Carnivore",
+          "Foods": [
+            "Fish",
+            "Seals",
+            "Sea lions",
+            "Other marine mammals"
+          ]
+        },
+        "Behavior": {
+          "ActivityTime": "Day and night (diurnal and nocturnal)",
+          "SocialType": "Pod (highly social)",
+          "IntelligenceLevel": "High",
+          "Communication": "Echolocation, vocalizations (clicks, whistles, pulsed calls)"
+        },
+        "Reproduction": {
+          "MaturityAge": "Estimated 6-10 years (females), 10-17 years (males)",
+          "GestationPeriod": "Estimated 15-18 months",
+          "OffspringPerBirth": "Typically 1 calf",
+          "ReproductionCycle": "Estimated 3-10 years between births"
+        },
+        "ConservationStatus": {
+          "IUCNStatus": "Data Deficient (some populations endangered)",
+          "PopulationTrend": "Decreasing in some areas",
+          "Threats": [
+            "Pollution",
+            "Prey depletion",
+            "Habitat degradation",
+            "Noise disturbance"
+          ]
+        },
+        "HumanInteraction": {
+          "DangerLevel": "Low (no documented wild attacks on humans)",
+          "PetFriendly": false,
+          "LegalStatus": "Protected under various international laws",
+          "Notes": ""
+        },
+        "FunFacts": [
+          "Known as 'wolves of the sea'",
+          "Each pod has a unique dialect"
+        ]
+      },
+      "dateTime": "2025-07-11T09:48:46.015977",
+      "actionType": "explore"
+    },
+    {
+      "id": "6a87e862-1ced-4900-85de-adcfe107d92b",
+      "imageData": "",
+      "animalInfo": {
+        "id": "46337d07-f03c-44b0-b3fa-7c6578a91910",
+        "CommonName": "Clownfish",
+        "ScientificName": "Amphiprioninae",
+        "OtherNames": [
+          "Anemonefish"
+        ],
+        "Classification": {
+          "Kingdom": "Animalia",
+          "Phylum": "Chordata",
+          "Class": "Actinopterygii",
+          "Order": "Perciformes",
+          "Family": "Pomacentridae",
+          "Genus": "Amphiprion, Premnas",
+          "Species": "Approx. 30 species"
+        },
+        "Habitat": {
+          "Environment": "Ocean (coral reefs)",
+          "Distribution": "Indo-Pacific oceans",
+          "Countries": [
+            "Many countries in Indo-Pacific region"
+          ]
+        },
+        "PhysicalTraits": {
+          "Size": "Estimated 7-18 cm (2.8-7.1 inches)",
+          "Weight": "Estimated 50-250 grams (0.11-0.55 lbs)",
+          "Color": "Orange, red, yellow, black, or multi-colored with white bars/patches",
+          "Lifespan": "Estimated 6-10 years in wild, up to 18 years in captivity",
+          "SpecialTraits": [
+            "Symbiotic relationship with sea anemones",
+            "Sequential hermaphrodites (all born male)"
+          ]
+        },
+        "Diet": {
+          "Type": "Omnivore",
+          "Foods": [
+            "Algae",
+            "Zooplankton",
+            "Small crustaceans",
+            "Parasites from anemones"
+          ]
+        },
+        "Behavior": {
+          "ActivityTime": "Diurnal",
+          "SocialType": "Groups (live in anemones)",
+          "IntelligenceLevel": "Medium",
+          "Communication": "Clicking sounds, visual displays"
+        },
+        "Reproduction": {
+          "MaturityAge": "Estimated 1-2 years",
+          "GestationPeriod": "N/A (egg-laying)",
+          "OffspringPerBirth": "Estimated hundreds to thousands of eggs per clutch",
+          "ReproductionCycle": "Can lay eggs every 10-14 days"
+        },
+        "ConservationStatus": {
+          "IUCNStatus": "Least Concern (most species)",
+          "PopulationTrend": "Stable (some local declines due to habitat loss and over-collection)",
+          "Threats": [
+            "Habitat degradation (coral bleaching)",
+            "Over-collection for aquarium trade"
+          ]
+        },
+        "HumanInteraction": {
+          "DangerLevel": "Low (harmless to humans)",
+          "PetFriendly": true,
+          "LegalStatus": "Regulated collection in some areas",
+          "Notes": ""
+        },
+        "FunFacts": [
+          "Immune to anemone stings",
+          "The largest and most dominant clownfish in an anemone is female"
+        ]
+      },
+      "dateTime": "2025-07-11T09:48:46.015977",
+      "actionType": "explore"
+    },
+    {
+      "id": "86a11753-89b2-432b-8412-88c571415951",
+      "imageData": "",
+      "animalInfo": {
+        "id": "2043bf1e-9329-4f13-b0a4-88defa86600e",
+        "CommonName": "Manta Ray",
+        "ScientificName": "Mobula birostris (Giant oceanic manta ray), Mobula alfredi (Reef manta ray)",
+        "OtherNames": [],
+        "Classification": {
+          "Kingdom": "Animalia",
+          "Phylum": "Chordata",
+          "Class": "Chondrichthyes",
+          "Order": "Myliobatiformes",
+          "Family": "Myliobatidae",
+          "Genus": "Mobula",
+          "Species": "birostris, alfredi"
+        },
+        "Habitat": {
+          "Environment": "Ocean (tropical and subtropical waters)",
+          "Distribution": "Worldwide in tropical, subtropical, and temperate waters",
+          "Countries": [
+            "Coastal and oceanic regions globally"
+          ]
+        },
+        "PhysicalTraits": {
+          "Size": "Estimated 3-7 meters (10-23 feet) wing span (Giant), 3-5 meters (10-16 feet) wing span (Reef)",
+          "Weight": "Estimated up to 1,350 kg (3,000 lbs) (Giant), up to 700 kg (1,500 lbs) (Reef)",
+          "Color": "Black, white, and gray patterns on dorsal and ventral sides",
+          "Lifespan": "Estimated 20-40 years",
+          "SpecialTraits": [
+            "Filter feeders",
+            "Largest rays in the world",
+            "Can leap out of water"
+          ]
+        },
+        "Diet": {
+          "Type": "Filter Feeder (Carnivore)",
+          "Foods": [
+            "Zooplankton (copepods, shrimp, larval fish)"
+          ]
+        },
+        "Behavior": {
+          "ActivityTime": "Diurnal",
+          "SocialType": "Solitary or in groups for feeding/mating",
+          "IntelligenceLevel": "High (largest brain-to-body ratio among fish)",
+          "Communication": "Body movements, visual cues"
+        },
+        "Reproduction": {
+          "MaturityAge": "Estimated 8-10 years",
+          "GestationPeriod": "Estimated 12-13 months",
+          "OffspringPerBirth": "Typically 1 pup",
+          "ReproductionCycle": "Estimated 2-5 years between births"
+        },
+        "ConservationStatus": {
+          "IUCNStatus": "Endangered (Giant), Vulnerable (Reef)",
+          "PopulationTrend": "Decreasing",
+          "Threats": [
+            "Targeted fisheries (for gill plates)",
+            "Bycatch",
+            "Habitat degradation",
+            "Climate change"
+          ]
+        },
+        "HumanInteraction": {
+          "DangerLevel": "Low (harmless, graceful swimmers)",
+          "PetFriendly": false,
+          "LegalStatus": "Protected in many countries",
+          "Notes": ""
+        },
+        "FunFacts": [
+          "Have unique spot patterns on their belly like fingerprints",
+          "Can have symbiotic relationships with cleaner fish"
+        ]
+      },
+      "dateTime": "2025-07-11T09:48:46.015977",
+      "actionType": "explore"
+    },
+    {
+      "id": "6a87e862-1ced-4900-85de-adcfe107d92b",
+      "imageData": "",
+      "animalInfo": {
+        "id": "46337d07-f03c-44b0-b3fa-7c6578a91910",
+        "CommonName": "Sea Otter",
+        "ScientificName": "Enhydra lutris",
+        "OtherNames": [],
+        "Classification": {
+          "Kingdom": "Animalia",
+          "Phylum": "Chordata",
+          "Class": "Mammalia",
+          "Order": "Carnivora",
+          "Family": "Mustelidae",
+          "Genus": "Enhydra",
+          "Species": "lutris"
+        },
+        "Habitat": {
+          "Environment": "Coastal Ocean",
+          "Distribution": "North Pacific Ocean",
+          "Countries": [
+            "USA (Alaska, California), Canada, Russia, Japan"
+          ]
+        },
+        "PhysicalTraits": {
+          "Size": "Estimated 1.2-1.5 meters (4-5 feet) including tail",
+          "Weight": "Estimated 14-45 kg (30-100 lbs)",
+          "Color": "Dark brown to reddish-brown",
+          "Lifespan": "Estimated 15-20 years",
+          "SpecialTraits": [
+            "Densest fur of any animal",
+            "Use tools to crack open shellfish"
+          ]
+        },
+        "Diet": {
+          "Type": "Carnivore",
+          "Foods": [
+            "Sea urchins",
+            "Clams",
+            "Mussels",
+            "Crabs",
+            "Fish"
+          ]
+        },
+        "Behavior": {
+          "ActivityTime": "Diurnal",
+          "SocialType": "Solitary or in rafts (groups)",
+          "IntelligenceLevel": "High",
+          "Communication": "Chirps, whistles, growls"
+        },
+        "Reproduction": {
+          "MaturityAge": "Estimated 2-5 years",
+          "GestationPeriod": "Estimated 4-9 months (with delayed implantation)",
+          "OffspringPerBirth": "Typically 1 pup",
+          "ReproductionCycle": "Estimated yearly or every 2 years"
+        },
+        "ConservationStatus": {
+          "IUCNStatus": "Endangered",
+          "PopulationTrend": "Increasing in some areas, but overall vulnerable",
+          "Threats": [
+            "Oil spills",
+            "Predation (sharks, eagles)",
+            "Habitat degradation",
+            "Entanglement in fishing gear"
+          ]
+        },
+        "HumanInteraction": {
+          "DangerLevel": "Low (generally shy, but can bite if threatened)",
+          "PetFriendly": false,
+          "LegalStatus": "Protected under the Marine Mammal Protection Act",
+          "Notes": ""
+        },
+        "FunFacts": [
+          "Hold hands while sleeping to avoid floating away",
+          "Key stone species that maintain kelp forest ecosystems"
+        ]
+      },
+      "dateTime": "2025-07-11T09:48:46.015977",
+      "actionType": "explore"
+    },
+    {
+      "id": "28e2c517-0059-4b7f-ab5c-fd965317665d",
+      "imageData": "",
+      "animalInfo": {
+        "id": "6a87e862-1ced-4900-85de-adcfe107d92b",
+        "CommonName": "Narwhal",
+        "ScientificName": "Monodon monoceros",
+        "OtherNames": [
+          "Unicorn of the Sea"
+        ],
+        "Classification": {
+          "Kingdom": "Animalia",
+          "Phylum": "Chordata",
+          "Class": "Mammalia",
+          "Order": "Artiodactyla",
+          "Family": "Monodontidae",
+          "Genus": "Monodon",
+          "Species": "monoceros"
+        },
+        "Habitat": {
+          "Environment": "Arctic Ocean",
+          "Distribution": "Arctic waters around Greenland, Canada, and Russia",
+          "Countries": [
+            "Greenland",
+            "Canada",
+            "Norway",
+            "Russia"
+          ]
+        },
+        "PhysicalTraits": {
+          "Size": "Estimated 3.9-5.5 meters (13-18 feet) excluding tusk",
+          "Weight": "Estimated 800-1,600 kg (1,760-3,500 lbs)",
+          "Color": "Mottled grey with white undersides",
+          "Lifespan": "Estimated 50 years (potentially up to 115 years)",
+          "SpecialTraits": [
+            "Long, spiraled tusk (an elongated canine tooth) up to 3 meters (10 feet)",
+            "Can dive to extreme depths"
+          ]
+        },
+        "Diet": {
+          "Type": "Carnivore",
+          "Foods": [
+            "Greenland halibut",
+            "Cod",
+            "Shrimp",
+            "Squid"
+          ]
+        },
+        "Behavior": {
+          "ActivityTime": "Diurnal and Nocturnal (depends on season and prey)",
+          "SocialType": "Groups (pods)",
+          "IntelligenceLevel": "High",
+          "Communication": "Clicks, whistles, pulsed calls (echolocation)"
+        },
+        "Reproduction": {
+          "MaturityAge": "Estimated 6-8 years (females), 8-10 years (males)",
+          "GestationPeriod": "Estimated 14-16 months",
+          "OffspringPerBirth": "Typically 1 calf",
+          "ReproductionCycle": "Estimated 2-3 years between births"
+        },
+        "ConservationStatus": {
+          "IUCNStatus": "Least Concern (but vulnerable to climate change)",
+          "PopulationTrend": "Stable to decreasing in some areas",
+          "Threats": [
+            "Climate change (loss of sea ice)",
+            "Pollution",
+            "Increased shipping traffic",
+            "Noise disturbance"
+          ]
+        },
+        "HumanInteraction": {
+          "DangerLevel": "Low (shy, rarely interact with humans)",
+          "PetFriendly": false,
+          "LegalStatus": "Protected under various international agreements",
+          "Notes": ""
+        },
+        "FunFacts": [
+          "The tusk is a sensory organ with up to 10 million nerve endings",
+          "Can change color as they age"
+        ]
+      },
+      "dateTime": "2025-07-11T09:48:46.015977",
+      "actionType": "explore"
+    },
+    {
+      "id": "a88bd665-bee8-4ef4-aafe-4f65dc34a89f",
+      "imageData": "",
+      "animalInfo": {
+        "id": "28e2c517-0059-4b7f-ab5c-fd965317665d",
+        "CommonName": "Beluga Whale",
+        "ScientificName": "Delphinapterus leucas",
+        "OtherNames": [
+          "White Whale",
+          "Sea Canary"
+        ],
+        "Classification": {
+          "Kingdom": "Animalia",
+          "Phylum": "Chordata",
+          "Class": "Mammalia",
+          "Order": "Artiodactyla",
+          "Family": "Monodontidae",
+          "Genus": "Delphinapterus",
+          "Species": "leucas"
+        },
+        "Habitat": {
+          "Environment": "Arctic and Subarctic Ocean",
+          "Distribution": "Coastal waters of the Arctic and sub-Arctic",
+          "Countries": [
+            "Canada",
+            "USA (Alaska)",
+            "Russia",
+            "Greenland",
+            "Norway"
+          ]
+        },
+        "PhysicalTraits": {
+          "Size": "Estimated 3.5-5.5 meters (11-18 feet)",
+          "Weight": "Estimated 900-1,600 kg (1,980-3,500 lbs)",
+          "Color": "White (adults), grey (calves)",
+          "Lifespan": "Estimated 35-50 years (up to 70 years)",
+          "SpecialTraits": [
+            "Highly flexible neck",
+            "No dorsal fin",
+            "Can swim backward"
+          ]
+        },
+        "Diet": {
+          "Type": "Carnivore",
+          "Foods": [
+            "Fish (cod, salmon, capelin)",
+            "Squid",
+            "Octopus",
+            "Crabs"
+          ]
+        },
+        "Behavior": {
+          "ActivityTime": "Diurnal and Nocturnal (active day and night)",
+          "SocialType": "Groups (pods)",
+          "IntelligenceLevel": "High",
+          "Communication": "Complex vocalizations (whistles, clicks, chirps, bell-like sounds), echolocation"
+        },
+        "Reproduction": {
+          "MaturityAge": "Estimated 4-7 years (females), 7-9 years (males)",
+          "GestationPeriod": "Estimated 14-16 months",
+          "OffspringPerBirth": "Typically 1 calf",
+          "ReproductionCycle": "Estimated 2-3 years between births"
+        },
+        "ConservationStatus": {
+          "IUCNStatus": "Least Concern (some populations endangered/depleted)",
+          "PopulationTrend": "Stable (some populations decreasing)",
+          "Threats": [
+            "Climate change (loss of sea ice)",
+            "Pollution",
+            "Shipping noise",
+            "Hunting"
+          ]
+        },
+        "HumanInteraction": {
+          "DangerLevel": "Low (generally curious and gentle)",
+          "PetFriendly": false,
+          "LegalStatus": "Protected under various national and international laws",
+          "Notes": ""
+        },
+        "FunFacts": [
+          "Known as 'sea canaries' due to their varied vocalizations",
+          "Can change the shape of their forehead (melon)"
+        ]
+      },
+      "dateTime": "2025-07-11T09:48:46.015977",
+      "actionType": "explore"
+    },
+    {
+      "id": "86a11753-89b2-432b-8412-88c571415951",
+      "imageData": "",
+      "animalInfo": {
+        "id": "2043bf1e-9329-4f13-b0a4-88defa86600e",
+        "CommonName": "Leafy Sea Dragon",
+        "ScientificName": "Phycodurus eques",
+        "OtherNames": [],
+        "Classification": {
+          "Kingdom": "Animalia",
+          "Phylum": "Chordata",
+          "Class": "Actinopterygii",
+          "Order": "Syngnathiformes",
+          "Family": "Syngnathidae",
+          "Genus": "Phycodurus",
+          "Species": "eques"
+        },
+        "Habitat": {
+          "Environment": "Coastal Waters (temperate reefs)",
+          "Distribution": "Southern and Western Australia",
+          "Countries": [
+            "Australia"
+          ]
+        },
+        "PhysicalTraits": {
+          "Size": "Estimated 20-35 cm (8-14 inches)",
+          "Weight": "Estimated 50-100 grams (0.11-0.22 lbs)",
+          "Color": "Green to yellow-brown with leaf-like appendages for camouflage",
+          "Lifespan": "Estimated 5-10 years",
+          "SpecialTraits": [
+            "Master of camouflage (mimics seaweed)",
+            "Male carries the eggs"
+          ]
+        },
+        "Diet": {
+          "Type": "Carnivore",
+          "Foods": [
+            "Small crustaceans (mysid shrimp)",
+            "Plankton"
+          ]
+        },
+        "Behavior": {
+          "ActivityTime": "Diurnal",
+          "SocialType": "Solitary or in pairs",
+          "IntelligenceLevel": "Medium",
+          "Communication": "Visual cues (camouflage, posture)"
+        },
+        "Reproduction": {
+          "MaturityAge": "Estimated 1-2 years",
+          "GestationPeriod": "N/A (male carries eggs externally for estimated 4-8 weeks)",
+          "OffspringPerBirth": "Estimated 100-250 eggs",
+          "ReproductionCycle": "Estimated once per year"
+        },
+        "ConservationStatus": {
+          "IUCNStatus": "Near Threatened",
+          "PopulationTrend": "Decreasing",
+          "Threats": [
+            "Habitat loss and degradation",
+            "Pollution",
+            "Illegal collection for aquariums"
+          ]
+        },
+        "HumanInteraction": {
+          "DangerLevel": "Low (harmless to humans)",
+          "PetFriendly": false,
+          "LegalStatus": "Protected species in Australia",
+          "Notes": ""
+        },
+        "FunFacts": [
+          "Closely related to seahorses and pipefish",
+          "Their 'leaves' are not for propulsion but for camouflage"
+        ]
+      },
+      "dateTime": "2025-07-11T09:48:46.015977",
+      "actionType": "explore"
+    },
+    {
+      "id": "28e2c517-0059-4b7f-ab5c-fd965317665d",
+      "imageData": "",
+      "animalInfo": {
+        "id": "6a87e862-1ced-4900-85de-adcfe107d92b",
+        "CommonName": "Anglerfish",
+        "ScientificName": "Lophiiformes",
+        "OtherNames": [],
+        "Classification": {
+          "Kingdom": "Animalia",
+          "Phylum": "Chordata",
+          "Class": "Actinopterygii",
+          "Order": "Lophiiformes",
+          "Family": "Various (e.g., Lophiidae, Ceratiidae)",
+          "Genus": "Various",
+          "Species": "Approx. 300 species"
+        },
+        "Habitat": {
+          "Environment": "Deep Ocean (benthic and pelagic zones)",
+          "Distribution": "Worldwide, from shallow tropical to deep cold waters",
+          "Countries": [
+            "Found globally in appropriate habitats"
+          ]
+        },
+        "PhysicalTraits": {
+          "Size": "Estimated 2 cm to 1 meter (0.8 inches to 3.3 feet)",
+          "Weight": "Estimated few grams to several kilograms",
+          "Color": "Dark, often grey or dark brown",
+          "Lifespan": "Estimated 10-20 years (estimated)",
+          "SpecialTraits": [
+            "Bioluminescent lure (esca) on head to attract prey",
+            "Sexual parasitism in some deep-sea species"
+          ]
+        },
+        "Diet": {
+          "Type": "Carnivore",
+          "Foods": [
+            "Fish",
+            "Crustaceans",
+            "Squid"
+          ]
+        },
+        "Behavior": {
+          "ActivityTime": "Nocturnal (estimated) or active when attracting prey",
+          "SocialType": "Solitary",
+          "IntelligenceLevel": "Low to Medium (estimated)",
+          "Communication": "Bioluminescence (lure)"
+        },
+        "Reproduction": {
+          "MaturityAge": "Unknown (estimated several years)",
+          "GestationPeriod": "N/A (egg-laying)",
+          "OffspringPerBirth": "Estimated thousands to millions of eggs (egg rafts)",
+          "ReproductionCycle": "Unknown (estimated yearly)"
+        },
+        "ConservationStatus": {
+          "IUCNStatus": "Least Concern (most species, but specific data limited)",
+          "PopulationTrend": "Stable (estimated)",
+          "Threats": [
+            "Deep-sea fishing (bycatch)",
+            "Habitat disturbance (deep-sea mining - estimated future threat)"
+          ]
+        },
+        "HumanInteraction": {
+          "DangerLevel": "Low (not dangerous to humans, inhabit deep waters)",
+          "PetFriendly": false,
+          "LegalStatus": "Generally unregulated due to deep habitat",
+          "Notes": ""
+        },
+        "FunFacts": [
+          "Some males are parasitic and fuse to the female for reproduction",
+          "Their mouths are very large and filled with sharp teeth"
+        ]
+      },
+      "dateTime": "2025-07-11T09:48:46.015977",
+      "actionType": "explore"
+    },
+    {
+      "id": "a88bd665-bee8-4ef4-aafe-4f65dc34a89f",
+      "imageData": "",
+      "animalInfo": {
+        "id": "28e2c517-0059-4b7f-ab5c-fd965317665d",
+        "CommonName": "Emperor Penguin",
+        "ScientificName": "Aptenodytes forsteri",
+        "OtherNames": [],
+        "Classification": {
+          "Kingdom": "Animalia",
+          "Phylum": "Chordata",
+          "Class": "Aves",
+          "Order": "Sphenisciformes",
+          "Family": "Spheniscidae",
+          "Genus": "Aptenodytes",
+          "Species": "forsteri"
+        },
+        "Habitat": {
+          "Environment": "Antarctic (sea ice, open ocean)",
+          "Distribution": "Antarctica and surrounding Southern Ocean",
+          "Countries": [
+            "Antarctica"
+          ]
+        },
+        "PhysicalTraits": {
+          "Size": "Estimated 100-130 cm (39-51 inches) tall",
+          "Weight": "Estimated 22-45 kg (48-99 lbs)",
+          "Color": "Black and white with distinctive yellow-orange ear patches and upper chest",
+          "Lifespan": "Estimated 15-20 years in the wild (up to 50 years in captivity)",
+          "SpecialTraits": [
+            "Largest of all penguin species",
+            "Can dive deeper and stay underwater longer than any other bird"
+          ]
+        },
+        "Diet": {
+          "Type": "Carnivore",
+          "Foods": [
+            "Fish (Antarctic silverfish, notothenia)",
+            "Squid",
+            "Krill"
+          ]
+        },
+        "Behavior": {
+          "ActivityTime": "Diurnal (active during daylight hours)",
+          "SocialType": "Colonial (breed in large colonies)",
+          "IntelligenceLevel": "Medium",
+          "Communication": "Vocalizations (trumpeting, squawking), visual displays"
+        },
+        "Reproduction": {
+          "MaturityAge": "Estimated 4-6 years (females), 6-8 years (males)",
+          "GestationPeriod": "N/A (egg-laying, male incubates)",
+          "OffspringPerBirth": "1 egg per breeding season",
+          "ReproductionCycle": "Annual (male incubates egg for over 2 months in harsh winter conditions)"
+        },
+        "ConservationStatus": {
+          "IUCNStatus": "Near Threatened (vulnerable to climate change)",
+          "PopulationTrend": "Decreasing (predicted significant decline due to sea ice loss)",
+          "Threats": [
+            "Climate change (loss of sea ice for breeding)",
+            "Ocean acidification",
+            "Fisheries (competition for food)"
+          ]
+        },
+        "HumanInteraction": {
+          "DangerLevel": "Low (generally shy, no threat to humans)",
+          "PetFriendly": false,
+          "LegalStatus": "Protected under the Antarctic Treaty System",
+          "Notes": ""
+        },
+        "FunFacts": [
+          "Males incubate the single egg on their feet during the Antarctic winter",
+          "Can withstand temperatures as low as -60°C (-76°F)"
+        ]
+      },
+      "dateTime": "2025-07-11T09:48:46.015977",
+      "actionType": "explore"
+    },
+    {
+      "id": "86a11753-89b2-432b-8412-88c571415951",
+      "imageData": "",
+      "animalInfo": {
+        "id": "2043bf1e-9329-4f13-b0a4-88defa86600e",
+        "CommonName": "Humpback Whale",
+        "ScientificName": "Megaptera novaeangliae",
+        "OtherNames": [
+          "Humpback"
+        ],
+        "Classification": {
+          "Kingdom": "Animalia",
+          "Phylum": "Chordata",
+          "Class": "Mammalia",
+          "Order": "Artiodactyla",
+          "Family": "Balaenopteridae",
+          "Genus": "Megaptera",
+          "Species": "novaeangliae"
+        },
+        "Habitat": {
+          "Environment": "Ocean (coastal and open ocean)",
+          "Distribution": "Worldwide, migrating between high-latitude feeding grounds and low-latitude breeding grounds",
+          "Countries": [
+            "Found globally in appropriate feeding and breeding areas"
+          ]
+        },
+        "PhysicalTraits": {
+          "Size": "Estimated 12-16 meters (39-52 feet)",
+          "Weight": "Estimated 25,000-40,000 kg (55,000-88,000 lbs)",
+          "Color": "Black to dark gray with white undersides and distinctive white markings on flukes",
+          "Lifespan": "Estimated 40-80 years (possibly over 90 years)",
+          "SpecialTraits": [
+            "Long pectoral fins (up to 5 meters / 16 feet)",
+            "Unique 'bubble-net feeding' strategy",
+            "Complex songs (males)"
+          ]
+        },
+        "Diet": {
+          "Type": "Filter Feeder (Carnivore)",
+          "Foods": [
+            "Krill",
+            "Small fish (herring, mackerel, capelin)"
+          ]
+        },
+        "Behavior": {
+          "ActivityTime": "Diurnal and Nocturnal (active day and night)",
+          "SocialType": "Solitary, pairs, or temporary groups for feeding",
+          "IntelligenceLevel": "High",
+          "Communication": "Complex songs (males), vocalizations, tail slapping, breaching"
+        },
+        "Reproduction": {
+          "MaturityAge": "Estimated 4-10 years",
+          "GestationPeriod": "Estimated 11-12 months",
+          "OffspringPerBirth": "Typically 1 calf",
+          "ReproductionCycle": "Estimated 2-3 years between births"
+        },
+        "ConservationStatus": {
+          "IUCNStatus": "Least Concern (some populations still endangered)",
+          "PopulationTrend": "Increasing globally after whaling ban",
+          "Threats": [
+            "Entanglement in fishing gear",
+            "Ship strikes",
+            "Ocean noise pollution",
+            "Climate change (impact on prey)"
+          ]
+        },
+        "HumanInteraction": {
+          "DangerLevel": "Low (generally not dangerous, but large size requires caution)",
+          "PetFriendly": false,
+          "LegalStatus": "Protected under international agreements",
+          "Notes": ""
+        },
+        "FunFacts": [
+          "Known for their acrobatic breaches and flipper slapping",
+          "Each fluke has unique markings, like a fingerprint"
+        ]
+      },
+      "dateTime": "2025-07-11T09:48:46.015977",
+      "actionType": "explore"
+    },
+    {
+      "id": "28e2c517-0059-4b7f-ab5c-fd965317665d",
+      "imageData": "",
+      "animalInfo": {
+        "id": "6a87e862-1ced-4900-85de-adcfe107d92b",
+        "CommonName": "Goblin Shark",
+        "ScientificName": "Mitsukurina owstoni",
+        "OtherNames": [],
+        "Classification": {
+          "Kingdom": "Animalia",
+          "Phylum": "Chordata",
+          "Class": "Chondrichthyes",
+          "Order": "Lamniformes",
+          "Family": "Mitsukurinidae",
+          "Genus": "Mitsukurina",
+          "Species": "owstoni"
+        },
+        "Habitat": {
+          "Environment": "Deep Ocean (continental slopes and seamounts)",
+          "Distribution": "Worldwide in deep waters",
+          "Countries": [
+            "Found globally in appropriate deep-sea habitats"
+          ]
+        },
+        "PhysicalTraits": {
+          "Size": "Estimated 3-4 meters (10-13 feet), possibly up to 6 meters (20 feet)",
+          "Weight": "Estimated 150-200 kg (330-440 lbs)",
+          "Color": "Pinkish-gray skin due to visible blood vessels",
+          "Lifespan": "Unknown (estimated 30-60 years)",
+          "SpecialTraits": [
+            "Protruding jaws that can extend forward to catch prey",
+            "Long, flattened snout with electro-sensors"
+          ]
+        },
+        "Diet": {
+          "Type": "Carnivore",
+          "Foods": [
+            "Deep-sea fish",
+            "Squid",
+            "Crabs"
+          ]
+        },
+        "Behavior": {
+          "ActivityTime": "Unknown (likely active in deep, dark environments)",
+          "SocialType": "Solitary",
+          "IntelligenceLevel": "Moderate (Estimated)",
+          "Communication": "Electroreception, Chemical signals (Estimated)"
+        },
+        "Reproduction": {
+          "MaturityAge": "Unknown (Estimated late maturity, possibly >15 years)",
+          "GestationPeriod": "Unknown (likely ovoviviparous)",
+          "OffspringPerBirth": "Unknown (likely few, well-developed pups)",
+          "ReproductionCycle": "Unknown"
+        },
+        "ConservationStatus": {
+          "IUCNStatus": "Least Concern (rarely encountered, but deep-sea fishing is a potential threat)",
+          "PopulationTrend": "Unknown",
+          "Threats": [
+            "Deep-sea fishing (bycatch)"
+          ]
+        },
+        "HumanInteraction": {
+          "DangerLevel": "Low (harmless to humans due to deep habitat)",
+          "PetFriendly": false,
+          "LegalStatus": "Generally unregulated",
+          "Notes": ""
+        },
+        "FunFacts": [
+          "Often called 'living fossil'",
+          "Their unique jaw mechanism is called 'slingshot feeding'"
+        ]
+      },
+      "dateTime": "2025-07-11T09:48:46.015977",
+      "actionType": "explore"
+    },
+    {
+      "id": "a88bd665-bee8-4ef4-aafe-4f65dc34a89f",
+      "imageData": "",
+      "animalInfo": {
+        "id": "28e2c517-0059-4b7f-ab5c-fd965317665d",
+        "CommonName": "Seahorse",
+        "ScientificName": "Hippocampus",
+        "OtherNames": [],
+        "Classification": {
+          "Kingdom": "Animalia",
+          "Phylum": "Chordata",
+          "Class": "Actinopterygii",
+          "Order": "Syngnathiformes",
+          "Family": "Syngnathidae",
+          "Genus": "Hippocampus",
+          "Species": "Approx. 40-50 species"
+        },
+        "Habitat": {
+          "Environment": "Coastal Waters (seagrass beds, coral reefs, mangroves)",
+          "Distribution": "Tropical and temperate waters worldwide",
+          "Countries": [
+            "Found globally in appropriate coastal habitats"
+          ]
+        },
+        "PhysicalTraits": {
+          "Size": "Estimated 1.5 cm to 35 cm (0.6 to 14 inches)",
+          "Weight": "Estimated few grams to few hundred grams",
+          "Color": "Varied (camouflage with environment)",
+          "Lifespan": "Estimated 1-5 years (species dependent)",
+          "SpecialTraits": [
+            "Male carries the eggs in a brood pouch",
+            "Prehensile tail"
+          ]
+        },
+        "Diet": {
+          "Type": "Carnivore",
+          "Foods": [
+            "Small crustaceans (copepods, amphipods)",
+            "Small fish larvae"
+          ]
+        },
+        "Behavior": {
+          "ActivityTime": "Diurnal or Nocturnal (species dependent)",
+          "SocialType": "Monogamous (most species)",
+          "IntelligenceLevel": "Medium",
+          "Communication": "Visual cues, color changes"
+        },
+        "Reproduction": {
+          "MaturityAge": "Estimated 6-12 months",
+          "GestationPeriod": "Estimated 10 days to 6 weeks (male pouch incubation)",
+          "OffspringPerBirth": "Estimated 50-1,500 offspring",
+          "ReproductionCycle": "Can reproduce frequently during breeding season"
+        },
+        "ConservationStatus": {
+          "IUCNStatus": "Vulnerable to Endangered (species dependent)",
+          "PopulationTrend": "Decreasing",
+          "Threats": [
+            "Habitat degradation (destruction of seagrass beds, coral reefs)",
+            "Overfishing (traditional medicine, aquarium trade)",
+            "Bycatch"
+          ]
+        },
+        "HumanInteraction": {
+          "DangerLevel": "Low (harmless to humans)",
+          "PetFriendly": false,
+          "LegalStatus": "Protected under CITES (Convention on International Trade in Endangered Species)",
+          "Notes": ""
+        },
+        "FunFacts": [
+          "Eyes can move independently",
+          "Can change color rapidly to camouflage"
+        ]
+      },
+      "dateTime": "2025-07-11T09:48:46.015977",
+      "actionType": "explore"
+    },
+    {
+      "id": "86a11753-89b2-432b-8412-88c571415951",
+      "imageData": "",
+      "animalInfo": {
+        "id": "2043bf1e-9329-4f13-b0a4-88defa86600e",
+        "CommonName": "Swordfish",
+        "ScientificName": "Xiphias gladius",
+        "OtherNames": [],
+        "Classification": {
+          "Kingdom": "Animalia",
+          "Phylum": "Chordata",
+          "Class": "Actinopterygii",
+          "Order": "Perciformes",
+          "Family": "Xiphiidae",
+          "Genus": "Xiphias",
+          "Species": "gladius"
+        },
+        "Habitat": {
+          "Environment": "Open Ocean (tropical, subtropical, and temperate waters)",
+          "Distribution": "Worldwide in tropical, subtropical, and temperate waters",
+          "Countries": [
+            "Found globally in appropriate oceanic habitats"
+          ]
+        },
+        "PhysicalTraits": {
+          "Size": "Estimated 1.2-3 meters (4-10 feet) excluding bill, bill can add 1/3 of body length",
+          "Weight": "Estimated 50-500 kg (110-1,100 lbs), record over 650 kg (1,400 lbs)",
+          "Color": "Dark brown to black on dorsal side, light on ventral side",
+          "Lifespan": "Estimated 9-15 years",
+          "SpecialTraits": [
+            "Long, flattened, sword-like bill",
+            "Can swim at high speeds (estimated up to 80 km/h or 50 mph)"
+          ]
+        },
+        "Diet": {
+          "Type": "Carnivore",
+          "Foods": [
+            "Mackerel",
+            "Hake",
+            "Barracuda",
+            "Squid",
+            "Lanternfish"
+          ]
+        },
+        "Behavior": {
+          "ActivityTime": "Nocturnal (feed at night)",
+          "SocialType": "Solitary or in loose groups",
+          "IntelligenceLevel": "Medium (estimated)",
+          "Communication": "Visual cues, rapid movements"
+        },
+        "Reproduction": {
+          "MaturityAge": "Estimated 2-5 years",
+          "GestationPeriod": "N/A (egg-laying)",
+          "OffspringPerBirth": "Estimated millions of eggs",
+          "ReproductionCycle": "Multiple times per year in warm waters"
+        },
+        "ConservationStatus": {
+          "IUCNStatus": "Least Concern (but some regional concerns)",
+          "PopulationTrend": "Stable (recovering in some areas due to management)",
+          "Threats": [
+            "Overfishing",
+            "Bycatch (longline fishing)"
+          ]
+        },
+        "HumanInteraction": {
+          "DangerLevel": "Low (can be dangerous if provoked or during capture, bill can cause serious injury)",
+          "PetFriendly": false,
+          "LegalStatus": "Regulated fishery in many countries",
+          "Notes": ""
+        },
+        "FunFacts": [
+          "Use their 'sword' to stun or injure prey",
+          "Have specialized organs to heat their brains and eyes"
+        ]
+      },
+      "dateTime": "2025-07-11T09:48:46.015977",
+      "actionType": "explore"
+    },
+    {
+      "id": "28e2c517-0059-4b7f-ab5c-fd965317665d",
+      "imageData": "",
+      "animalInfo": {
+        "id": "6a87e862-1ced-4900-85de-adcfe107d92b",
+        "CommonName": "Moray Eel",
+        "ScientificName": "Muraenidae",
+        "OtherNames": [],
+        "Classification": {
+          "Kingdom": "Animalia",
+          "Phylum": "Chordata",
+          "Class": "Actinopterygii",
+          "Order": "Anguilliformes",
+          "Family": "Muraenidae",
+          "Genus": "Various",
+          "Species": "Approx. 200 species"
+        },
+        "Habitat": {
+          "Environment": "Coastal Waters (coral reefs, rocky crevices)",
+          "Distribution": "Tropical and subtropical waters worldwide",
+          "Countries": [
+            "Found globally in appropriate coastal habitats"
+          ]
+        },
+        "PhysicalTraits": {
+          "Size": "Estimated 15 cm to 4 meters (6 inches to 13 feet)",
+          "Weight": "Estimated few hundred grams to over 30 kg (66 lbs)",
+          "Color": "Varied (often mottled or patterned for camouflage)",
+          "Lifespan": "Estimated 10-30 years",
+          "SpecialTraits": [
+            "Lack pectoral and pelvic fins",
+            "Have a second set of jaws (pharyngeal jaws) for pulling prey down throat"
+          ]
+        },
+        "Diet": {
+          "Type": "Carnivore",
+          "Foods": [
+            "Fish",
+            "Crustaceans",
+            "Cephalopods"
+          ]
+        },
+        "Behavior": {
+          "ActivityTime": "Nocturnal (most species)",
+          "SocialType": "Solitary",
+          "IntelligenceLevel": "Medium",
+          "Communication": "Visual cues, chemical signals"
+        },
+        "Reproduction": {
+          "MaturityAge": "Estimated 1-3 years",
+          "GestationPeriod": "N/A (egg-laying)",
+          "OffspringPerBirth": "Estimated thousands to millions of eggs",
+          "ReproductionCycle": "Estimated yearly"
+        },
+        "ConservationStatus": {
+          "IUCNStatus": "Least Concern (most species, but some vulnerable/endangered)",
+          "PopulationTrend": "Stable (estimated, but some local declines due to habitat loss and overfishing)",
+          "Threats": [
+            "Habitat degradation (coral reef destruction)",
+            "Overfishing",
+            "Bycatch"
+          ]
+        },
+        "HumanInteraction": {
+          "DangerLevel": "Medium (can bite if provoked or threatened, but generally shy)",
+          "PetFriendly": false,
+          "LegalStatus": "Generally unregulated, some local fishing regulations",
+          "Notes": ""
+        },
+        "FunFacts": [
+          "Can tie themselves in knots to gain leverage on prey",
+          "Often seen with cleaner shrimp or fish in their mouths"
+        ]
+      },
+      "dateTime": "2025-07-11T09:48:46.015977",
+      "actionType": "explore"
+    },
+    {
+      "id": "a88bd665-bee8-4ef4-aafe-4f65dc34a89f",
+      "imageData": "",
+      "animalInfo": {
+        "id": "28e2c517-0059-4b7f-ab5c-fd965317665d",
+        "CommonName": "Manatee",
+        "ScientificName": "Trichechus",
+        "OtherNames": [
+          "Sea Cow"
+        ],
+        "Classification": {
+          "Kingdom": "Animalia",
+          "Phylum": "Chordata",
+          "Class": "Mammalia",
+          "Order": "Sirenia",
+          "Family": "Trichechidae",
+          "Genus": "Trichechus",
+          "Species": "manatus (West Indian), senegalensis (African), inunguis (Amazonian)"
+        },
+        "Habitat": {
+          "Environment": "Coastal Waters (rivers, estuaries, shallow coastal areas)",
+          "Distribution": "Tropical and subtropical regions of the Americas and West Africa",
+          "Countries": [
+            "USA (Florida), Mexico, Central and South America, West Africa"
+          ]
+        },
+        "PhysicalTraits": {
+          "Size": "Estimated 2.5-4.5 meters (8-15 feet)",
+          "Weight": "Estimated 400-1,500 kg (880-3,300 lbs)",
+          "Color": "Gray to brown",
+          "Lifespan": "Estimated 40-60 years",
+          "SpecialTraits": [
+            "Large, paddle-like tail",
+            "Slow-moving and gentle"
+          ]
+        },
+        "Diet": {
+          "Type": "Herbivore",
+          "Foods": [
+            "Seagrass",
+            "Algae",
+            "Mangrove leaves",
+            "Other aquatic vegetation"
+          ]
+        },
+        "Behavior": {
+          "ActivityTime": "Diurnal and Nocturnal (active day and night)",
+          "SocialType": "Solitary or in small informal groups",
+          "IntelligenceLevel": "Medium",
+          "Communication": "Chirps, squeaks, body contact"
+        },
+        "Reproduction": {
+          "MaturityAge": "Estimated 3-5 years (females), 5-9 years (males)",
+          "GestationPeriod": "Estimated 12-14 months",
+          "OffspringPerBirth": "Typically 1 calf",
+          "ReproductionCycle": "Estimated 2-5 years between births"
+        },
+        "ConservationStatus": {
+          "IUCNStatus": "Vulnerable (West Indian, African), Endangered (Amazonian)",
+          "PopulationTrend": "Increasing in some areas, but overall vulnerable",
+          "Threats": [
+            "Habitat loss and degradation (coastal development)",
+            "Boat strikes",
+            "Red tide (algal blooms)",
+            "Entanglement in fishing gear"
+          ]
+        },
+        "HumanInteraction": {
+          "DangerLevel": "Low (gentle and docile, no threat to humans)",
+          "PetFriendly": false,
+          "LegalStatus": "Protected under various national and international laws",
+          "Notes": ""
+        },
+        "FunFacts": [
+          "Often called 'sea cows' due to their herbivorous diet and slow grazing",
+          "Can hold their breath for up to 20 minutes"
+        ]
+      },
+      "dateTime": "2025-07-11T09:48:46.015977",
+      "actionType": "explore"
+    },
+    {
+      "id": "a88bd665-bee8-4ef4-aafe-4f65dc34a89f",
+      "imageData": "",
+      "animalInfo": {
+        "id": "a88bd665-bee8-4ef4-aafe-4f65dc34a89f",
+        "CommonName": "Stingray",
+        "ScientificName": "Myliobatiformes",
+        "OtherNames": [],
+        "Classification": {
+          "Kingdom": "Animalia",
+          "Phylum": "Chordata",
+          "Class": "Chondrichthyes",
+          "Order": "Myliobatiformes",
+          "Family": "Various (e.g., Dasyatidae, Urolophidae)",
+          "Genus": "Various",
+          "Species": "Approx. 200 species"
+        },
+        "Habitat": {
+          "Environment": "Coastal Waters (sandy bottoms, coral reefs, estuaries)",
+          "Distribution": "Tropical and temperate waters worldwide",
+          "Countries": [
+            "Found globally in appropriate coastal habitats"
+          ]
+        },
+        "PhysicalTraits": {
+          "Size": "Estimated 30 cm to 2 meters (1-6.5 feet) disc width",
+          "Weight": "Estimated few kilograms to several hundred kilograms",
+          "Color": "Varied (often camouflaged with seabed)",
+          "Lifespan": "Estimated 5-25 years (species dependent)",
+          "SpecialTraits": [
+            "Flattened body with pectoral fins fused to head and trunk",
+            "One or more venomous barbed stingers on tail"
+          ]
+        },
+        "Diet": {
+          "Type": "Carnivore",
+          "Foods": [
+            "Mollusks (clams, oysters)",
+            "Crustaceans (shrimp, crabs)",
+            "Small fish"
+          ]
+        },
+        "Behavior": {
+          "ActivityTime": "Nocturnal (most species)",
+          "SocialType": "Solitary or in groups",
+          "IntelligenceLevel": "Medium (estimated)",
+          "Communication": "Chemical signals, body movements"
+        },
+        "Reproduction": {
+          "MaturityAge": "Estimated 2-10 years (species dependent)",
+          "GestationPeriod": "Estimated 2-12 months (ovoviviparous)",
+          "OffspringPerBirth": "Estimated 1-10 pups",
+          "ReproductionCycle": "Estimated yearly or every few years"
+        },
+        "ConservationStatus": {
+          "IUCNStatus": "Vulnerable to Endangered (many species), some Least Concern",
+          "PopulationTrend": "Decreasing (many species)",
+          "Threats": [
+            "Overfishing",
+            "Bycatch",
+            "Habitat degradation (coral reefs, seagrass beds)",
+            "Climate change"
+          ]
+        },
+        "HumanInteraction": {
+          "DangerLevel": "Medium (can inflict painful, sometimes dangerous, stings if stepped on or threatened)",
+          "PetFriendly": false,
+          "LegalStatus": "Regulated fishing in some areas",
+          "Notes": ""
+        },
+        "FunFacts": [
+          "Often bury themselves in sand to ambush prey and hide from predators",
+          "Related to sharks"
+        ]
+      },
+      "dateTime": "2025-07-11T09:48:46.015977",
+      "actionType": "explore"
+    }
+]

@@ -4,20 +4,20 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_blue_plus_example/model/animal_info.dart';
-import 'package:flutter_blue_plus_example/model/animal_scan_data.dart';
-import 'package:flutter_blue_plus_example/model/behavior.dart';
-import 'package:flutter_blue_plus_example/model/classification.dart';
-import 'package:flutter_blue_plus_example/model/conservation_status.dart';
-import 'package:flutter_blue_plus_example/model/diet.dart';
-import 'package:flutter_blue_plus_example/model/habitat.dart';
-import 'package:flutter_blue_plus_example/model/human_interaction.dart';
-import 'package:flutter_blue_plus_example/model/physical_traits.dart';
-import 'package:flutter_blue_plus_example/model/reproduction.dart';
-import 'package:flutter_blue_plus_example/shared/widgets/bbs_base_controller.dart';
 
-import '../shared/resources/resource.dart';
-import '../shared/widgets/widgets.dart';
+import '../../api/model/animal_info.dart';
+import '../../api/model/animal_scan_data.dart';
+import '../../api/model/behavior.dart';
+import '../../api/model/classification.dart';
+import '../../api/model/conservation_status.dart';
+import '../../api/model/diet.dart';
+import '../../api/model/habitat.dart';
+import '../../api/model/human_interaction.dart';
+import '../../api/model/physical_traits.dart';
+import '../../api/model/reproduction.dart';
+import '../../shared/resources/resource.dart';
+import '../../shared/widgets/bbs_base_controller.dart';
+import '../../shared/widgets/widgets.dart';
 
 const List<Map<String, String>> rarestAnimals = [
   {
@@ -338,10 +338,10 @@ class ExploreScreen2 extends StatelessWidget {
                       height: 200,
                       child: ListView.separated(
                         scrollDirection: Axis.horizontal,
-                        itemCount: controller.worldLargestCreatures.length,
+                        itemCount: controller.mostDangerousAnimals.length,
                         separatorBuilder: (_, __) => const SizedBox(width: 12),
                         itemBuilder: (context, index) {
-                          final item = controller.worldLargestCreatures[index];
+                          final item = controller.mostDangerousAnimals[index];
                           return WideAnimalCard(
                             animalScanData: item,
                             width: 300,
@@ -390,7 +390,7 @@ class ExploreScreen2 extends StatelessWidget {
                       height: 530,
                       child: GridView.builder(
                         scrollDirection: Axis.horizontal,
-                        itemCount: controller.underwaterCreatures.length,
+                        itemCount: controller.forestInhabitants.length,
                         padding: EdgeInsets.zero,
                         gridDelegate:
                         const SliverGridDelegateWithFixedCrossAxisCount(
@@ -400,7 +400,7 @@ class ExploreScreen2 extends StatelessWidget {
                           childAspectRatio: 1.6, // width / height of each tile
                         ),
                         itemBuilder: (context, index) {
-                          final item = controller.underwaterCreatures[index];
+                          final item = controller.forestInhabitants[index];
                           return TallAnimalCard(
                             animalScanData: item,
                           );
@@ -419,7 +419,7 @@ class ExploreScreen2 extends StatelessWidget {
                       height: 530,
                       child: GridView.builder(
                         scrollDirection: Axis.horizontal,
-                        itemCount: controller.underwaterCreatures.length,
+                        itemCount: controller.arcticWildlife.length,
                         padding: EdgeInsets.zero,
                         gridDelegate:
                         const SliverGridDelegateWithFixedCrossAxisCount(
@@ -429,7 +429,7 @@ class ExploreScreen2 extends StatelessWidget {
                           childAspectRatio: 1.6, // width / height of each tile
                         ),
                         itemBuilder: (context, index) {
-                          final item = controller.underwaterCreatures[index];
+                          final item = controller.arcticWildlife[index];
                           return TallAnimalCard(
                             animalScanData: item,
                           );
@@ -448,7 +448,7 @@ class ExploreScreen2 extends StatelessWidget {
                       height: 530,
                       child: GridView.builder(
                         scrollDirection: Axis.horizontal,
-                        itemCount: controller.underwaterCreatures.length,
+                        itemCount: controller.desertDwellers.length,
                         padding: EdgeInsets.zero,
                         gridDelegate:
                         const SliverGridDelegateWithFixedCrossAxisCount(
@@ -458,7 +458,7 @@ class ExploreScreen2 extends StatelessWidget {
                           childAspectRatio: 1.6, // width / height of each tile
                         ),
                         itemBuilder: (context, index) {
-                          final item = controller.underwaterCreatures[index];
+                          final item = controller.desertDwellers[index];
                           return TallAnimalCard(
                             animalScanData: item,
                           );
@@ -477,7 +477,7 @@ class ExploreScreen2 extends StatelessWidget {
                       height: 530,
                       child: GridView.builder(
                         scrollDirection: Axis.horizontal,
-                        itemCount: controller.underwaterCreatures.length,
+                        itemCount: controller.highAltitudeSpecies.length,
                         padding: EdgeInsets.zero,
                         gridDelegate:
                         const SliverGridDelegateWithFixedCrossAxisCount(
@@ -487,7 +487,7 @@ class ExploreScreen2 extends StatelessWidget {
                           childAspectRatio: 1.6, // width / height of each tile
                         ),
                         itemBuilder: (context, index) {
-                          final item = controller.underwaterCreatures[index];
+                          final item = controller.highAltitudeSpecies[index];
                           return TallAnimalCard(
                             animalScanData: item,
                           );
@@ -506,7 +506,7 @@ class ExploreScreen2 extends StatelessWidget {
                       height: 530,
                       child: GridView.builder(
                         scrollDirection: Axis.horizontal,
-                        itemCount: controller.underwaterCreatures.length,
+                        itemCount: controller.extinctAnimals.length,
                         padding: EdgeInsets.zero,
                         gridDelegate:
                         const SliverGridDelegateWithFixedCrossAxisCount(
@@ -516,7 +516,7 @@ class ExploreScreen2 extends StatelessWidget {
                           childAspectRatio: 1.6, // width / height of each tile
                         ),
                         itemBuilder: (context, index) {
-                          final item = controller.underwaterCreatures[index];
+                          final item = controller.extinctAnimals[index];
                           return TallAnimalCard(
                             animalScanData: item,
                           );
@@ -553,20 +553,19 @@ class ExploreController2 extends BBSBaseController {
 
   List<AnimalScanData> smartestSpecies = [];
 
-  List<AnimalScanData> underwaterCreatures = [
-    AnimalScanData(id: 8, imageHome: Constants.imgAmurLeopard, imagePath: null, animalInfo: AnimalInfo(commonName: 'Amur Leopard', scientificName: 'Panthera pardus orientalis', otherNames: ['Far Eastern Leopard', 'Manchurian Leopard'], classification: Classification(kingdom: 'Animalia', phylum: 'Chordata', clazz: 'Mammalia', order: 'Carnivora', family: 'Felidae', genus: 'Panthera', species: 'pardus orientalis'), habitat: Habitat(environment: 'Temperate forests', distribution: 'Russian Far East and Northeast China', countries: ['Russia', 'China']), physicalTraits: PhysicalTraits(size: '90–110 cm', weight: '32–48 kg', color: 'Cream with black rosettes', lifespan: '10–15 years', specialTraits: ['Thick fur', 'Excellent climber']), diet: Diet(type: 'Carnivore', foods: ['Deer', 'Hares', 'Wild boar']), behavior: Behavior(activityTime: 'Nocturnal', socialType: 'Solitary', intelligenceLevel: 'High', communication: 'Vocal and scent markings'), reproduction: Reproduction(maturityAge: '2–3 years', gestationPeriod: '90–105 days', offspringPerBirth: '1–4', reproductionCycle: 'Biennial'), conservationStatus: ConservationStatus(iUCNStatus: 'Critically Endangered', populationTrend: 'Decreasing', threats: ['Poaching', 'Habitat loss', 'Inbreeding']), humanInteraction: HumanInteraction(dangerLevel: 'Low', petFriendly: false, legalStatus: 'Protected', notes: 'Extremely rare and shy'), funFacts: ['Can leap over 10 feet vertically', 'Less than 100 individuals remain']), dateTime: '2025-09-24', animalActionType: AnimalActionType.explore, isHistory: false, isFavorite: false),
-    AnimalScanData(id: 9, imageHome: Constants.imgAmurLeopard, imagePath: null, animalInfo: AnimalInfo(commonName: 'Amur Leopard', scientificName: 'Panthera pardus orientalis', otherNames: ['Far Eastern Leopard', 'Manchurian Leopard'], classification: Classification(kingdom: 'Animalia', phylum: 'Chordata', clazz: 'Mammalia', order: 'Carnivora', family: 'Felidae', genus: 'Panthera', species: 'pardus orientalis'), habitat: Habitat(environment: 'Temperate forests', distribution: 'Russian Far East and Northeast China', countries: ['Russia', 'China']), physicalTraits: PhysicalTraits(size: '90–110 cm', weight: '32–48 kg', color: 'Cream with black rosettes', lifespan: '10–15 years', specialTraits: ['Thick fur', 'Excellent climber']), diet: Diet(type: 'Carnivore', foods: ['Deer', 'Hares', 'Wild boar']), behavior: Behavior(activityTime: 'Nocturnal', socialType: 'Solitary', intelligenceLevel: 'High', communication: 'Vocal and scent markings'), reproduction: Reproduction(maturityAge: '2–3 years', gestationPeriod: '90–105 days', offspringPerBirth: '1–4', reproductionCycle: 'Biennial'), conservationStatus: ConservationStatus(iUCNStatus: 'Critically Endangered', populationTrend: 'Decreasing', threats: ['Poaching', 'Habitat loss', 'Inbreeding']), humanInteraction: HumanInteraction(dangerLevel: 'Low', petFriendly: false, legalStatus: 'Protected', notes: 'Extremely rare and shy'), funFacts: ['Can leap over 10 feet vertically', 'Less than 100 individuals remain']), dateTime: '2025-09-24', animalActionType: AnimalActionType.explore, isHistory: false, isFavorite: false),
-    AnimalScanData(id: 10, imageHome: Constants.imgAmurLeopard, imagePath: null, animalInfo: AnimalInfo(commonName: 'Amur Leopard', scientificName: 'Panthera pardus orientalis', otherNames: ['Far Eastern Leopard', 'Manchurian Leopard'], classification: Classification(kingdom: 'Animalia', phylum: 'Chordata', clazz: 'Mammalia', order: 'Carnivora', family: 'Felidae', genus: 'Panthera', species: 'pardus orientalis'), habitat: Habitat(environment: 'Temperate forests', distribution: 'Russian Far East and Northeast China', countries: ['Russia', 'China']), physicalTraits: PhysicalTraits(size: '90–110 cm', weight: '32–48 kg', color: 'Cream with black rosettes', lifespan: '10–15 years', specialTraits: ['Thick fur', 'Excellent climber']), diet: Diet(type: 'Carnivore', foods: ['Deer', 'Hares', 'Wild boar']), behavior: Behavior(activityTime: 'Nocturnal', socialType: 'Solitary', intelligenceLevel: 'High', communication: 'Vocal and scent markings'), reproduction: Reproduction(maturityAge: '2–3 years', gestationPeriod: '90–105 days', offspringPerBirth: '1–4', reproductionCycle: 'Biennial'), conservationStatus: ConservationStatus(iUCNStatus: 'Critically Endangered', populationTrend: 'Decreasing', threats: ['Poaching', 'Habitat loss', 'Inbreeding']), humanInteraction: HumanInteraction(dangerLevel: 'Low', petFriendly: false, legalStatus: 'Protected', notes: 'Extremely rare and shy'), funFacts: ['Can leap over 10 feet vertically', 'Less than 100 individuals remain']), dateTime: '2025-09-24', animalActionType: AnimalActionType.explore, isHistory: false, isFavorite: false),
-    AnimalScanData(id: 11, imageHome: Constants.imgAmurLeopard, imagePath: null, animalInfo: AnimalInfo(commonName: 'Amur Leopard', scientificName: 'Panthera pardus orientalis', otherNames: ['Far Eastern Leopard', 'Manchurian Leopard'], classification: Classification(kingdom: 'Animalia', phylum: 'Chordata', clazz: 'Mammalia', order: 'Carnivora', family: 'Felidae', genus: 'Panthera', species: 'pardus orientalis'), habitat: Habitat(environment: 'Temperate forests', distribution: 'Russian Far East and Northeast China', countries: ['Russia', 'China']), physicalTraits: PhysicalTraits(size: '90–110 cm', weight: '32–48 kg', color: 'Cream with black rosettes', lifespan: '10–15 years', specialTraits: ['Thick fur', 'Excellent climber']), diet: Diet(type: 'Carnivore', foods: ['Deer', 'Hares', 'Wild boar']), behavior: Behavior(activityTime: 'Nocturnal', socialType: 'Solitary', intelligenceLevel: 'High', communication: 'Vocal and scent markings'), reproduction: Reproduction(maturityAge: '2–3 years', gestationPeriod: '90–105 days', offspringPerBirth: '1–4', reproductionCycle: 'Biennial'), conservationStatus: ConservationStatus(iUCNStatus: 'Critically Endangered', populationTrend: 'Decreasing', threats: ['Poaching', 'Habitat loss', 'Inbreeding']), humanInteraction: HumanInteraction(dangerLevel: 'Low', petFriendly: false, legalStatus: 'Protected', notes: 'Extremely rare and shy'), funFacts: ['Can leap over 10 feet vertically', 'Less than 100 individuals remain']), dateTime: '2025-09-24', animalActionType: AnimalActionType.explore, isHistory: false, isFavorite: false),
-    AnimalScanData(id: 8, imageHome: Constants.imgAmurLeopard, imagePath: null, animalInfo: AnimalInfo(commonName: 'Amur Leopard', scientificName: 'Panthera pardus orientalis', otherNames: ['Far Eastern Leopard', 'Manchurian Leopard'], classification: Classification(kingdom: 'Animalia', phylum: 'Chordata', clazz: 'Mammalia', order: 'Carnivora', family: 'Felidae', genus: 'Panthera', species: 'pardus orientalis'), habitat: Habitat(environment: 'Temperate forests', distribution: 'Russian Far East and Northeast China', countries: ['Russia', 'China']), physicalTraits: PhysicalTraits(size: '90–110 cm', weight: '32–48 kg', color: 'Cream with black rosettes', lifespan: '10–15 years', specialTraits: ['Thick fur', 'Excellent climber']), diet: Diet(type: 'Carnivore', foods: ['Deer', 'Hares', 'Wild boar']), behavior: Behavior(activityTime: 'Nocturnal', socialType: 'Solitary', intelligenceLevel: 'High', communication: 'Vocal and scent markings'), reproduction: Reproduction(maturityAge: '2–3 years', gestationPeriod: '90–105 days', offspringPerBirth: '1–4', reproductionCycle: 'Biennial'), conservationStatus: ConservationStatus(iUCNStatus: 'Critically Endangered', populationTrend: 'Decreasing', threats: ['Poaching', 'Habitat loss', 'Inbreeding']), humanInteraction: HumanInteraction(dangerLevel: 'Low', petFriendly: false, legalStatus: 'Protected', notes: 'Extremely rare and shy'), funFacts: ['Can leap over 10 feet vertically', 'Less than 100 individuals remain']), dateTime: '2025-09-24', animalActionType: AnimalActionType.explore, isHistory: false, isFavorite: false),
-    AnimalScanData(id: 9, imageHome: Constants.imgAmurLeopard, imagePath: null, animalInfo: AnimalInfo(commonName: 'Amur Leopard', scientificName: 'Panthera pardus orientalis', otherNames: ['Far Eastern Leopard', 'Manchurian Leopard'], classification: Classification(kingdom: 'Animalia', phylum: 'Chordata', clazz: 'Mammalia', order: 'Carnivora', family: 'Felidae', genus: 'Panthera', species: 'pardus orientalis'), habitat: Habitat(environment: 'Temperate forests', distribution: 'Russian Far East and Northeast China', countries: ['Russia', 'China']), physicalTraits: PhysicalTraits(size: '90–110 cm', weight: '32–48 kg', color: 'Cream with black rosettes', lifespan: '10–15 years', specialTraits: ['Thick fur', 'Excellent climber']), diet: Diet(type: 'Carnivore', foods: ['Deer', 'Hares', 'Wild boar']), behavior: Behavior(activityTime: 'Nocturnal', socialType: 'Solitary', intelligenceLevel: 'High', communication: 'Vocal and scent markings'), reproduction: Reproduction(maturityAge: '2–3 years', gestationPeriod: '90–105 days', offspringPerBirth: '1–4', reproductionCycle: 'Biennial'), conservationStatus: ConservationStatus(iUCNStatus: 'Critically Endangered', populationTrend: 'Decreasing', threats: ['Poaching', 'Habitat loss', 'Inbreeding']), humanInteraction: HumanInteraction(dangerLevel: 'Low', petFriendly: false, legalStatus: 'Protected', notes: 'Extremely rare and shy'), funFacts: ['Can leap over 10 feet vertically', 'Less than 100 individuals remain']), dateTime: '2025-09-24', animalActionType: AnimalActionType.explore, isHistory: false, isFavorite: false),
-    AnimalScanData(id: 10, imageHome: Constants.imgAmurLeopard, imagePath: null, animalInfo: AnimalInfo(commonName: 'Amur Leopard', scientificName: 'Panthera pardus orientalis', otherNames: ['Far Eastern Leopard', 'Manchurian Leopard'], classification: Classification(kingdom: 'Animalia', phylum: 'Chordata', clazz: 'Mammalia', order: 'Carnivora', family: 'Felidae', genus: 'Panthera', species: 'pardus orientalis'), habitat: Habitat(environment: 'Temperate forests', distribution: 'Russian Far East and Northeast China', countries: ['Russia', 'China']), physicalTraits: PhysicalTraits(size: '90–110 cm', weight: '32–48 kg', color: 'Cream with black rosettes', lifespan: '10–15 years', specialTraits: ['Thick fur', 'Excellent climber']), diet: Diet(type: 'Carnivore', foods: ['Deer', 'Hares', 'Wild boar']), behavior: Behavior(activityTime: 'Nocturnal', socialType: 'Solitary', intelligenceLevel: 'High', communication: 'Vocal and scent markings'), reproduction: Reproduction(maturityAge: '2–3 years', gestationPeriod: '90–105 days', offspringPerBirth: '1–4', reproductionCycle: 'Biennial'), conservationStatus: ConservationStatus(iUCNStatus: 'Critically Endangered', populationTrend: 'Decreasing', threats: ['Poaching', 'Habitat loss', 'Inbreeding']), humanInteraction: HumanInteraction(dangerLevel: 'Low', petFriendly: false, legalStatus: 'Protected', notes: 'Extremely rare and shy'), funFacts: ['Can leap over 10 feet vertically', 'Less than 100 individuals remain']), dateTime: '2025-09-24', animalActionType: AnimalActionType.explore, isHistory: false, isFavorite: false),
-    AnimalScanData(id: 11, imageHome: Constants.imgAmurLeopard, imagePath: null, animalInfo: AnimalInfo(commonName: 'Amur Leopard', scientificName: 'Panthera pardus orientalis', otherNames: ['Far Eastern Leopard', 'Manchurian Leopard'], classification: Classification(kingdom: 'Animalia', phylum: 'Chordata', clazz: 'Mammalia', order: 'Carnivora', family: 'Felidae', genus: 'Panthera', species: 'pardus orientalis'), habitat: Habitat(environment: 'Temperate forests', distribution: 'Russian Far East and Northeast China', countries: ['Russia', 'China']), physicalTraits: PhysicalTraits(size: '90–110 cm', weight: '32–48 kg', color: 'Cream with black rosettes', lifespan: '10–15 years', specialTraits: ['Thick fur', 'Excellent climber']), diet: Diet(type: 'Carnivore', foods: ['Deer', 'Hares', 'Wild boar']), behavior: Behavior(activityTime: 'Nocturnal', socialType: 'Solitary', intelligenceLevel: 'High', communication: 'Vocal and scent markings'), reproduction: Reproduction(maturityAge: '2–3 years', gestationPeriod: '90–105 days', offspringPerBirth: '1–4', reproductionCycle: 'Biennial'), conservationStatus: ConservationStatus(iUCNStatus: 'Critically Endangered', populationTrend: 'Decreasing', threats: ['Poaching', 'Habitat loss', 'Inbreeding']), humanInteraction: HumanInteraction(dangerLevel: 'Low', petFriendly: false, legalStatus: 'Protected', notes: 'Extremely rare and shy'), funFacts: ['Can leap over 10 feet vertically', 'Less than 100 individuals remain']), dateTime: '2025-09-24', animalActionType: AnimalActionType.explore, isHistory: false, isFavorite: false),
-    AnimalScanData(id: 8, imageHome: Constants.imgAmurLeopard, imagePath: null, animalInfo: AnimalInfo(commonName: 'Amur Leopard', scientificName: 'Panthera pardus orientalis', otherNames: ['Far Eastern Leopard', 'Manchurian Leopard'], classification: Classification(kingdom: 'Animalia', phylum: 'Chordata', clazz: 'Mammalia', order: 'Carnivora', family: 'Felidae', genus: 'Panthera', species: 'pardus orientalis'), habitat: Habitat(environment: 'Temperate forests', distribution: 'Russian Far East and Northeast China', countries: ['Russia', 'China']), physicalTraits: PhysicalTraits(size: '90–110 cm', weight: '32–48 kg', color: 'Cream with black rosettes', lifespan: '10–15 years', specialTraits: ['Thick fur', 'Excellent climber']), diet: Diet(type: 'Carnivore', foods: ['Deer', 'Hares', 'Wild boar']), behavior: Behavior(activityTime: 'Nocturnal', socialType: 'Solitary', intelligenceLevel: 'High', communication: 'Vocal and scent markings'), reproduction: Reproduction(maturityAge: '2–3 years', gestationPeriod: '90–105 days', offspringPerBirth: '1–4', reproductionCycle: 'Biennial'), conservationStatus: ConservationStatus(iUCNStatus: 'Critically Endangered', populationTrend: 'Decreasing', threats: ['Poaching', 'Habitat loss', 'Inbreeding']), humanInteraction: HumanInteraction(dangerLevel: 'Low', petFriendly: false, legalStatus: 'Protected', notes: 'Extremely rare and shy'), funFacts: ['Can leap over 10 feet vertically', 'Less than 100 individuals remain']), dateTime: '2025-09-24', animalActionType: AnimalActionType.explore, isHistory: false, isFavorite: false),
-    AnimalScanData(id: 9, imageHome: Constants.imgAmurLeopard, imagePath: null, animalInfo: AnimalInfo(commonName: 'Amur Leopard', scientificName: 'Panthera pardus orientalis', otherNames: ['Far Eastern Leopard', 'Manchurian Leopard'], classification: Classification(kingdom: 'Animalia', phylum: 'Chordata', clazz: 'Mammalia', order: 'Carnivora', family: 'Felidae', genus: 'Panthera', species: 'pardus orientalis'), habitat: Habitat(environment: 'Temperate forests', distribution: 'Russian Far East and Northeast China', countries: ['Russia', 'China']), physicalTraits: PhysicalTraits(size: '90–110 cm', weight: '32–48 kg', color: 'Cream with black rosettes', lifespan: '10–15 years', specialTraits: ['Thick fur', 'Excellent climber']), diet: Diet(type: 'Carnivore', foods: ['Deer', 'Hares', 'Wild boar']), behavior: Behavior(activityTime: 'Nocturnal', socialType: 'Solitary', intelligenceLevel: 'High', communication: 'Vocal and scent markings'), reproduction: Reproduction(maturityAge: '2–3 years', gestationPeriod: '90–105 days', offspringPerBirth: '1–4', reproductionCycle: 'Biennial'), conservationStatus: ConservationStatus(iUCNStatus: 'Critically Endangered', populationTrend: 'Decreasing', threats: ['Poaching', 'Habitat loss', 'Inbreeding']), humanInteraction: HumanInteraction(dangerLevel: 'Low', petFriendly: false, legalStatus: 'Protected', notes: 'Extremely rare and shy'), funFacts: ['Can leap over 10 feet vertically', 'Less than 100 individuals remain']), dateTime: '2025-09-24', animalActionType: AnimalActionType.explore, isHistory: false, isFavorite: false),
-    AnimalScanData(id: 10, imageHome: Constants.imgAmurLeopard, imagePath: null, animalInfo: AnimalInfo(commonName: 'Amur Leopard', scientificName: 'Panthera pardus orientalis', otherNames: ['Far Eastern Leopard', 'Manchurian Leopard'], classification: Classification(kingdom: 'Animalia', phylum: 'Chordata', clazz: 'Mammalia', order: 'Carnivora', family: 'Felidae', genus: 'Panthera', species: 'pardus orientalis'), habitat: Habitat(environment: 'Temperate forests', distribution: 'Russian Far East and Northeast China', countries: ['Russia', 'China']), physicalTraits: PhysicalTraits(size: '90–110 cm', weight: '32–48 kg', color: 'Cream with black rosettes', lifespan: '10–15 years', specialTraits: ['Thick fur', 'Excellent climber']), diet: Diet(type: 'Carnivore', foods: ['Deer', 'Hares', 'Wild boar']), behavior: Behavior(activityTime: 'Nocturnal', socialType: 'Solitary', intelligenceLevel: 'High', communication: 'Vocal and scent markings'), reproduction: Reproduction(maturityAge: '2–3 years', gestationPeriod: '90–105 days', offspringPerBirth: '1–4', reproductionCycle: 'Biennial'), conservationStatus: ConservationStatus(iUCNStatus: 'Critically Endangered', populationTrend: 'Decreasing', threats: ['Poaching', 'Habitat loss', 'Inbreeding']), humanInteraction: HumanInteraction(dangerLevel: 'Low', petFriendly: false, legalStatus: 'Protected', notes: 'Extremely rare and shy'), funFacts: ['Can leap over 10 feet vertically', 'Less than 100 individuals remain']), dateTime: '2025-09-24', animalActionType: AnimalActionType.explore, isHistory: false, isFavorite: false),
-    AnimalScanData(id: 11, imageHome: Constants.imgAmurLeopard, imagePath: null, animalInfo: AnimalInfo(commonName: 'Amur Leopard', scientificName: 'Panthera pardus orientalis', otherNames: ['Far Eastern Leopard', 'Manchurian Leopard'], classification: Classification(kingdom: 'Animalia', phylum: 'Chordata', clazz: 'Mammalia', order: 'Carnivora', family: 'Felidae', genus: 'Panthera', species: 'pardus orientalis'), habitat: Habitat(environment: 'Temperate forests', distribution: 'Russian Far East and Northeast China', countries: ['Russia', 'China']), physicalTraits: PhysicalTraits(size: '90–110 cm', weight: '32–48 kg', color: 'Cream with black rosettes', lifespan: '10–15 years', specialTraits: ['Thick fur', 'Excellent climber']), diet: Diet(type: 'Carnivore', foods: ['Deer', 'Hares', 'Wild boar']), behavior: Behavior(activityTime: 'Nocturnal', socialType: 'Solitary', intelligenceLevel: 'High', communication: 'Vocal and scent markings'), reproduction: Reproduction(maturityAge: '2–3 years', gestationPeriod: '90–105 days', offspringPerBirth: '1–4', reproductionCycle: 'Biennial'), conservationStatus: ConservationStatus(iUCNStatus: 'Critically Endangered', populationTrend: 'Decreasing', threats: ['Poaching', 'Habitat loss', 'Inbreeding']), humanInteraction: HumanInteraction(dangerLevel: 'Low', petFriendly: false, legalStatus: 'Protected', notes: 'Extremely rare and shy'), funFacts: ['Can leap over 10 feet vertically', 'Less than 100 individuals remain']), dateTime: '2025-09-24', animalActionType: AnimalActionType.explore, isHistory: false, isFavorite: false),
-  ];
+  List<AnimalScanData> mostDangerousAnimals = [];
+
+  List<AnimalScanData> underwaterCreatures = [];
+
+  List<AnimalScanData> forestInhabitants = [];
+
+  List<AnimalScanData> arcticWildlife = [];
+
+  List<AnimalScanData> desertDwellers = [];
+
+  List<AnimalScanData> highAltitudeSpecies = [];
+
+  List<AnimalScanData> extinctAnimals = [];
 
   Future<void> initData() async {
     // Ví dụ: đọc file rarest_animals.json
@@ -574,15 +573,37 @@ class ExploreController2 extends BBSBaseController {
     final jsonLargestAnimalStr = await rootBundle.loadString('assets/jsons/largest_animals.json');
     final jsonFastestAnimalStr = await rootBundle.loadString('assets/jsons/fastest_animals.json');
     final jsonSmartestAnimalStr = await rootBundle.loadString('assets/jsons/smartest_animals.json');
+    final jsonDangerousAnimalStr = await rootBundle.loadString('assets/jsons/dangerous_animals.json');
+    final jsonUnderWaterAnimalStr = await rootBundle.loadString('assets/jsons/underwater_animals.json');
+    final jsonForestAnimalStr = await rootBundle.loadString('assets/jsons/forest_animals.json');
+    final jsonArcticAnimalStr = await rootBundle.loadString('assets/jsons/arctic_animals.json');
+    final jsonDesertAnimalStr = await rootBundle.loadString('assets/jsons/desert_animals.json');
+    final jsonHighAltitudeAnimalStr = await rootBundle.loadString('assets/jsons/high_altitude_animals.json');
+    final jsonExtinctAnimalStr = await rootBundle.loadString('assets/jsons/extinct_animals.json');
+
     final rarestAnimals = parseAnimalScanDataList(jsonRarestAnimalStr);
     final largestAnimals = parseAnimalScanDataList(jsonLargestAnimalStr);
     final fastestAnimals = parseAnimalScanDataList(jsonFastestAnimalStr);
     final smartestAnimals = parseAnimalScanDataList(jsonSmartestAnimalStr);
+    final dangerousAnimals = parseAnimalScanDataList(jsonDangerousAnimalStr);
+    final underWaterAnimalStr = parseAnimalScanDataList(jsonUnderWaterAnimalStr);
+    final forestAnimalStr = parseAnimalScanDataList(jsonForestAnimalStr);
+    final arcticAnimalStr = parseAnimalScanDataList(jsonArcticAnimalStr);
+    final desertAnimalStr = parseAnimalScanDataList(jsonDesertAnimalStr);
+    final highAltitudeAnimalStr = parseAnimalScanDataList(jsonHighAltitudeAnimalStr);
+    final extinctAnimalStr = parseAnimalScanDataList(jsonExtinctAnimalStr);
 
     rarestAnimalsOnEarth.addAll(rarestAnimals);
     worldLargestCreatures.addAll(largestAnimals);
     fastestAnimalAlive.addAll(fastestAnimals);
     smartestSpecies.addAll(smartestAnimals);
+    mostDangerousAnimals.addAll(dangerousAnimals);
+    underwaterCreatures.addAll(underWaterAnimalStr);
+    forestInhabitants.addAll(forestAnimalStr);
+    arcticWildlife.addAll(arcticAnimalStr);
+    desertDwellers.addAll(desertAnimalStr);
+    highAltitudeSpecies.addAll(highAltitudeAnimalStr);
+    extinctAnimals.addAll(extinctAnimalStr);
     notifyListeners();
   }
 }
@@ -606,6 +627,84 @@ List<AnimalScanData> parseAnimalScanDataList(String jsonStr) {
       isHistory: false,
       isFavorite: false,
       animalActionType: AnimalActionType.explore, // từ actionType, bạn có thể map enum khác nếu cần
+      animalInfo: AnimalInfo(
+        commonName: info['CommonName'],
+        scientificName: info['ScientificName'],
+        otherNames: List<String>.from(info['OtherNames'] ?? []),
+        classification: Classification(
+          kingdom: info['Classification']?['Kingdom'],
+          phylum: info['Classification']?['Phylum'],
+          clazz: info['Classification']?['Class'],
+          order: info['Classification']?['Order'],
+          family: info['Classification']?['Family'],
+          genus: info['Classification']?['Genus'],
+          species: info['Classification']?['Species'],
+        ),
+        habitat: Habitat(
+          environment: info['Habitat']?['Environment'],
+          distribution: info['Habitat']?['Distribution'],
+          countries: List<String>.from(info['Habitat']?['Countries'] ?? []),
+        ),
+        physicalTraits: PhysicalTraits(
+          size: info['PhysicalTraits']?['Size'],
+          weight: info['PhysicalTraits']?['Weight'],
+          color: info['PhysicalTraits']?['Color'],
+          lifespan: info['PhysicalTraits']?['Lifespan'],
+          specialTraits: List<String>.from(info['PhysicalTraits']?['SpecialTraits'] ?? []),
+        ),
+        diet: Diet(
+          type: info['Diet']?['Type'],
+          foods: List<String>.from(info['Diet']?['Foods'] ?? []),
+        ),
+        behavior: Behavior(
+          activityTime: info['Behavior']?['ActivityTime'],
+          socialType: info['Behavior']?['SocialType'],
+          intelligenceLevel: info['Behavior']?['IntelligenceLevel'],
+          communication: info['Behavior']?['Communication'],
+        ),
+        reproduction: Reproduction(
+          maturityAge: info['Reproduction']?['MaturityAge'],
+          gestationPeriod: info['Reproduction']?['GestationPeriod'],
+          offspringPerBirth: info['Reproduction']?['OffspringPerBirth'],
+          reproductionCycle: info['Reproduction']?['ReproductionCycle'],
+        ),
+        conservationStatus: ConservationStatus(
+          iUCNStatus: info['ConservationStatus']?['IUCNStatus'],
+          populationTrend: info['ConservationStatus']?['PopulationTrend'],
+          threats: List<String>.from(info['ConservationStatus']?['Threats'] ?? []),
+        ),
+        humanInteraction: HumanInteraction(
+          dangerLevel: info['HumanInteraction']?['DangerLevel'],
+          petFriendly: info['HumanInteraction']?['PetFriendly'] ?? false,
+          legalStatus: info['HumanInteraction']?['LegalStatus'],
+          notes: info['HumanInteraction']?['Notes'],
+        ),
+        funFacts: List<String>.from(info['FunFacts'] ?? []),
+      ),
+    );
+  });
+}
+
+List<AnimalScanData> parseAnimalScanDataListFromInfoJson(String jsonStr) {
+  final List<dynamic> data = jsonDecode(jsonStr);
+
+  return List<AnimalScanData>.generate(data.length, (index) {
+    final info = data[index];
+
+    // Tạo imageHome từ CommonName
+    String commonName = (info['CommonName'] ?? '').toString();
+    String imageHome = "img_${commonName.toLowerCase()
+        .replaceAll(' ', '_')
+        .replaceAll('-', '_')}.jpg";
+
+    return AnimalScanData(
+      id: index,
+      imageHome: imageHome,
+      imagePath: null,
+      dateTime: '',
+      isHistory: false,
+      isFavorite: false,
+      animalActionType: AnimalActionType.explore, // mặc định explore
       animalInfo: AnimalInfo(
         commonName: info['CommonName'],
         scientificName: info['ScientificName'],
