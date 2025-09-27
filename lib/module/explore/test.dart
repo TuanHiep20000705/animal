@@ -10,6 +10,7 @@ import '../../api/model/animal_scan_data.dart';
 import '../../api/model/behavior.dart';
 import '../../api/model/classification.dart';
 import '../../api/model/conservation_status.dart';
+import '../../api/model/database_helper.dart';
 import '../../api/model/diet.dart';
 import '../../api/model/habitat.dart';
 import '../../api/model/human_interaction.dart';
@@ -153,6 +154,7 @@ class ExploreScreen2 extends StatelessWidget {
 
     return BBSBaseScaffold<ExploreController2>(
       controller: exploreController2,
+      backgroundColor: AppColors.white,
       initState: (controller) async {
         await controller.initData();
       },
@@ -245,11 +247,11 @@ class ExploreScreen2 extends StatelessWidget {
                       ),
                     ),
 
-                    const SizedBox(height: 20),
+                    const SizedBox(height: 16),
 
                     // Rarest Animals (horizontal list)
                     sectionTitle('Rarest Animals on Earth'),
-                    const SizedBox(height: 8),
+                    const SizedBox(height: 4),
                     SizedBox(
                       height: 200,
                       child: ListView.separated(
@@ -260,17 +262,17 @@ class ExploreScreen2 extends StatelessWidget {
                           final item = controller.rarestAnimalsOnEarth[index];
                           return WideAnimalCard(
                             animalScanData: item,
-                            width: 300,
+                            width: 231,
                           );
                         },
                       ),
                     ),
 
-                    const SizedBox(height: 20),
+                    const SizedBox(height: 16),
 
                     // World's Largest Creatures (horizontal list)
                     sectionTitle('World’s Largest Creatures'),
-                    const SizedBox(height: 8),
+                    const SizedBox(height: 4),
                     SizedBox(
                       height: 200,
                       child: ListView.separated(
@@ -281,17 +283,17 @@ class ExploreScreen2 extends StatelessWidget {
                           final item = controller.worldLargestCreatures[index];
                           return WideAnimalCard(
                             animalScanData: item,
-                            width: 300,
+                            width: 231,
                           );
                         },
                       ),
                     ),
 
-                    const SizedBox(height: 20),
+                    const SizedBox(height: 16),
 
                     // World's Largest Creatures (horizontal list)
                     sectionTitle('Fastest Animals Alive'),
-                    const SizedBox(height: 8),
+                    const SizedBox(height: 4),
                     SizedBox(
                       height: 200,
                       child: ListView.separated(
@@ -302,17 +304,17 @@ class ExploreScreen2 extends StatelessWidget {
                           final item = controller.fastestAnimalAlive[index];
                           return WideAnimalCard(
                             animalScanData: item,
-                            width: 300,
+                            width: 231,
                           );
                         },
                       ),
                     ),
 
-                    const SizedBox(height: 20),
+                    const SizedBox(height: 16),
 
                     // World's Largest Creatures (horizontal list)
                     sectionTitle('The Smartest Species'),
-                    const SizedBox(height: 8),
+                    const SizedBox(height: 4),
                     SizedBox(
                       height: 200,
                       child: ListView.separated(
@@ -323,17 +325,17 @@ class ExploreScreen2 extends StatelessWidget {
                           final item = controller.smartestSpecies[index];
                           return WideAnimalCard(
                             animalScanData: item,
-                            width: 300,
+                            width: 231,
                           );
                         },
                       ),
                     ),
 
-                    const SizedBox(height: 20),
+                    const SizedBox(height: 16),
 
                     // World's Largest Creatures (horizontal list)
                     sectionTitle('Most Dangerous Animals'),
-                    const SizedBox(height: 8),
+                    const SizedBox(height: 4),
                     SizedBox(
                       height: 200,
                       child: ListView.separated(
@@ -344,21 +346,21 @@ class ExploreScreen2 extends StatelessWidget {
                           final item = controller.mostDangerousAnimals[index];
                           return WideAnimalCard(
                             animalScanData: item,
-                            width: 300,
+                            width: 231,
                           );
                         },
                       ),
                     ),
 
-                    const SizedBox(height: 20),
+                    const SizedBox(height: 16),
 
                     // Underwater Creatures as horizontal grid with 2 rows
                     sectionTitle('Underwater Creatures'),
-                    const SizedBox(height: 8),
+                    const SizedBox(height: 4),
 
                     // Height should be enough to fit 2 rows of cards
                     SizedBox(
-                      height: 530,
+                      height: 450,
                       child: GridView.builder(
                         scrollDirection: Axis.horizontal,
                         itemCount: controller.underwaterCreatures.length,
@@ -368,7 +370,7 @@ class ExploreScreen2 extends StatelessWidget {
                           crossAxisCount: 2, // 2 rows
                           mainAxisSpacing: 12,
                           crossAxisSpacing: 12,
-                          childAspectRatio: 1.6, // width / height of each tile
+                          childAspectRatio: 1.75, // width / height of each tile
                         ),
                         itemBuilder: (context, index) {
                           final item = controller.underwaterCreatures[index];
@@ -379,15 +381,15 @@ class ExploreScreen2 extends StatelessWidget {
                       ),
                     ),
 
-                    const SizedBox(height: 24),
+                    const SizedBox(height: 16),
 
                     // Underwater Creatures as horizontal grid with 2 rows
                     sectionTitle('Forest Inhabitants'),
-                    const SizedBox(height: 8),
+                    const SizedBox(height: 4),
 
                     // Height should be enough to fit 2 rows of cards
                     SizedBox(
-                      height: 530,
+                      height: 450,
                       child: GridView.builder(
                         scrollDirection: Axis.horizontal,
                         itemCount: controller.forestInhabitants.length,
@@ -397,7 +399,7 @@ class ExploreScreen2 extends StatelessWidget {
                           crossAxisCount: 2, // 2 rows
                           mainAxisSpacing: 12,
                           crossAxisSpacing: 12,
-                          childAspectRatio: 1.6, // width / height of each tile
+                          childAspectRatio: 1.75, // width / height of each tile
                         ),
                         itemBuilder: (context, index) {
                           final item = controller.forestInhabitants[index];
@@ -408,15 +410,15 @@ class ExploreScreen2 extends StatelessWidget {
                       ),
                     ),
 
-                    const SizedBox(height: 24),
+                    const SizedBox(height: 16),
 
                     // Underwater Creatures as horizontal grid with 2 rows
                     sectionTitle('Arctic Wildlife'),
-                    const SizedBox(height: 8),
+                    const SizedBox(height: 4),
 
                     // Height should be enough to fit 2 rows of cards
                     SizedBox(
-                      height: 530,
+                      height: 450,
                       child: GridView.builder(
                         scrollDirection: Axis.horizontal,
                         itemCount: controller.arcticWildlife.length,
@@ -426,7 +428,7 @@ class ExploreScreen2 extends StatelessWidget {
                           crossAxisCount: 2, // 2 rows
                           mainAxisSpacing: 12,
                           crossAxisSpacing: 12,
-                          childAspectRatio: 1.6, // width / height of each tile
+                          childAspectRatio: 1.75, // width / height of each tile
                         ),
                         itemBuilder: (context, index) {
                           final item = controller.arcticWildlife[index];
@@ -437,15 +439,15 @@ class ExploreScreen2 extends StatelessWidget {
                       ),
                     ),
 
-                    const SizedBox(height: 24),
+                    const SizedBox(height: 16),
 
                     // Underwater Creatures as horizontal grid with 2 rows
                     sectionTitle('Desert Dwellers'),
-                    const SizedBox(height: 8),
+                    const SizedBox(height: 4),
 
                     // Height should be enough to fit 2 rows of cards
                     SizedBox(
-                      height: 530,
+                      height: 450,
                       child: GridView.builder(
                         scrollDirection: Axis.horizontal,
                         itemCount: controller.desertDwellers.length,
@@ -455,7 +457,7 @@ class ExploreScreen2 extends StatelessWidget {
                           crossAxisCount: 2, // 2 rows
                           mainAxisSpacing: 12,
                           crossAxisSpacing: 12,
-                          childAspectRatio: 1.6, // width / height of each tile
+                          childAspectRatio: 1.75, // width / height of each tile
                         ),
                         itemBuilder: (context, index) {
                           final item = controller.desertDwellers[index];
@@ -466,15 +468,15 @@ class ExploreScreen2 extends StatelessWidget {
                       ),
                     ),
 
-                    const SizedBox(height: 24),
+                    const SizedBox(height: 16),
 
                     // Underwater Creatures as horizontal grid with 2 rows
                     sectionTitle('High-Altitude Species'),
-                    const SizedBox(height: 8),
+                    const SizedBox(height: 4),
 
                     // Height should be enough to fit 2 rows of cards
                     SizedBox(
-                      height: 530,
+                      height: 450,
                       child: GridView.builder(
                         scrollDirection: Axis.horizontal,
                         itemCount: controller.highAltitudeSpecies.length,
@@ -484,7 +486,7 @@ class ExploreScreen2 extends StatelessWidget {
                           crossAxisCount: 2, // 2 rows
                           mainAxisSpacing: 12,
                           crossAxisSpacing: 12,
-                          childAspectRatio: 1.6, // width / height of each tile
+                          childAspectRatio: 1.75, // width / height of each tile
                         ),
                         itemBuilder: (context, index) {
                           final item = controller.highAltitudeSpecies[index];
@@ -495,15 +497,15 @@ class ExploreScreen2 extends StatelessWidget {
                       ),
                     ),
 
-                    const SizedBox(height: 24),
+                    const SizedBox(height: 16),
 
                     // Underwater Creatures as horizontal grid with 2 rows
                     sectionTitle('Extinct Animals'),
-                    const SizedBox(height: 8),
+                    const SizedBox(height: 4),
 
                     // Height should be enough to fit 2 rows of cards
                     SizedBox(
-                      height: 530,
+                      height: 450,
                       child: GridView.builder(
                         scrollDirection: Axis.horizontal,
                         itemCount: controller.extinctAnimals.length,
@@ -513,7 +515,7 @@ class ExploreScreen2 extends StatelessWidget {
                           crossAxisCount: 2, // 2 rows
                           mainAxisSpacing: 12,
                           crossAxisSpacing: 12,
-                          childAspectRatio: 1.6, // width / height of each tile
+                          childAspectRatio: 1.75, // width / height of each tile
                         ),
                         itemBuilder: (context, index) {
                           final item = controller.extinctAnimals[index];
@@ -524,7 +526,7 @@ class ExploreScreen2 extends StatelessWidget {
                       ),
                     ),
 
-                    const SizedBox(height: 24),
+                    const SizedBox(height: 16),
                   ],
                 ),
               ),
@@ -538,8 +540,11 @@ class ExploreScreen2 extends StatelessWidget {
   Widget sectionTitle(String text) {
     return Padding(
       padding: const EdgeInsets.only(top: 8.0, bottom: 4),
-      child: Text(text,
-          style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
+      child: BBSText(
+        content: text,
+        fontSize: 16,
+        color: Colors.black,
+        fontFamily: 'dmsans_bold',),
     );
   }
 }
@@ -606,7 +611,7 @@ class ExploreController2 extends BBSBaseController {
     extinctAnimals.addAll(extinctAnimalStr);
 
 
-    // final animal = AnimalScanData(imageHome: Constants.imgAmurLeopard, imagePath: null, animalInfo: AnimalInfo(commonName: 'Amur Leopard', scientificName: 'Panthera pardus orientalis', otherNames: ['Far Eastern Leopard', 'Manchurian Leopard'], classification: Classification(kingdom: 'Animalia', phylum: 'Chordata', clazz: 'Mammalia', order: 'Carnivora', family: 'Felidae', genus: 'Panthera', species: 'pardus orientalis'), habitat: Habitat(environment: 'Temperate forests', distribution: 'Russian Far East and Northeast China', countries: ['Russia', 'China']), physicalTraits: PhysicalTraits(size: '90–110 cm', weight: '32–48 kg', color: 'Cream with black rosettes', lifespan: '10–15 years', specialTraits: ['Thick fur', 'Excellent climber']), diet: Diet(type: 'Carnivore', foods: ['Deer', 'Hares', 'Wild boar']), behavior: Behavior(activityTime: 'Nocturnal', socialType: 'Solitary', intelligenceLevel: 'High', communication: 'Vocal and scent markings'), reproduction: Reproduction(maturityAge: '2–3 years', gestationPeriod: '90–105 days', offspringPerBirth: '1–4', reproductionCycle: 'Biennial'), conservationStatus: ConservationStatus(iUCNStatus: 'Critically Endangered', populationTrend: 'Decreasing', threats: ['Poaching', 'Habitat loss', 'Inbreeding']), humanInteraction: HumanInteraction(dangerLevel: 'Low', petFriendly: false, legalStatus: 'Protected', notes: 'Extremely rare and shy'), funFacts: ['Can leap over 10 feet vertically', 'Less than 100 individuals remain']), dateTime: '2025-09-24', animalActionType: AnimalActionType.explore, isHistory: false, isFavorite: false);
+    // final animal = AnimalScanData(imageHome: 'assets/images/img_amur_leopard.jpg', imagePath: null, animalInfo: AnimalInfo(commonName: 'Amur Leopard', scientificName: 'Panthera pardus orientalis', otherNames: ['Far Eastern Leopard', 'Manchurian Leopard'], classification: Classification(kingdom: 'Animalia', phylum: 'Chordata', clazz: 'Mammalia', order: 'Carnivora', family: 'Felidae', genus: 'Panthera', species: 'pardus orientalis'), habitat: Habitat(environment: 'Temperate forests', distribution: 'Russian Far East and Northeast China', countries: ['Russia', 'China']), physicalTraits: PhysicalTraits(size: '90–110 cm', weight: '32–48 kg', color: 'Cream with black rosettes', lifespan: '10–15 years', specialTraits: ['Thick fur', 'Excellent climber']), diet: Diet(type: 'Carnivore', foods: ['Deer', 'Hares', 'Wild boar']), behavior: Behavior(activityTime: 'Nocturnal', socialType: 'Solitary', intelligenceLevel: 'High', communication: 'Vocal and scent markings'), reproduction: Reproduction(maturityAge: '2–3 years', gestationPeriod: '90–105 days', offspringPerBirth: '1–4', reproductionCycle: 'Biennial'), conservationStatus: ConservationStatus(iUCNStatus: 'Critically Endangered', populationTrend: 'Decreasing', threats: ['Poaching', 'Habitat loss', 'Inbreeding']), humanInteraction: HumanInteraction(dangerLevel: 'Low', petFriendly: false, legalStatus: 'Protected', notes: 'Extremely rare and shy'), funFacts: ['Can leap over 10 feet vertically', 'Less than 100 individuals remain']), dateTime: '2025-09-24', animalActionType: AnimalActionType.explore, isHistory: false, isFavorite: false);
     // await DatabaseHelper.instance.create(animal);
 
     final data = await DatabaseHelper.instance.readAllAnimalScanData();
@@ -787,41 +792,45 @@ class WideAnimalCard extends StatelessWidget {
       width: width,
       child: ClipRRect(
         borderRadius: BorderRadius.circular(16),
-        child: Material(
-          color: Colors.white,
-          elevation: 0,
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.stretch,
-            children: [
-              // Image area
-              Expanded(
-                child: Container(
-                  color: Colors.grey.shade200,
+        child: Container(
+          decoration: BoxDecoration(
+            border: Border.all(color: Colors.grey.shade200, width: 1.2),
+          ),
+          child: Material(
+            color: Colors.white,
+            elevation: 0,
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.stretch,
+              children: [
+                // Image area
+                Expanded(
                   child: BBSImage(
                     animalScanData.imageHome,
+                    radius: 0,
                     fit: BoxFit.cover,
                     onTap: () { },
                   ),
                 ),
-              ),
 
-              // label area
-              Container(
-                height: 56,
-                alignment: Alignment.center,
-                decoration: BoxDecoration(
-                  color: Colors.white,
-                  border: Border(
-                    top: BorderSide(color: Colors.grey.shade200, width: 1.2),
+                // label area
+                Container(
+                  height: 34,
+                  alignment: Alignment.center,
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border(
+                      top: BorderSide(color: Colors.grey.shade200, width: 1.2),
+                    ),
                   ),
+                  child: BBSText(
+                    content: animalScanData.animalInfo.commonName,
+                    textAlign: TextAlign.center,
+                    color: Colors.black,
+                    fontSize: 14,
+                    fontFamily: 'lato_bold',),
                 ),
-                child: BBSText(
-                  content: animalScanData.animalInfo.commonName,
-                  textAlign: TextAlign.center,
-                  fontSize: 16,
-                  fontWeight: FontWeight.w700,),
-              ),
-            ],
+              ],
+            ),
           ),
         ),
       ),
@@ -848,7 +857,7 @@ class TallAnimalCard extends StatelessWidget {
             borderRadius: BorderRadius.circular(14),
             child: BBSImage(
               animalScanData.imageHome,
-              width: double.infinity,
+              width: 85,
               fit: BoxFit.cover,
             ),
           ),
@@ -856,9 +865,10 @@ class TallAnimalCard extends StatelessWidget {
         BBSText(
           content: animalScanData.animalInfo.commonName,
           textAlign: TextAlign.left,
-          margin: const EdgeInsets.symmetric(vertical: 10.0, horizontal: 6),
-          fontSize: 15,
-          fontWeight: FontWeight.w700,),
+          margin: const EdgeInsets.only(top: 8.0),
+          fontSize: 12,
+          color: Colors.black,
+          fontFamily: 'lato_bold',),
       ],
     );
   }

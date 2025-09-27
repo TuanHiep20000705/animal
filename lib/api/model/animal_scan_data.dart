@@ -1,6 +1,5 @@
 import 'dart:convert';
-
-import 'package:flutter_blue_plus_example/model/animal_info.dart';
+import 'animal_info.dart';
 
 class AnimalScanData {
   final int? id;
